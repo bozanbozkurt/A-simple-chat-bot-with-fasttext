@@ -1,6 +1,6 @@
 # A-simple-chat-bot-with-fasttext
 
-Bots are essential for modern chat services. Text classification is the main tool for giving automated answers or answer suggestions. The big problem with text classification are languages. Luckily with fasttext we can create bots for every language. Here is a simple training and answering tool that works with every common language since fasttext is character based.
+Bots are essential for modern chat services. Text classification is the main tool for giving automated answers or answer suggestions. The big problem with text classification are answeing multiple languages with the same system. Luckily with fasttext we can create bots for every language. Here is a simple training and answering tool that works with every common language since fasttext is character based.
 
 ## Getting Started
 
@@ -32,29 +32,54 @@ http://localhost/demo
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+## Test
 
-Explain how to run the automated tests for this system
+In order to test the system, we first need to train our model with some data. 
 
-### Break down into end to end tests
+### Train
 
-Explain what these tests test and why
+Copy the text on [sampleTurkish.json](sampleTurkish.md) and paste it on the FAQ area. 
+Enter 2000 as epoch and 20 as word vector size. 
+Hit the train button. 
+You will see "training completed" in a while. 
+
+### Query
+
+Now you can test your bot. 
+Enter a query and click on test. 
+Server should respond with a json as below. 
 
 ```
-Give an example
+[{
+"predName":"__label__QnA0",
+"score":0.9986332654953003,
+"className":"1101xxxxxxbexx1"
+},
+{
+"predName":"__label__QnA46",
+"score":0.00092932244297117,
+"className":"NotFound",
+"classActual":"1101xxxxxxbexx6"
+},
+{
+"predName":"__label__QnA3",
+"score":0.0002752315194811672,
+"className":"NotFound",
+"classActual":"1101xxxxxxbexx4"
+}]
 ```
 
-### And coding style tests
+If you look at the responses above, you will see the best result first. The classnames come from the sample data. 
 
-Explain what these tests test and why
+## Important Notes
 
-```
-Give an example
-```
+Fasttext performs better with an extra NotFound class, having a huge number of arbitrary sentences. 
+If a class has less than 0.45 accurracy, we  accept it as ununderstood and the program returns NotFound className. 
+Threshold parameter can be updated in the code. 
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Fasttext supports Ubuntu, we recommend using it as it is hard to get fasttext running on other systems. 
 
 ## Built With
 
@@ -72,9 +97,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **B Ozan Bozkurt** - *Initial work* - [bozanbozkurt](https://github.com/bozanbozkurt)
 
 ## License
 
@@ -82,6 +105,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Special thanks to SOR'UN team in creating sample data. 

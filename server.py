@@ -4,8 +4,7 @@ from __future__ import print_function
 # Imports
 import fasttext
 import flask
-from flask import request
-from flask import jsonify
+from flask import Flask, request, jsonify, send_from_directory, render_template
 import json 
 import requests
 import random
@@ -90,7 +89,7 @@ def bathAsk():
    
 @app.route('/demo/example',methods=['GET'])
 def example():
-    return app.send_static_file('sample.json')
+    return  open("sampleTurkish.json").read()
 
 @app.route('/demo',methods=['POST','GET'])
 def demo():
