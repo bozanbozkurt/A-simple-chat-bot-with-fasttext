@@ -90,16 +90,7 @@ def bathAsk():
    
 @app.route('/demo/example',methods=['GET'])
 def example():
-    return '''
-        [{
-            "questions": ["hello", "Hi", "namaste"],
-            "answers": ["hey", "hi"]
-        }, 
-        {
-            "questions": ["how do you do", "How are you"],
-            "answers": ["I' m good ", "Feeling great!"]
-        }]
-    '''
+    return app.send_static_file('sample.json')
 
 @app.route('/demo',methods=['POST','GET'])
 def demo():
