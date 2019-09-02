@@ -38,7 +38,7 @@ In order to test the system, we first need to train our model with some data.
 
 ### Train
 
-Copy the text on [sampleTurkish.json](sampleTurkish.md) and paste it on the FAQ area. 
+Copy the text on [sampleTurkish.json](sampleTurkish.json) and paste it on the FAQ area. 
 Enter 2000 as epoch and 20 as word vector size. 
 Hit the train button. 
 You will see "training completed" in a while. 
