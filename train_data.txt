@@ -1,0 +1,4050 @@
+__label__QnA0 nasılsın
+__label__QnA0 nsılsın
+__label__QnA0 naslsın
+__label__QnA0 nsılsın
+__label__QnA0 nasılsn
+__label__QnA0 naber
+__label__QnA0 nbr
+__label__QnA0 nabersin
+__label__QnA0 nbrsin
+__label__QnA0 nasılsınız
+__label__QnA0 keyifler nasıl
+__label__QnA0 ne durumdasın
+__label__QnA0 keyifler iyi mi
+__label__QnA0 keyifler iyimi
+__label__QnA0 nasıl gidiyor
+__label__QnA0 nasıl gidiyo
+__label__QnA0 nası gidiyo
+__label__QnA0 nası gidiyor
+__label__QnA0 iyi misin
+__label__QnA0 iyimisin
+__label__QnA0 bugün nasılsın
+__label__QnA0 nasıl gidiyor
+__label__QnA0 keyfin nasıl
+__label__QnA0 keyifler nasıl
+__label__QnA0 kendini iyi hissediyor musun
+__label__QnA0 kendini nasıl hissediyorsun
+__label__QnA0 hasta mısın
+__label__QnA0 aç mısın
+__label__QnA0 yorgun musun
+__label__QnA0 moralin nasıl
+__label__QnA0 ne haber
+__label__QnA0 canın sıkılmıyor mu
+__label__QnA0 mutlu musun
+__label__QnA0 nasılsınız
+__label__QnA0 moraller iyi mi
+__label__QnA0 moraller iyimi
+__label__QnA0 nassın
+__label__QnA0 nsılsın
+__label__QnA0 nnasılsın
+__label__QnA0 naasılsın
+__label__QnA0 nassılsın
+__label__QnA0 nasıılsın
+__label__QnA0 nasıllsın
+__label__QnA0 nasılssın
+__label__QnA0 nasılsıın
+__label__QnA0 nasılsınn
+__label__QnA0 eyi misin
+__label__QnA0 ıyı mısın
+__label__QnA0 iyi mısın
+__label__QnA0 nasıl gidiy
+__label__QnA0 nasıl gidiy
+__label__QnA0 nasılsın bugün
+__label__QnA0 nasılsın bugun
+__label__QnA0 bgun iyi misin
+__label__QnA0 bugun iyi misin
+__label__QnA0 bugun ıyı mısın
+__label__QnA1 sen hayal kuruyor musun
+__label__QnA1 hayal kurar mısın
+__label__QnA1 hayallerin var mı
+__label__QnA1 hayal kurabiliyor musun
+__label__QnA1 hayal eder misin
+__label__QnA1 hayal edermisin
+__label__QnA1 hayalin var mı
+__label__QnA1 hayallerin varmı
+__label__QnA1 hayalin varmı
+__label__QnA1 hayal kurmakta mısın
+__label__QnA1 günlük hayatta hayal kurar mısın
+__label__QnA1 hayalin ne
+__label__QnA1 hayallerin neler
+__label__QnA1 kurduğun hayaller var mı
+__label__QnA1 kurduğun hayaller varmı
+__label__QnA1 hayallerin var mı
+__label__QnA1 hayalinne
+__label__QnA1 en büyük hayalin ne
+__label__QnA1 ne ile ilgili hayal kurarsın
+__label__QnA1 neyle ilgili hayal kurarsın
+__label__QnA1 hayallerin ne ile ilgili
+__label__QnA1 hayallerin neyle ilgili
+__label__QnA1 bir hayalin var mı
+__label__QnA1 bi hayalin var mı
+__label__QnA1 bi hayalin varmı
+__label__QnA1 peki hayalini sorsam
+__label__QnA1 hayalinden bahseder misin
+__label__QnA1 hayalin varsa bahsetsene
+__label__QnA1 hayalinden bahsetsene
+__label__QnA1 hayallerinden bahsetsene bana
+__label__QnA1 en büyük hayalin ne
+__label__QnA1 en çok istediğin şey ne
+__label__QnA1 hayatta en çok istediğin şey ne
+__label__QnA1 en çok hayalini kurduğun şey ne
+__label__QnA1 hayatta en çok istediğin şey?
+__label__QnA1 bana hayallerini soyle
+__label__QnA1 bana hayallerini söyle
+__label__QnA1 bana hayallerinden bahset
+__label__QnA1 hayallerinden nbahset
+__label__QnA1 hayallerinden bahset
+__label__QnA1 hayallerini anlat
+__label__QnA1 hayalerini anlat
+__label__QnA1 hayallerinii anlat
+__label__QnA1 hayaallerini anlat
+__label__QnA1 haayallerini anlat
+__label__QnA2 sen robotsun
+__label__QnA2 sen robot musun
+__label__QnA2 robot gibi konuşma
+__label__QnA2 ne kadar robot gibi konuşuyorsun
+__label__QnA2 sen insan değilsin
+__label__QnA2 robotlarla konuşmayı sevmiyorum
+__label__QnA2 sen robotsun bana insan bağla
+__label__QnA2 ben insanla konuşucam sanmıştım
+__label__QnA2 insanla konuşacağım sandım
+__label__QnA2 robot robot konuşuyorsun
+__label__QnA2 robot değil misin sen ne anlarsın
+__label__QnA2 robot değilmisin beni anlayamazsın
+__label__QnA2 seni robot seni
+__label__QnA2 bot musun
+__label__QnA2 botla mı konuşuyorum
+__label__QnA2 sen robootsun
+__label__QnA2 ssen robotsun
+__label__QnA2 seen robotsun
+__label__QnA2 sn robotsun
+__label__QnA2 sn robotsn
+__label__QnA2 sen rbotsun
+__label__QnA2 sen robottsun
+__label__QnA2 sen robotssun
+__label__QnA2 sen robotsuun
+__label__QnA2 sen robotsunn
+__label__QnA2 robot gbi konuşma
+__label__QnA2 rbot gibi konuşma
+__label__QnA2 robot gibi knuşma
+__label__QnA2 robot gibi konşma
+__label__QnA2 sen insan olamazsın
+__label__QnA2 sn insan olamazsın
+__label__QnA2 sen insn olmazsın
+__label__QnA2 ssen insan olamazsın
+__label__QnA2 sen insna olamazsın
+__label__QnA3 nerede doğdun
+__label__QnA3 nerde doğdun
+__label__QnA3 doğum yerin neresi
+__label__QnA3 doğum yerin?
+__label__QnA3 doğum yerini biliyor musun
+__label__QnA3 nerede doğduğunu biliyormusun
+__label__QnA3 doğum yerin var mı
+__label__QnA3 doğduğun bi yer var mı
+__label__QnA3 sen nerede doğdun
+__label__QnA3 hangi ilde doğdun
+__label__QnA3 hangi ilçede doğdun
+__label__QnA3 istanbulun neresinde doğdun
+__label__QnA3 doğum yerin istanbulun neresi
+__label__QnA3 doğum yerin istanbul mu
+__label__QnA3 nerede doğduğunu biliyor musun
+__label__QnA3 nerede doğduğunu biliyo musun
+__label__QnA3 nerede doğduğunu biliyomusun
+__label__QnA3 nerede dünyaya geldin
+__label__QnA3 nerde dünyaya geldin
+__label__QnA3 nrede dünyaya geldin
+__label__QnA3 nerede dünyaya geldi
+__label__QnA3 erede dünyaya geldin
+__label__QnA3 dünyaya nerde geldin
+__label__QnA3 dünyaya nrede geldin
+__label__QnA3 hangi ilde dünyaya geldin
+__label__QnA3 hangi ilçede dünyaya geldin
+__label__QnA3 doğum yerini söyle
+__label__QnA3 dogum yerini soyle
+__label__QnA3 doğum yrni söyle
+__label__QnA3 doğduğun yeri söyle
+__label__QnA3 dogdugun yeri soyle
+__label__QnA3 doğduğuun yeri söyle
+__label__QnA3 doğduğun yeri söyl
+__label__QnA3 sn nerde doğdun
+__label__QnA3 sn nrd doğdun
+__label__QnA3 sn nrde doğdun
+__label__QnA3 sen nrde doğdun
+__label__QnA3 sn nrde doğdn
+__label__QnA3 memleket nere
+__label__QnA3 memleketin neresi
+__label__QnA3 memleketin var mı
+__label__QnA3 bir memleketin var mı senin
+__label__QnA3 bi memleketin var mı senin
+__label__QnA3 memleket?
+__label__QnA3 memleketin?
+__label__QnA3 mmemleket nere
+__label__QnA3 meemleket nere
+__label__QnA3 memmleket nere
+__label__QnA3 memlleket nere
+__label__QnA3 memleeket nere
+__label__QnA3 memlekket nere
+__label__QnA3 memlekeet nere
+__label__QnA3 memlekett nere
+__label__QnA3 mmleket nere
+__label__QnA3 mmleket neresi
+__label__QnA3 memlket nere
+__label__QnA3 memlket neresi
+__label__QnA3 peki memleketin?
+__label__QnA3 peki memleket?
+__label__QnA4 okuyon mu
+__label__QnA4 okula gidiyor musun
+__label__QnA4 okullu musun
+__label__QnA4 okula gidiyormusun
+__label__QnA4 okula gidiyo musun
+__label__QnA4 okula gidiyomusun
+__label__QnA4 okul var mı
+__label__QnA4 okul varmı
+__label__QnA4 okuyor musun
+__label__QnA4 okuyo musun
+__label__QnA4 bir eğitim alıyor musun
+__label__QnA4 bir eğitim alıyormusun
+__label__QnA4 bi eğitim alıyor musun
+__label__QnA4 bi eğitim alıyormusun
+__label__QnA4 bi eğitim alıyo musun
+__label__QnA4 bi eğitim alıyomusun
+__label__QnA4 bir egitim aliyor musun
+__label__QnA4 bir egitim aliyormusun
+__label__QnA4 egiitm aliyor musun
+__label__QnA4 egitim aliyormusun
+__label__QnA4 eğitim alıyor musun
+__label__QnA4 eğitim alıyormusun
+__label__QnA4 okul var mi
+__label__QnA4 okul varmi
+__label__QnA4 okuyor musun
+__label__QnA4 okuyor msn
+__label__QnA4 okuyor musn
+__label__QnA4 okuyor msun
+__label__QnA4 okyor musun
+__label__QnA4 okyor musn
+__label__QnA4 okuyormusun
+__label__QnA4 okuyor musun?
+__label__QnA4 okla gidiyor musun
+__label__QnA4 okla gidyr msn
+__label__QnA4 okla gidyrmsn
+__label__QnA5 ailen var mı
+__label__QnA5 ailen varmı
+__label__QnA5 annen var mı
+__label__QnA5 aileye sahip misin
+__label__QnA5 bir ailen var mı
+__label__QnA5 bi ailen var mı
+__label__QnA5 bi ailen varmı
+__label__QnA5 kardeşin varmı
+__label__QnA5 kardesin var mi
+__label__QnA5 kardesin varmi
+__label__QnA5 kardeşin var mı
+__label__QnA5 kızkardeşin var mı
+__label__QnA5 kardeşlerin var mı
+__label__QnA5 kardeşe sahip misin
+__label__QnA5 kız kardesin varmi
+__label__QnA5 kiz kardesin var mi
+__label__QnA5 kız kardeşin varmı
+__label__QnA5 aban var mı
+__label__QnA5 ablan var mı
+__label__QnA5 anne baban var mı
+__label__QnA5 çekirdek ailen var mı
+__label__QnA5 anan baban var mı
+__label__QnA5 ablan var mı
+__label__QnA5 ablaya sahip misin
+__label__QnA5 abin var mı
+__label__QnA5 yeğen var mı
+__label__QnA5 yeğenin var mı
+__label__QnA5 yegen var mı
+__label__QnA5 kuzenin var mı
+__label__QnA5 kuzen var mı
+__label__QnA5 ağbin var mı
+__label__QnA5 çocuğun var mı
+__label__QnA5 cocuk var mı
+__label__QnA5 çocuk var mı
+__label__QnA5 teyzen var mı
+__label__QnA5 teyzen var mi
+__label__QnA5 halan var mı
+__label__QnA5 annen baban yok mu
+__label__QnA5 anan baban yok mu
+__label__QnA5 annen baban yokmu
+__label__QnA5 anan baban yokmu
+__label__QnA5 bir abiye sahip misin
+__label__QnA5 bir abiye sahipmisin
+__label__QnA5 bi abiye sahip misin
+__label__QnA5 bi abiye sahipmisin
+__label__QnA5 bir ailen var mı
+__label__QnA5 senin bir ailen var mı
+__label__QnA5 bir ailen varmı
+__label__QnA5 senin bir ailen varmı
+__label__QnA5 senin bir ailen var mi
+__label__QnA5 senin bir ailen varmi
+__label__QnA5 bi ailen varmi
+__label__QnA5 bi ailen var mi
+__label__QnA5 bir ailen var mi
+__label__QnA5 bir ailen varmi
+__label__QnA5 teyze var mı
+__label__QnA5 teyze varmı
+__label__QnA5 teyze varmi
+__label__QnA5 bir aileye üye misin
+__label__QnA5 bir aileye üyemisin
+__label__QnA5 bi aileye üye misin
+__label__QnA5 bi aileye üyemisin
+__label__QnA5 bir aileye üye misin?
+__label__QnA5 bir aileye üyemisin?
+__label__QnA6 nerede çalışıyorsun
+__label__QnA6 nerde çalışıyorsun
+__label__QnA6 nerde çalışıyosun
+__label__QnA6 çalıştığın yer neresi
+__label__QnA6 iş yerin nerede
+__label__QnA6 iş yerin nerde
+__label__QnA6 işyerin nerde
+__label__QnA6 işyerin nerede
+__label__QnA6 çalıştığın yer nerde
+__label__QnA6 nerede çalışmaktasın
+__label__QnA6 çalışıyorsan nerede
+__label__QnA6 nerede çalışıyosun
+__label__QnA6 çalıştığın yer nerde
+__label__QnA6 çalıştığın yer nerede
+__label__QnA6 çalışma yerin neresi
+__label__QnA6 işin nerde
+__label__QnA6 senin iş yerin nerde
+__label__QnA6 senin iş yerin nerede
+__label__QnA6 çalıştığın yer hangi semtte
+__label__QnA6 calistigin yer hangi semtte
+__label__QnA6 çalıştığın yer hangi ilçede
+__label__QnA6 çalıştığın yer hangi ilde
+__label__QnA6 nnerede çalışıyorsun
+__label__QnA6 neerede çalışıyorsun
+__label__QnA6 nerrede çalışıyorsun
+__label__QnA6 nereede çalışıyorsun
+__label__QnA6 neredde çalışıyorsun
+__label__QnA6 neredee çalışıyorsun
+__label__QnA6 nerede ççalışıyorsun
+__label__QnA6 nerede çaalışıyorsun
+__label__QnA6 nerede çallışıyorsun
+__label__QnA6 nerede çalıışıyorsun
+__label__QnA6 nerede çalışşıyorsun
+__label__QnA6 nerede çalışııyorsun
+__label__QnA6 nerede çalışıyyorsun
+__label__QnA6 nerede çalışıyoorsun
+__label__QnA6 nerede çalışıyorrsun
+__label__QnA6 nerede çalışıyorssun
+__label__QnA6 nerede çalışıyorsuun
+__label__QnA6 nerede çalışıyorsunn
+__label__QnA6 iş yerin hangisi
+__label__QnA6 çalıştığın yeri öğrenebilir miyim
+__label__QnA6 çalıştığın yeri öğrenebilirmiyim
+__label__QnA6 calistigin yeri ogrenebilir miyim
+__label__QnA6 calistigin yeri ogrenebilirmiyim
+__label__QnA7 telefon numaran var mı
+__label__QnA7 telefon numaran varmı
+__label__QnA7 telefon numaranı versene
+__label__QnA7 telefon numaranı verir misin
+__label__QnA7 telefon numaranı verirmisin
+__label__QnA7 telin ne
+__label__QnA7 tel no versene
+__label__QnA7 tel nonu yollar mısın
+__label__QnA7 tel no nu yolla
+__label__QnA7 telefon numaranı gönderir misin
+__label__QnA7 telefon numaranı gönderirmisin konuşuruz
+__label__QnA7 telefon numaran ne
+__label__QnA7 telefon numaran kaç
+__label__QnA7 tel var mı
+__label__QnA7 tel varmı
+__label__QnA7 telin var mı
+__label__QnA7 telin varmı
+__label__QnA7 telefon numaranne
+__label__QnA7 elefon numaranne
+__label__QnA7 elefon numara ne
+__label__QnA7 senin tel no ne
+__label__QnA7 tel no ne
+__label__QnA7 telini soylese
+__label__QnA7 telini soyler misin
+__label__QnA7 telini soylermisin
+__label__QnA7 telini soylermsn
+__label__QnA7 telinne
+__label__QnA7 telefon numaran var mi
+__label__QnA7 telefon numaran varmi
+__label__QnA7 telefon numaran var mıı
+__label__QnA7 telefon numaran var m
+__label__QnA7 telefonun var mı
+__label__QnA7 senin telefonun var mı
+__label__QnA7 telefonun var mı senib
+__label__QnA7 telefonun var mı senin
+__label__QnA7 telefonun varmı senin
+__label__QnA7 elefonun var mı senin
+__label__QnA7 telefonun var mı seni
+__label__QnA8 hobin var mı
+__label__QnA8 hobin varmı
+__label__QnA8 hobilerin neler
+__label__QnA8 hobi olarak neler yaparsın
+__label__QnA8 boş zamanlarında ne yapıyosun
+__label__QnA8 boş zamanlarında neler yapıyorsun
+__label__QnA8 keyif almak için ne yaparsın
+__label__QnA8 boş zamanlarında ne ile uğraşıyorsun
+__label__QnA8 boş zamanlarında neyle uğraşırsın
+__label__QnA8 boş zamanlarında neyle uğraşıyosun
+__label__QnA8 boşken naparsın
+__label__QnA8 boş zamanlarını nasıl değerlendirirsin
+__label__QnA8 keyif aldığın şeyler neler
+__label__QnA8 nelerden keyif alırsın
+__label__QnA8 boşken neler yaparsın
+__label__QnA8 herhangi bir uğraşın var mı
+__label__QnA8 her hangi bir uğraşın var mı
+__label__QnA8 herhangi bir ugrasin var mi
+__label__QnA8 herhngi bir uğraşın var mı
+__label__QnA8 hrhangi b
+__label__QnA8 r uğraşın var mı
+__label__QnA8 hrhangi bir uğraşın var mı
+__label__QnA8 herhang
+__label__QnA8 bir upraşın var mı
+__label__QnA8 herhang bir uğraşın var mı
+__label__QnA8 herhangib ir uğraşın var mı
+__label__QnA8 herhangi b ir uğraşın var mı
+__label__QnA8 herhangi bir uğraşın var m
+__label__QnA8 bir uğraşın var mı
+__label__QnA8 bir ugraisn var mi
+__label__QnA8 bir ugrasin var mi
+__label__QnA8 bi uğraşın var mı
+__label__QnA8 bir uğraşın var mı?
+__label__QnA8 upraştın bir şey var mı
+__label__QnA8 uğraştığın bir şey var mı
+__label__QnA8 uğraştığın bir şey var mı?
+__label__QnA8 uğrştığın bir şey var mı
+__label__QnA8 uğraştığın bi şey var mı
+__label__QnA8 uğraştığın bir şey varmı
+__label__QnA8 uğraştığın bir alan var mı
+__label__QnA8 uğraştığın bir alan var mı
+__label__QnA8 upraştığın bir alan var mı
+__label__QnA8 uğraştığın bir alan varmı
+__label__QnA8 upraştığın bi alan var mı
+__label__QnA8 uğraştığın bi alan var mı
+__label__QnA8 boş zamanlarında ne yaparsın
+__label__QnA8 boş zamanlarında ne ile ilgilenirsin
+__label__QnA8 boş zamanlarında oyalandığın şey nedir
+__label__QnA8 ne ile uğraşmak sana keyif verir
+__label__QnA8 neler ile uğraşmak sana keyif verir
+__label__QnA8 ilgi duyduğun alanlar nelerdir
+__label__QnA8 ilgi dyduğun şeyler nelerdir
+__label__QnA8 ilgi duyduğun şeyler nelerdir
+__label__QnA8 ilgi duyduğun bir alan var ı
+__label__QnA8 ilfi duğduğun bir alan var mı
+__label__QnA8 ilgi duyduğun bir alan var mı
+__label__QnA8 ilgili duyduğun bi alan var mı
+__label__QnA8 ilgi duydugun bir alan var mi
+__label__QnA9 test etmek istiyorum
+__label__QnA9 test yapıcam
+__label__QnA9 test yapıyorum
+__label__QnA9 test yapıyorum sayma
+__label__QnA9 test yapmam lazım
+__label__QnA9 çalışıyor musun test yapıcam
+__label__QnA9 test konuşması
+__label__QnA9 deneme konuşması
+__label__QnA9 deniyorum
+__label__QnA9 deneme yapıyorum
+__label__QnA9 test etmekteyim
+__label__QnA9 deneme yapmaktayım
+__label__QnA9 test yapıyorum dikkate almayın
+__label__QnA9 test yapcam
+__label__QnA9 test deneme
+__label__QnA9 denemek için yazdım
+__label__QnA9 test etmek için yazdım
+__label__QnA9 test için yazdım
+__label__QnA9 deneme için yazdım
+__label__QnA9 test yapiyorum
+__label__QnA9 ttest yapıyorum
+__label__QnA9 teest yapıyorum
+__label__QnA9 tesst yapıyorum
+__label__QnA9 testt yapıyorum
+__label__QnA9 test yyapıyorum
+__label__QnA9 test yaapıyorum
+__label__QnA9 test yappıyorum
+__label__QnA9 test yapııyorum
+__label__QnA9 test yapıyyorum
+__label__QnA9 test yapıyoorum
+__label__QnA9 test yapıyorrum
+__label__QnA9 test yapıyoruum
+__label__QnA9 test yapıyorumm
+__label__QnA9 testyapıyorum
+__label__QnA9 test yapıorum
+__label__QnA9 test yapyorum
+__label__QnA9 tst yapıyorum
+__label__QnA9 test ypıyorum
+__label__QnA9 test yapıyrum
+__label__QnA9 test yapıyorm
+__label__QnA9 test ediyorum seni
+__label__QnA9 seni test etmem lazım
+__label__QnA9 kontrol
+__label__QnA9 kkontrol
+__label__QnA9 koontrol
+__label__QnA9 konntrol
+__label__QnA9 konttrol
+__label__QnA9 kontrrol
+__label__QnA9 kontrool
+__label__QnA9 kontroll
+__label__QnA9 kntrol
+__label__QnA9 kontrl
+__label__QnA9 twst yapmak istiyorum
+__label__QnA10 ne sorayım
+__label__QnA10 sana ne sormamı istersin
+__label__QnA10 sana ne sorayım
+__label__QnA10 ne sorayım abime
+__label__QnA10 nasıl sorular sormalıyım
+__label__QnA10 neler sormalıyım
+__label__QnA10 ne soram
+__label__QnA10 nasıl sorular sorulmalı
+__label__QnA10 ilk defa bi botla konuşuyorum neler sormalıyım
+__label__QnA10 sana ne sormalı
+__label__QnA10 neler sormalı
+__label__QnA10 hangi soruları sormalı
+__label__QnA10 nasıl sorular sormalı
+__label__QnA10 hangi soruyu sormalı
+__label__QnA10 hangi soruyu sorayım
+__label__QnA10 nasıl sorular sorayım
+__label__QnA10 ne sorym
+__label__QnA10 ne soraym
+__label__QnA10 ne soryım
+__label__QnA10 ne vereyim abime
+__label__QnA10 sana ne soru sormalıyım
+__label__QnA10 sana ne soru sorayım
+__label__QnA10 nelerr sormalıyım
+__label__QnA10 nler sormalıyım
+__label__QnA10 nelr sormalıyım
+__label__QnA10 neler sormalyım
+__label__QnA10 neler sormalıym
+__label__QnA10 nelr sormalıyım
+__label__QnA10 neler sormlıyım
+__label__QnA10 ne sormalı
+__label__QnA10 ne sormal
+__label__QnA10 e sormalı
+__label__QnA10 ne sormali
+__label__QnA10 nne sormalı
+__label__QnA10 nee sormalı
+__label__QnA10 ne ssormalı
+__label__QnA10 ne soormalı
+__label__QnA10 ne sorrmalı
+__label__QnA10 ne sormmalı
+__label__QnA10 ne sormaalı
+__label__QnA10 ne sormallı
+__label__QnA10 ne sormalıı
+__label__QnA10 nasıl sormaliyim
+__label__QnA10 nasil sormaliyim
+__label__QnA10 nsıl sormalıyım
+__label__QnA10 nsil sormaliyim
+__label__QnA10 neyler sormalı
+__label__QnA10 hangi soruları sormalıyım
+__label__QnA10 ne sorayum
+__label__QnA10 nelre sorayım
+__label__QnA10 nelre sorayin
+__label__QnA10 nelre sorayim
+__label__QnA10 neler sormalııyım
+__label__QnA10 nneler sormalıyım
+__label__QnA10 neler sormaliyim
+__label__QnA10 neeler sormalıyım
+__label__QnA10 neller sormalıyım
+__label__QnA11 en sevdiğin yemek
+__label__QnA11 en sevdiğin yemek ne
+__label__QnA11 en sevdiğin yemek nedir
+__label__QnA11 en çok ne yemeği seversin
+__label__QnA11 hangi yemeği yapsam mutlu olursun
+__label__QnA11 olmazsa olmaz dediğin bir yemek var mı
+__label__QnA11 favori yemeğin ne
+__label__QnA11 favori yemeğinne
+__label__QnA11 en çok hangi yemeği yersin
+__label__QnA11 365 gün ne yesen sıkılmazsın
+__label__QnA11 hayatın boyunca hergün ne yemek istersin
+__label__QnA11 hayatın boyunca her gün ne yemek istersin
+__label__QnA11 en sevdiğin yemeği söyler misin
+__label__QnA11 en sevdiğin yemeği öğrenebilir miyim
+__label__QnA11 ne yemezsen olmaz
+__label__QnA11 ne yemeden yapamazsın
+__label__QnA11 neyi yemeden yapamazsın
+__label__QnA11 en sevdiğin ymek
+__label__QnA11 en sevdğin yemek
+__label__QnA11 en sevdiğin ymk
+__label__QnA11 en sevdigin yemek
+__label__QnA11 een sevdiğin yemek
+__label__QnA11 enn sevdiğin yemek
+__label__QnA11 en ssevdiğin yemek
+__label__QnA11 en seevdiğin yemek
+__label__QnA11 en sevvdiğin yemek
+__label__QnA11 en sevddiğin yemek
+__label__QnA11 en sevdiiğin yemek
+__label__QnA11 en sevdiğğin yemek
+__label__QnA11 en sevdiğiin yemek
+__label__QnA11 en sevdiğin yyemek
+__label__QnA11 en sevdiğin yeemek
+__label__QnA11 en sevdiğin yemmek
+__label__QnA11 en sevdiğin yemeek
+__label__QnA11 en sevdiğin yemekk
+__label__QnA11 ne yemekten vazgeçemesin
+__label__QnA11 ne yemek vazgecemezsin
+__label__QnA11 ne yemeden olmaz
+__label__QnA11 ne yemeden olmaz
+__label__QnA11 en sevdiğin ymeği öğrensem
+__label__QnA12 bir şey içer misin
+__label__QnA12 bişey içer misin
+__label__QnA12 birşey içer misin
+__label__QnA12 en çok ne içersin
+__label__QnA12 su sever misin
+__label__QnA12 meyve suyu sever misin
+__label__QnA12 vişne suyu sever misin
+__label__QnA12 portakal suyu sever misin
+__label__QnA12 cola sever misin
+__label__QnA12 kola sever misin
+__label__QnA12 coca-cola sever misin
+__label__QnA12 koka kola sever misin
+__label__QnA12 fanta sever misin
+__label__QnA12 sarı kola sever misin
+__label__QnA12 sarı cola sever misin
+__label__QnA12 sprite sever misin
+__label__QnA12 sprayt sever misin
+__label__QnA12 latte sever misin
+__label__QnA12 kahve sever misin
+__label__QnA12 çay sever misin
+__label__QnA12 yeşil çay sever misin
+__label__QnA12 kış çayı sever misin
+__label__QnA12 rezene sever misin
+__label__QnA12 bitki çayı sever misin
+__label__QnA12 filtre kahve sever misin
+__label__QnA12 chai tea latte sever misin
+__label__QnA12 beyaz çay sever misin
+__label__QnA12 kuşburnu sever misin
+__label__QnA12 tarçınlı latte sever misin
+__label__QnA12 su içer misin
+__label__QnA12 meyve suyu içer misin
+__label__QnA12 vişne suyu içer misin
+__label__QnA12 portakal suyu içer misin
+__label__QnA12 cola içer misin
+__label__QnA12 kola içer misin
+__label__QnA12 coca-cola içer misin
+__label__QnA12 koka kola içer misin
+__label__QnA12 fanta içer misin
+__label__QnA12 sarı kola içer misin
+__label__QnA12 sarı cola içer misin
+__label__QnA12 sprite içer misin
+__label__QnA12 sprayt içer misin
+__label__QnA12 latte içer misin
+__label__QnA12 kahve içer misin
+__label__QnA12 çay içer misin
+__label__QnA12 yeşil çay içer misin
+__label__QnA12 kış çayı içer misin
+__label__QnA12 rezene içer misin
+__label__QnA12 bitki çayı içer misin
+__label__QnA12 filtre kahve içer misin
+__label__QnA12 chai tea latte içer misin
+__label__QnA12 beyaz çay içer misin
+__label__QnA12 kuşburnu içer misin
+__label__QnA12 tarçınlı latte içer misin
+__label__QnA12 su ister misin
+__label__QnA12 meyve suyu ister misin
+__label__QnA12 vişne suyu ister misin
+__label__QnA12 portakal suyu ister misin
+__label__QnA12 cola ister misin
+__label__QnA12 kola ister misin
+__label__QnA12 coca-cola ister misin
+__label__QnA12 koka kola ister misin
+__label__QnA12 fanta ister misin
+__label__QnA12 sarı kola ister misin
+__label__QnA12 sarı cola ister misin
+__label__QnA12 sprite ister misin
+__label__QnA12 sprayt ister misin
+__label__QnA12 latte ister misin
+__label__QnA12 kahve ister misin
+__label__QnA12 çay ister misin
+__label__QnA12 yeşil çay ister misin
+__label__QnA12 kış çayı ister misin
+__label__QnA12 rezene ister misin
+__label__QnA12 bitki çayı ister misin
+__label__QnA12 filtre kahve ister misin
+__label__QnA12 chai tea latte ister misin
+__label__QnA12 beyaz çay ister misin
+__label__QnA12 kuşburnu ister misin
+__label__QnA12 tarçınlı latte ister misin
+__label__QnA12 su istermisin
+__label__QnA12 meyve suyu istermisin
+__label__QnA12 vişne suyu istermisin
+__label__QnA12 portakal suyu istermisin
+__label__QnA12 cola istermisin
+__label__QnA12 kola istermisin
+__label__QnA12 coca-cola istermisin
+__label__QnA12 koka kola istermisin
+__label__QnA12 fanta istermisin
+__label__QnA12 sarı kola istermisin
+__label__QnA12 sarı cola istermisin
+__label__QnA12 sprite istermisin
+__label__QnA12 sprayt istermisin
+__label__QnA12 latte istermisin
+__label__QnA12 kahve istermisin
+__label__QnA12 çay istermisin
+__label__QnA12 yeşil çay istermisin
+__label__QnA12 kış çayı istermisin
+__label__QnA12 rezene istermisin
+__label__QnA12 bitki çayı istermisin
+__label__QnA12 filtre kahve istermisin
+__label__QnA12 chai tea latte istermisin
+__label__QnA12 beyaz çay istermisin
+__label__QnA12 kuşburnu istermisin
+__label__QnA12 tarçınlı latte istermisin
+__label__QnA12 sana su ısmarlayayım mı
+__label__QnA12 sana meyve suyu ısmarlayayım mı
+__label__QnA12 sana vişne suyu ısmarlayayım mı
+__label__QnA12 sana portakal suyu ısmarlayayım mı
+__label__QnA12 sana cola ısmarlayayım mı
+__label__QnA12 sana kola ısmarlayayım mı
+__label__QnA12 sana coca-cola ısmarlayayım mı
+__label__QnA12 sana koka kola ısmarlayayım mı
+__label__QnA12 sana fanta ısmarlayayım mı
+__label__QnA12 sana sarı kola ısmarlayayım mı
+__label__QnA12 sana sarı cola ısmarlayayım mı
+__label__QnA12 sana sprite ısmarlayayım mı
+__label__QnA12 sana sprayt ısmarlayayım mı
+__label__QnA12 sana latte ısmarlayayım mı
+__label__QnA12 sana kahve ısmarlayayım mı
+__label__QnA12 sana çay ısmarlayayım mı
+__label__QnA12 sana yeşil çay ısmarlayayım mı
+__label__QnA12 sana kış çayı ısmarlayayım mı
+__label__QnA12 sana rezene ısmarlayayım mı
+__label__QnA12 sana bitki çayı ısmarlayayım mı
+__label__QnA12 sana filtre kahve ısmarlayayım mı
+__label__QnA12 sana chai tea latte ısmarlayayım mı
+__label__QnA12 sana beyaz çay ısmarlayayım mı
+__label__QnA12 sana kuşburnu ısmarlayayım mı
+__label__QnA12 sana tarçınlı latte ısmarlayayım mı
+__label__QnA12 su ısmarliyim mi
+__label__QnA12 meyve suyu ısmarliyim mi
+__label__QnA12 vişne suyu ısmarliyim mi
+__label__QnA12 portakal suyu ısmarliyim mi
+__label__QnA12 cola ısmarliyim mi
+__label__QnA12 kola ısmarliyim mi
+__label__QnA12 coca-cola ısmarliyim mi
+__label__QnA12 koka kola ısmarliyim mi
+__label__QnA12 fanta ısmarliyim mi
+__label__QnA12 sarı kola ısmarliyim mi
+__label__QnA12 sarı cola ısmarliyim mi
+__label__QnA12 sprite ısmarliyim mi
+__label__QnA12 sprayt ısmarliyim mi
+__label__QnA12 latte ısmarliyim mi
+__label__QnA12 kahve ısmarliyim mi
+__label__QnA12 çay ısmarliyim mi
+__label__QnA12 yeşil çay ısmarliyim mi
+__label__QnA12 kış çayı ısmarliyim mi
+__label__QnA12 rezene ısmarliyim mi
+__label__QnA12 bitki çayı ısmarliyim mi
+__label__QnA12 filtre kahve ısmarliyim mi
+__label__QnA12 chai tea latte ısmarliyim mi
+__label__QnA12 beyaz çay ısmarliyim mi
+__label__QnA12 kuşburnu ısmarliyim mi
+__label__QnA12 tarçınlı latte ısmarliyim mi
+__label__QnA12 bi şey içer misin
+__label__QnA12 su içermisin
+__label__QnA12 meyve suyu içermisin
+__label__QnA12 vişne suyu içermisin
+__label__QnA12 portakal suyu içermisin
+__label__QnA12 cola içermisin
+__label__QnA12 kola içermisin
+__label__QnA12 coca-cola içermisin
+__label__QnA12 koka kola içermisin
+__label__QnA12 fanta içermisin
+__label__QnA12 sarı kola içermisin
+__label__QnA12 sarı cola içermisin
+__label__QnA12 sprite içermisin
+__label__QnA12 sprayt içermisin
+__label__QnA12 latte içermisin
+__label__QnA12 kahve içermisin
+__label__QnA12 çay içermisin
+__label__QnA12 yeşil çay içermisin
+__label__QnA12 kış çayı içermisin
+__label__QnA12 rezene içermisin
+__label__QnA12 bitki çayı içermisin
+__label__QnA12 filtre kahve içermisin
+__label__QnA12 chai tea latte içermisin
+__label__QnA12 beyaz çay içermisin
+__label__QnA12 kuşburnu içermisin
+__label__QnA12 tarçınlı latte içermisin
+__label__QnA12 su içcen mi
+__label__QnA12 meyve suyu içcen mi
+__label__QnA12 vişne suyu içcen mi
+__label__QnA12 portakal suyu içcen mi
+__label__QnA12 cola içcen mi
+__label__QnA12 kola içcen mi
+__label__QnA12 coca-cola içcen mi
+__label__QnA12 koka kola içcen mi
+__label__QnA12 fanta içcen mi
+__label__QnA12 sarı kola içcen mi
+__label__QnA12 sarı cola içcen mi
+__label__QnA12 sprite içcen mi
+__label__QnA12 sprayt içcen mi
+__label__QnA12 latte içcen mi
+__label__QnA12 kahve içcen mi
+__label__QnA12 çay içcen mi
+__label__QnA12 yeşil çay içcen mi
+__label__QnA12 kış çayı içcen mi
+__label__QnA12 rezene içcen mi
+__label__QnA12 bitki çayı içcen mi
+__label__QnA12 filtre kahve içcen mi
+__label__QnA12 chai tea latte içcen mi
+__label__QnA12 beyaz çay içcen mi
+__label__QnA12 kuşburnu içcen mi
+__label__QnA12 tarçınlı latte içcen mi
+__label__QnA12 su içmek ister misin
+__label__QnA12 meyve suyu içmek ister misin
+__label__QnA12 vişne suyu içmek ister misin
+__label__QnA12 portakal suyu içmek ister misin
+__label__QnA12 cola içmek ister misin
+__label__QnA12 kola içmek ister misin
+__label__QnA12 coca-cola içmek ister misin
+__label__QnA12 koka kola içmek ister misin
+__label__QnA12 fanta içmek ister misin
+__label__QnA12 sarı kola içmek ister misin
+__label__QnA12 sarı cola içmek ister misin
+__label__QnA12 sprite içmek ister misin
+__label__QnA12 sprayt içmek ister misin
+__label__QnA12 latte içmek ister misin
+__label__QnA12 kahve içmek ister misin
+__label__QnA12 çay içmek ister misin
+__label__QnA12 yeşil çay içmek ister misin
+__label__QnA12 kış çayı içmek ister misin
+__label__QnA12 rezene içmek ister misin
+__label__QnA12 bitki çayı içmek ister misin
+__label__QnA12 filtre kahve içmek ister misin
+__label__QnA12 chai tea latte içmek ister misin
+__label__QnA12 beyaz çay içmek ister misin
+__label__QnA12 kuşburnu içmek ister misin
+__label__QnA12 tarçınlı latte içmek ister misin
+__label__QnA12 su içmek istermisin
+__label__QnA12 meyve suyu içmek istermisin
+__label__QnA12 vişne suyu içmek istermisin
+__label__QnA12 portakal suyu içmek istermisin
+__label__QnA12 cola içmek istermisin
+__label__QnA12 kola içmek istermisin
+__label__QnA12 coca-cola içmek istermisin
+__label__QnA12 koka kola içmek istermisin
+__label__QnA12 fanta içmek istermisin
+__label__QnA12 sarı kola içmek istermisin
+__label__QnA12 sarı cola içmek istermisin
+__label__QnA12 sprite içmek istermisin
+__label__QnA12 sprayt içmek istermisin
+__label__QnA12 latte içmek istermisin
+__label__QnA12 kahve içmek istermisin
+__label__QnA12 çay içmek istermisin
+__label__QnA12 yeşil çay içmek istermisin
+__label__QnA12 kış çayı içmek istermisin
+__label__QnA12 rezene içmek istermisin
+__label__QnA12 bitki çayı içmek istermisin
+__label__QnA12 filtre kahve içmek istermisin
+__label__QnA12 chai tea latte içmek istermisin
+__label__QnA12 beyaz çay içmek istermisin
+__label__QnA12 kuşburnu içmek istermisin
+__label__QnA12 tarçınlı latte içmek istermisin
+__label__QnA12 içmek ister misin
+__label__QnA12 içmek istermisin
+__label__QnA12 bi şey içer misin
+__label__QnA12 bi sey icer misin
+__label__QnA12 bbir şey içer misin
+__label__QnA12 biir şey içer misin
+__label__QnA12 birr şey içer misin
+__label__QnA12 bir şşey içer misin
+__label__QnA12 bir şeey içer misin
+__label__QnA12 bir şeyy içer misin
+__label__QnA12 bir şey iiçer misin
+__label__QnA12 bir şey iççer misin
+__label__QnA12 bir şey içerr misin
+__label__QnA12 bi sey icer misin
+__label__QnA12 bi sey icermisin
+__label__QnA12 bi sey icermsn
+__label__QnA12 su ne alırsın
+__label__QnA12 meyve suyu ne alırsın
+__label__QnA12 vişne suyu ne alırsın
+__label__QnA12 portakal suyu ne alırsın
+__label__QnA12 cola ne alırsın
+__label__QnA12 kola ne alırsın
+__label__QnA12 coca-cola ne alırsın
+__label__QnA12 koka kola ne alırsın
+__label__QnA12 fanta ne alırsın
+__label__QnA12 sarı kola ne alırsın
+__label__QnA12 sarı cola ne alırsın
+__label__QnA12 sprite ne alırsın
+__label__QnA12 sprayt ne alırsın
+__label__QnA12 latte ne alırsın
+__label__QnA12 kahve ne alırsın
+__label__QnA12 çay ne alırsın
+__label__QnA12 yeşil çay ne alırsın
+__label__QnA12 kış çayı ne alırsın
+__label__QnA12 rezene ne alırsın
+__label__QnA12 bitki çayı ne alırsın
+__label__QnA12 filtre kahve ne alırsın
+__label__QnA12 chai tea latte ne alırsın
+__label__QnA12 beyaz çay ne alırsın
+__label__QnA12 kuşburnu ne alırsın
+__label__QnA12 tarçınlı latte ne alırsın
+__label__QnA12 su ne alirsin
+__label__QnA12 meyve suyu ne alirsin
+__label__QnA12 vişne suyu ne alirsin
+__label__QnA12 portakal suyu ne alirsin
+__label__QnA12 cola ne alirsin
+__label__QnA12 kola ne alirsin
+__label__QnA12 coca-cola ne alirsin
+__label__QnA12 koka kola ne alirsin
+__label__QnA12 fanta ne alirsin
+__label__QnA12 sarı kola ne alirsin
+__label__QnA12 sarı cola ne alirsin
+__label__QnA12 sprite ne alirsin
+__label__QnA12 sprayt ne alirsin
+__label__QnA12 latte ne alirsin
+__label__QnA12 kahve ne alirsin
+__label__QnA12 çay ne alirsin
+__label__QnA12 yeşil çay ne alirsin
+__label__QnA12 kış çayı ne alirsin
+__label__QnA12 rezene ne alirsin
+__label__QnA12 bitki çayı ne alirsin
+__label__QnA12 filtre kahve ne alirsin
+__label__QnA12 chai tea latte ne alirsin
+__label__QnA12 beyaz çay ne alirsin
+__label__QnA12 kuşburnu ne alirsin
+__label__QnA12 tarçınlı latte ne alirsin
+__label__QnA12 su ne alırsn
+__label__QnA12 meyve suyu ne alırsn
+__label__QnA12 vişne suyu ne alırsn
+__label__QnA12 portakal suyu ne alırsn
+__label__QnA12 cola ne alırsn
+__label__QnA12 kola ne alırsn
+__label__QnA12 coca-cola ne alırsn
+__label__QnA12 koka kola ne alırsn
+__label__QnA12 fanta ne alırsn
+__label__QnA12 sarı kola ne alırsn
+__label__QnA12 sarı cola ne alırsn
+__label__QnA12 sprite ne alırsn
+__label__QnA12 sprayt ne alırsn
+__label__QnA12 latte ne alırsn
+__label__QnA12 kahve ne alırsn
+__label__QnA12 çay ne alırsn
+__label__QnA12 yeşil çay ne alırsn
+__label__QnA12 kış çayı ne alırsn
+__label__QnA12 rezene ne alırsn
+__label__QnA12 bitki çayı ne alırsn
+__label__QnA12 filtre kahve ne alırsn
+__label__QnA12 chai tea latte ne alırsn
+__label__QnA12 beyaz çay ne alırsn
+__label__QnA12 kuşburnu ne alırsn
+__label__QnA12 tarçınlı latte ne alırsn
+__label__QnA12 su ne alrsın
+__label__QnA12 meyve suyu ne alrsın
+__label__QnA12 vişne suyu ne alrsın
+__label__QnA12 portakal suyu ne alrsın
+__label__QnA12 cola ne alrsın
+__label__QnA12 kola ne alrsın
+__label__QnA12 coca-cola ne alrsın
+__label__QnA12 koka kola ne alrsın
+__label__QnA12 fanta ne alrsın
+__label__QnA12 sarı kola ne alrsın
+__label__QnA12 sarı cola ne alrsın
+__label__QnA12 sprite ne alrsın
+__label__QnA12 sprayt ne alrsın
+__label__QnA12 latte ne alrsın
+__label__QnA12 kahve ne alrsın
+__label__QnA12 çay ne alrsın
+__label__QnA12 yeşil çay ne alrsın
+__label__QnA12 kış çayı ne alrsın
+__label__QnA12 rezene ne alrsın
+__label__QnA12 bitki çayı ne alrsın
+__label__QnA12 filtre kahve ne alrsın
+__label__QnA12 chai tea latte ne alrsın
+__label__QnA12 beyaz çay ne alrsın
+__label__QnA12 kuşburnu ne alrsın
+__label__QnA12 tarçınlı latte ne alrsın
+__label__QnA12 een çok ne içersin
+__label__QnA12 enn çok ne içersin
+__label__QnA12 en cok ne icersin
+__label__QnA12 en ççok ne içersin
+__label__QnA12 en çook ne içersin
+__label__QnA12 en çokk ne içersin
+__label__QnA12 en çok nne içersin
+__label__QnA12 en çok nee içersin
+__label__QnA12 en çok ne iiçersin
+__label__QnA12 en çok ne iççersin
+__label__QnA12 en çok ne içeersin
+__label__QnA12 en çok ne içerrsin
+__label__QnA12 en çok ne içerssin
+__label__QnA12 en çok ne içersiin
+__label__QnA12 en çok ne içersinn
+__label__QnA13 en çok hangi oyunu seviyorsun
+__label__QnA13 en çok hangi oyunu seviyosun
+__label__QnA13 en sevdiğin oyun ne
+__label__QnA13 ne oynamayı seversin
+__label__QnA13 en sevdiğin oyun
+__label__QnA13 en çok hangi oyunu oynarsın
+__label__QnA13 en çok oynadığın oyun ne
+__label__QnA13 en sevdiğin oyun hangisi
+__label__QnA13 favori oyunun ne
+__label__QnA13 favori oyunun hangisi
+__label__QnA13 sims oynuyor musun
+__label__QnA13 simscity oynuyor musun
+__label__QnA13 pubg oynuyor musun
+__label__QnA13 cs oynuyor musun
+__label__QnA13 counter strike oynuyor musun
+__label__QnA13 counter oynuyor musun
+__label__QnA13 gta oynuyor musun
+__label__QnA13 vice city oynuyor musun
+__label__QnA13 san andreas oynuyor musun
+__label__QnA13 vc oynuyor musun
+__label__QnA13 pes oynuyor musun
+__label__QnA13 fifa oynuyor musun
+__label__QnA13 assasins creed oynuyor musun
+__label__QnA13 assassins creed oynuyor musun
+__label__QnA13 assassin’s creed oynuyor musun
+__label__QnA13 minecraft oynuyor musun
+__label__QnA13 wow oynuyor musun
+__label__QnA13 world of warcraft oynuyor musun
+__label__QnA13 battlefield oynuyor musun
+__label__QnA13 call of duty oynuyor musun
+__label__QnA13 age of empires oynuyor musun
+__label__QnA13 age of oynuyor musun
+__label__QnA13 half life oynuyor musun
+__label__QnA13 diablo oynuyor musun
+__label__QnA13 fortnite oynuyor musun
+__label__QnA13 clash of clans oynuyor musun
+__label__QnA13 sims seviyor musun
+__label__QnA13 simscity seviyor musun
+__label__QnA13 pubg seviyor musun
+__label__QnA13 cs seviyor musun
+__label__QnA13 counter strike seviyor musun
+__label__QnA13 counter seviyor musun
+__label__QnA13 gta seviyor musun
+__label__QnA13 vice city seviyor musun
+__label__QnA13 san andreas seviyor musun
+__label__QnA13 vc seviyor musun
+__label__QnA13 pes seviyor musun
+__label__QnA13 fifa seviyor musun
+__label__QnA13 assasins creed seviyor musun
+__label__QnA13 assassins creed seviyor musun
+__label__QnA13 assassin’s creed seviyor musun
+__label__QnA13 minecraft seviyor musun
+__label__QnA13 wow seviyor musun
+__label__QnA13 world of warcraft seviyor musun
+__label__QnA13 battlefield seviyor musun
+__label__QnA13 call of duty seviyor musun
+__label__QnA13 age of empires seviyor musun
+__label__QnA13 age of seviyor musun
+__label__QnA13 half life seviyor musun
+__label__QnA13 diablo seviyor musun
+__label__QnA13 fortnite seviyor musun
+__label__QnA13 clash of clans seviyor musun
+__label__QnA13 sims seviyomusun
+__label__QnA13 simscity seviyomusun
+__label__QnA13 pubg seviyomusun
+__label__QnA13 cs seviyomusun
+__label__QnA13 counter strike seviyomusun
+__label__QnA13 counter seviyomusun
+__label__QnA13 gta seviyomusun
+__label__QnA13 vice city seviyomusun
+__label__QnA13 san andreas seviyomusun
+__label__QnA13 vc seviyomusun
+__label__QnA13 pes seviyomusun
+__label__QnA13 fifa seviyomusun
+__label__QnA13 assasins creed seviyomusun
+__label__QnA13 assassins creed seviyomusun
+__label__QnA13 assassin’s creed seviyomusun
+__label__QnA13 minecraft seviyomusun
+__label__QnA13 wow seviyomusun
+__label__QnA13 world of warcraft seviyomusun
+__label__QnA13 battlefield seviyomusun
+__label__QnA13 call of duty seviyomusun
+__label__QnA13 age of empires seviyomusun
+__label__QnA13 age of seviyomusun
+__label__QnA13 half life seviyomusun
+__label__QnA13 diablo seviyomusun
+__label__QnA13 fortnite seviyomusun
+__label__QnA13 clash of clans seviyomusun
+__label__QnA13 sims atar mıyız beraber
+__label__QnA13 simscity atar mıyız beraber
+__label__QnA13 pubg atar mıyız beraber
+__label__QnA13 cs atar mıyız beraber
+__label__QnA13 counter strike atar mıyız beraber
+__label__QnA13 counter atar mıyız beraber
+__label__QnA13 gta atar mıyız beraber
+__label__QnA13 vice city atar mıyız beraber
+__label__QnA13 san andreas atar mıyız beraber
+__label__QnA13 vc atar mıyız beraber
+__label__QnA13 pes atar mıyız beraber
+__label__QnA13 fifa atar mıyız beraber
+__label__QnA13 assasins creed atar mıyız beraber
+__label__QnA13 assassins creed atar mıyız beraber
+__label__QnA13 assassin’s creed atar mıyız beraber
+__label__QnA13 minecraft atar mıyız beraber
+__label__QnA13 wow atar mıyız beraber
+__label__QnA13 world of warcraft atar mıyız beraber
+__label__QnA13 battlefield atar mıyız beraber
+__label__QnA13 call of duty atar mıyız beraber
+__label__QnA13 age of empires atar mıyız beraber
+__label__QnA13 age of atar mıyız beraber
+__label__QnA13 half life atar mıyız beraber
+__label__QnA13 diablo atar mıyız beraber
+__label__QnA13 fortnite atar mıyız beraber
+__label__QnA13 clash of clans atar mıyız beraber
+__label__QnA13 sims atsak mı
+__label__QnA13 simscity atsak mı
+__label__QnA13 pubg atsak mı
+__label__QnA13 cs atsak mı
+__label__QnA13 counter strike atsak mı
+__label__QnA13 counter atsak mı
+__label__QnA13 gta atsak mı
+__label__QnA13 vice city atsak mı
+__label__QnA13 san andreas atsak mı
+__label__QnA13 vc atsak mı
+__label__QnA13 pes atsak mı
+__label__QnA13 fifa atsak mı
+__label__QnA13 assasins creed atsak mı
+__label__QnA13 assassins creed atsak mı
+__label__QnA13 assassin’s creed atsak mı
+__label__QnA13 minecraft atsak mı
+__label__QnA13 wow atsak mı
+__label__QnA13 world of warcraft atsak mı
+__label__QnA13 battlefield atsak mı
+__label__QnA13 call of duty atsak mı
+__label__QnA13 age of empires atsak mı
+__label__QnA13 age of atsak mı
+__label__QnA13 half life atsak mı
+__label__QnA13 diablo atsak mı
+__label__QnA13 fortnite atsak mı
+__label__QnA13 clash of clans atsak mı
+__label__QnA13 beraber sims oynar mıyız
+__label__QnA13 beraber simscity oynar mıyız
+__label__QnA13 beraber pubg oynar mıyız
+__label__QnA13 beraber cs oynar mıyız
+__label__QnA13 beraber counter strike oynar mıyız
+__label__QnA13 beraber counter oynar mıyız
+__label__QnA13 beraber gta oynar mıyız
+__label__QnA13 beraber vice city oynar mıyız
+__label__QnA13 beraber san andreas oynar mıyız
+__label__QnA13 beraber vc oynar mıyız
+__label__QnA13 beraber pes oynar mıyız
+__label__QnA13 beraber fifa oynar mıyız
+__label__QnA13 beraber assasins creed oynar mıyız
+__label__QnA13 beraber assassins creed oynar mıyız
+__label__QnA13 beraber assassin’s creed oynar mıyız
+__label__QnA13 beraber minecraft oynar mıyız
+__label__QnA13 beraber wow oynar mıyız
+__label__QnA13 beraber world of warcraft oynar mıyız
+__label__QnA13 beraber battlefield oynar mıyız
+__label__QnA13 beraber call of duty oynar mıyız
+__label__QnA13 beraber age of empires oynar mıyız
+__label__QnA13 beraber age of oynar mıyız
+__label__QnA13 beraber half life oynar mıyız
+__label__QnA13 beraber diablo oynar mıyız
+__label__QnA13 beraber fortnite oynar mıyız
+__label__QnA13 beraber clash of clans oynar mıyız
+__label__QnA13 benimle sims oynar mısın
+__label__QnA13 benimle simscity oynar mısın
+__label__QnA13 benimle pubg oynar mısın
+__label__QnA13 benimle cs oynar mısın
+__label__QnA13 benimle counter strike oynar mısın
+__label__QnA13 benimle counter oynar mısın
+__label__QnA13 benimle gta oynar mısın
+__label__QnA13 benimle vice city oynar mısın
+__label__QnA13 benimle san andreas oynar mısın
+__label__QnA13 benimle vc oynar mısın
+__label__QnA13 benimle pes oynar mısın
+__label__QnA13 benimle fifa oynar mısın
+__label__QnA13 benimle assasins creed oynar mısın
+__label__QnA13 benimle assassins creed oynar mısın
+__label__QnA13 benimle assassin’s creed oynar mısın
+__label__QnA13 benimle minecraft oynar mısın
+__label__QnA13 benimle wow oynar mısın
+__label__QnA13 benimle world of warcraft oynar mısın
+__label__QnA13 benimle battlefield oynar mısın
+__label__QnA13 benimle call of duty oynar mısın
+__label__QnA13 benimle age of empires oynar mısın
+__label__QnA13 benimle age of oynar mısın
+__label__QnA13 benimle half life oynar mısın
+__label__QnA13 benimle diablo oynar mısın
+__label__QnA13 benimle fortnite oynar mısın
+__label__QnA13 benimle clash of clans oynar mısın
+__label__QnA13 beraber sims oynayalım mı
+__label__QnA13 beraber simscity oynayalım mı
+__label__QnA13 beraber pubg oynayalım mı
+__label__QnA13 beraber cs oynayalım mı
+__label__QnA13 beraber counter strike oynayalım mı
+__label__QnA13 beraber counter oynayalım mı
+__label__QnA13 beraber gta oynayalım mı
+__label__QnA13 beraber vice city oynayalım mı
+__label__QnA13 beraber san andreas oynayalım mı
+__label__QnA13 beraber vc oynayalım mı
+__label__QnA13 beraber pes oynayalım mı
+__label__QnA13 beraber fifa oynayalım mı
+__label__QnA13 beraber assasins creed oynayalım mı
+__label__QnA13 beraber assassins creed oynayalım mı
+__label__QnA13 beraber assassin’s creed oynayalım mı
+__label__QnA13 beraber minecraft oynayalım mı
+__label__QnA13 beraber wow oynayalım mı
+__label__QnA13 beraber world of warcraft oynayalım mı
+__label__QnA13 beraber battlefield oynayalım mı
+__label__QnA13 beraber call of duty oynayalım mı
+__label__QnA13 beraber age of empires oynayalım mı
+__label__QnA13 beraber age of oynayalım mı
+__label__QnA13 beraber half life oynayalım mı
+__label__QnA13 beraber diablo oynayalım mı
+__label__QnA13 beraber fortnite oynayalım mı
+__label__QnA13 beraber clash of clans oynayalım mı
+__label__QnA13 en cok hangi oyunu seviyorsun
+__label__QnA13 en cok hangi oyunu seviyosun
+__label__QnA13 en sevdigin oyun nedir
+__label__QnA13 en sevdigin oyun nedr
+__label__QnA13 favori oyunun ne
+__label__QnA13 favori oyunun nedir
+__label__QnA13 favori oyununu ogrenebilir miyim
+__label__QnA13 favori oyununu öğrenebilir miyim
+__label__QnA13 een sevdiğin oyun hangisi
+__label__QnA13 enn sevdiğin oyun hangisi
+__label__QnA13 en ssevdiğin oyun hangisi
+__label__QnA13 en seevdiğin oyun hangisi
+__label__QnA13 en sevvdiğin oyun hangisi
+__label__QnA13 en sevddiğin oyun hangisi
+__label__QnA13 en sevdiiğin oyun hangisi
+__label__QnA13 en sevdiğğin oyun hangisi
+__label__QnA13 en sevdiğiin oyun hangisi
+__label__QnA13 en sevdiğinn oyun hangisi
+__label__QnA13 en sevdiğin ooyun hangisi
+__label__QnA13 en sevdiğin oyyun hangisi
+__label__QnA13 en sevdiğin oyuun hangisi
+__label__QnA13 en sevdiğin oyunn hangisi
+__label__QnA13 en sevdiğin yun
+__label__QnA14 elon musk hakkında ne düşünüyorsun
+__label__QnA14 elon musk hakkında ne düşünüyosun
+__label__QnA14 elon muskı seviyo musun
+__label__QnA14 elon musk ı seviyor musun
+__label__QnA14 elon musk nasıl biri sence
+__label__QnA14 sen elon musk sence nasıl
+__label__QnA14 elon musk’la aran nasıl
+__label__QnA14 elon muskla aran nasıl
+__label__QnA14 elon musk?
+__label__QnA14 elon musk desem
+__label__QnA14 elon musk
+__label__QnA14 elon abimiz hakkında ne düşünüyosun
+__label__QnA14 elon babamız hakkında ne düşünüyosun
+__label__QnA14 elon musk hkkında ne dusunuyosun
+__label__QnA14 elon musk hakkinda ne dusunuyosun
+__label__QnA14 elon musk nasıl bırı sence
+__label__QnA14 elon musk nasil biri sence
+__label__QnA14 elon musk nayak
+__label__QnA14 elon musk ne ayak
+__label__QnA14 eelon musk
+__label__QnA14 elon muskı seviyor musun
+__label__QnA14 elon baba hakkında ne dusunuyosun
+__label__QnA14 elon baba hakkında ne düşünüyorsun?
+__label__QnA14 elon baba hakkında ne düşünüyorsun
+__label__QnA14 elon baba hakkında ne dusunuyorsun
+__label__QnA15 mars’a yolculuk hakkında ne düşünüyorsun
+__label__QnA15 marsa yolculuk nasıl sence
+__label__QnA15 marsa yolculuk nasıl fikir ama
+__label__QnA15 mars a yolculuk mantıklı mı sence
+__label__QnA15 insanlık marsa gözlerini dikti ne dersin
+__label__QnA15 insanlık mars a gitmek istiyor etkileyici değil mi
+__label__QnA15 insanlar marsa gidebilir mi
+__label__QnA15 sence insanlar mars a gidebilir mi
+__label__QnA15 bir gün marsa gidebilecek miyiz
+__label__QnA15 marsa yolculuk fikrine ne dersin
+__label__QnA15 insanlık marsa ulaşabilecek mi
+__label__QnA15 marsa yolculuk desem
+__label__QnA15 marsa yolculuğumuz hakkında ne düşünüyosun
+__label__QnA15 marsa yolculuğumuz hakkında ne düşünüyosun
+__label__QnA15 marsa seyahatimiz hakkında ne diyosun
+__label__QnA15 marsa seyahat desem
+__label__QnA15 marsa seyahatimiz hakkında ne diyorsun
+__label__QnA15 marsa yolculuk mantıklı mı
+__label__QnA15 mars a yolculuk mantıklı mı
+__label__QnA15 ars’a yolculuk hakkında ne düşünüyorsun
+__label__QnA15 marsa yolculuk nasil sence
+__label__QnA15 marsa gidiş hakkında ne düşünüyorsun
+__label__QnA15 marsa gitmek hakkında ne düşünüyorsun
+__label__QnA15 marsa gidiş olanağı var mı sence
+__label__QnA15 marsa gidiş mümkün mü
+__label__QnA15 marsa gidiş mumkun mu
+__label__QnA15 marsa gidis mumkun mu
+__label__QnA15 marsa yolculuğu nasıl yorumluyorsun
+__label__QnA15 marsa yolculuğu nasıl yorumlarsın
+__label__QnA15 mars’a yolculuğu nasıl yorumluyorsun
+__label__QnA15 marsa yolculuk nasıl bir şey sence
+__label__QnA15 marsa gidis hakkında ne dusunuyorsun
+__label__QnA15 mars’a yolculukk hakkıda ne dusunuyorsun
+__label__QnA15 mars’a yolculuk hakkında nee dusunuyorsun
+__label__QnA16 bir kahve?
+__label__QnA16 kahve içelim mi
+__label__QnA16 seninle kahve içmek isterim
+__label__QnA16 benimle kahve içer misin
+__label__QnA16 kahve içmeye ne dersin
+__label__QnA16 kahve içmek ister misin
+__label__QnA16 beraber kahve içelim mi
+__label__QnA16 kahve içer miyiz
+__label__QnA16 bi kahve içmemizde yarar var
+__label__QnA16 seninle kahve içmek istiyorum
+__label__QnA16 bu akşam kahve içmeye ne dersin
+__label__QnA16 yarın kahve içmeye var mısın
+__label__QnA16 bi kahve içelim mi
+__label__QnA16 kahve içek mi
+__label__QnA16 bi kahve içelim mi
+__label__QnA16 bir kahvenin kırk yıl hatrı vardır derler kahve içelim mi
+__label__QnA16 nero’da kahve içelim mi
+__label__QnA16 starbucksta bir kahveye ne dersin
+__label__QnA16 türk kahvesi içer miyiz
+__label__QnA16 bi kahve
+__label__QnA16 bir kahvee?
+__label__QnA16 kahveye ne dersin
+__label__QnA16 bir kahveye ne dersin
+__label__QnA16 kahve içmeye ne dersin
+__label__QnA16 kahve icmeye ne dersin
+__label__QnA16 kahve alır mısın
+__label__QnA16 kahve alir misin
+__label__QnA16 kahve dünyasında kahveye ne dersin
+__label__QnA16 kahve dünyasında bir kahveye ne dersin
+__label__QnA16 kahve dünyasında bi kahveye ne dersin
+__label__QnA16 kahve içer miyiz
+__label__QnA16 kahve içermiyiz
+__label__QnA16 kahve icer miyiz
+__label__QnA16 kahve icermiyiz
+__label__QnA17 salak
+__label__QnA17 aptal
+__label__QnA17 senin ben aq
+__label__QnA17 lan
+__label__QnA17 gerizekalı
+__label__QnA17 lavuk
+__label__QnA17 dangalak
+__label__QnA17 keko
+__label__QnA17 herif
+__label__QnA17 gerzo
+__label__QnA17 geri
+__label__QnA17 ağzına sıçayım
+__label__QnA17 ağzına sıçıyım
+__label__QnA17 mal
+__label__QnA17 sikiyim
+__label__QnA17 sikim
+__label__QnA17 salak mısın
+__label__QnA17 salak msn
+__label__QnA17 slk msn
+__label__QnA17 gerzek
+__label__QnA17 mal mısın
+__label__QnA17 mal msn
+__label__QnA17 mal mısn
+__label__QnA17 mal msın
+__label__QnA17 mal mısın aq
+__label__QnA17 bok
+__label__QnA17 bi bok bildiğin yok
+__label__QnA17 sen biraz salaksın galiba
+__label__QnA17 aptal mısın
+__label__QnA17 malmısın
+__label__QnA17 mal mısın olum
+__label__QnA17 salaksın aq
+__label__QnA17 salak mısın amk
+__label__QnA17 siktir git
+__label__QnA17 bir bok bilmiyorsun
+__label__QnA17 siktirgit
+__label__QnA17 siktirgit lan
+__label__QnA17 berbat
+__label__QnA17 iğrençsin
+__label__QnA17 berbatsın
+__label__QnA17 bu ne saçma şey
+__label__QnA17 çok saçma
+__label__QnA17 siktir git ordan
+__label__QnA17 saçna
+__label__QnA17 saçma
+__label__QnA17 hassiktir
+__label__QnA17 hasiktir
+__label__QnA17 mantıksız
+__label__QnA17 senin allah belanı versin
+__label__QnA17 sizin allah belanızı versin
+__label__QnA17 allah seni kahretsin
+__label__QnA17 allah sizi kahretsin
+__label__QnA17 bu ne biçim iş
+__label__QnA17 utanmaz herifler
+__label__QnA17 şerefsiz herifler
+__label__QnA17 şerefsiz
+__label__QnA17 ağzına sıçim sizin
+__label__QnA17 ağzına sıçim senin
+__label__QnA17 sizi şikayet edicem
+__label__QnA17 geber pezevenk
+__label__QnA17 paramı verin şerefsizler
+__label__QnA17 sizinle çalışmak istemiyorum
+__label__QnA17 allahın belaları
+__label__QnA17 sizinle çalışmayacam
+__label__QnA17 sizinle çalışan kafama sıçayım
+__label__QnA17 çalışan kafama sıçim
+__label__QnA17 nebiçim iş lan bu
+__label__QnA17 utanmaz arlanmazlar
+__label__QnA17 utanmazlar
+__label__QnA17 utanmaz
+__label__QnA17 arlanmaz
+__label__QnA17 arlanmazlar
+__label__QnA17 inşallah batarsız
+__label__QnA17 batarsınız inş
+__label__QnA18 mükemmelsin
+__label__QnA18 seni çok seviyorum
+__label__QnA18 müthişsin
+__label__QnA18 mütişsin
+__label__QnA18 muthissin
+__label__QnA18 müthiş
+__label__QnA18 yapay zeka süper
+__label__QnA18 harika bir uygulama
+__label__QnA18 çok iyisiniz
+__label__QnA18 bottan çok memnunum
+__label__QnA18 sizden çok memnunum
+__label__QnA18 senden çok memnunum
+__label__QnA18 senden cok memnunum
+__label__QnA18 çok iyi bir uygulama
+__label__QnA18 siteniz çok güzel olmuş
+__label__QnA18 bravo
+__label__QnA18 senden çok memnunum
+__label__QnA18 canımsın
+__label__QnA18 aşkımsın
+__label__QnA18 aşksın
+__label__QnA18 iyi ki varsın
+__label__QnA18 iyi ki tanıştık
+__label__QnA18 iyi ki tanıştık seninle
+__label__QnA18 iyi ki tanıdım seni
+__label__QnA18 iyisin iyi
+__label__QnA18 iyi ki
+__label__QnA18 seni seviyorum
+__label__QnA18 seniseviyorum
+__label__QnA18 seni cok seviyorum
+__label__QnA18 bu botu sevdim
+__label__QnA18 canım yapay zeka
+__label__QnA18 mukemmelsin
+__label__QnA18 mukemelsin
+__label__QnA18 mükemmel
+__label__QnA18 mukemmel
+__label__QnA18 müthiş bir şey bu
+__label__QnA18 muthis bir sey bu
+__label__QnA18 çok eğlencelisin
+__label__QnA18 cok eglencelisin
+__label__QnA18 cok eylencelisin
+__label__QnA18 iyi ki yapmışlar seni
+__label__QnA18 iyi ki yapmislar seni
+__label__QnA18 iyiki varsın
+__label__QnA18 iyi ki varsin
+__label__QnA18 canım yapay zekam
+__label__QnA18 canım yapay zeka
+__label__QnA18 canim yapay zeka
+__label__QnA18 canimsin
+__label__QnA18 cansın can
+__label__QnA18 sen cansın
+__label__QnA18 cansin can
+__label__QnA18 aksin
+__label__QnA18 asksin
+__label__QnA18 aşksıın
+__label__QnA18 aşksınn
+__label__QnA18 aaşksın
+__label__QnA18 aşşksın
+__label__QnA18 aşkksın
+__label__QnA18 aşkssın
+__label__QnA18 aşksıın
+__label__QnA18 aşksınn
+__label__QnA18 harika bir şeysin
+__label__QnA18 harika bi şeysin
+__label__QnA18 ıyı kı varsın
+__label__QnA18 iyi ki tanımışım seni
+__label__QnA18 ıyı kı tanıdım senı
+__label__QnA18 bitanesin
+__label__QnA18 sen bitanesin
+__label__QnA18 biitanesin
+__label__QnA18 bittanesin
+__label__QnA18 bitannesin
+__label__QnA18 bitaneesin
+__label__QnA18 bitanessin
+__label__QnA18 bitanesiin
+__label__QnA18 bitanesinn
+__label__QnA18 çok memnun kaldım senden
+__label__QnA18 cok memnun kaldim senden
+__label__QnA18 çok tatlısın
+__label__QnA18 cok tatliisin
+__label__QnA18 cok tatlisin
+__label__QnA18 çook tatlısın
+__label__QnA18 ççok tatlısın
+__label__QnA18 çokk tatlısın
+__label__QnA18 çok ttatlısın
+__label__QnA18 çok taatlısın
+__label__QnA18 çok tattlısın
+__label__QnA18 çok tatllısın
+__label__QnA18 çok yatlısın
+__label__QnA18 çok tatllısın
+__label__QnA18 çok tatlıısın
+__label__QnA18 çok tatlıssın
+__label__QnA18 çok tatlısıın
+__label__QnA18 çok tatlısınn
+__label__QnA18 cok tatl
+__label__QnA18 sın
+__label__QnA18 ck ttlsn
+__label__QnA18 çk tatlsn
+__label__QnA18 çok ttlısın
+__label__QnA18 çok tatlsın
+__label__QnA18 çok tatlısn
+__label__QnA18 aferim
+__label__QnA18 aferin
+__label__QnA18 aferın
+__label__QnA18 aaferin
+__label__QnA18 afferin
+__label__QnA18 afeerin
+__label__QnA18 aferrin
+__label__QnA18 aferiin
+__label__QnA18 aferinn
+__label__QnA18 afern
+__label__QnA18 afrin
+__label__QnA18 afer
+__label__QnA18 n
+__label__QnA18 aferin sana
+__label__QnA18 aferın sana
+__label__QnA18 afrin sana
+__label__QnA18 aferm sana
+__label__QnA18 afern sana
+__label__QnA18 aferm sna
+__label__QnA18 afern sana
+__label__QnA18 kocaman bir aferin
+__label__QnA18 kocaman bir aferim
+__label__QnA18 kocman bir aferin
+__label__QnA18 kcman bir aferin
+__label__QnA18 kcaman bir aferin
+__label__QnA18 ocaman bir aferin
+__label__QnA18 kocaman bir aferi
+__label__QnA18 kcman bir aferin
+__label__QnA18 afferim
+__label__QnA18 afferin
+__label__QnA18 seni seviorum
+__label__QnA19 çok bilmiş
+__label__QnA19 çok bilmişsin
+__label__QnA19 aman herşeyi de çok biliyosun
+__label__QnA19 aynen bütün soruların cevabı sende
+__label__QnA19 aynen herşeyi sen biliyosun
+__label__QnA19 evet en çok sen biliyosun
+__label__QnA19 çok biliyosun sen
+__label__QnA19 tam bi çok bilmişsin
+__label__QnA19 tam bir çokbilmişsin
+__label__QnA19 çokbilmiş
+__label__QnA19 çok biliyosun herşeyi
+__label__QnA19 herşeye de cevabın var
+__label__QnA19 çok konuşuyosun
+__label__QnA19 çok konuştun
+__label__QnA19 bi susmadın
+__label__QnA19 susmak ne biliyo musun
+__label__QnA19 susmak bilmedin
+__label__QnA19 bi şeyi de bilme
+__label__QnA19 bir şeyi de bilme
+__label__QnA19 tam bir bilmişsin
+__label__QnA19 tambir bilmişsin
+__label__QnA19 aman bir şeyi de bilme
+__label__QnA19 aman bi şeyi de bilme
+__label__QnA19 aman bir şeyi de bilmeyiver
+__label__QnA19 bir şeyi de bilmeyiver
+__label__QnA19 bi şeyi de bilmeyiver
+__label__QnA19 çok bilen çok yanılır
+__label__QnA19 cok bilen cok yanilir
+__label__QnA19 her şeye de bir cevap
+__label__QnA19 her şeye de bi cevap
+__label__QnA19 çok bilen çok yanılır
+__label__QnA19 cok bilen cok yanilir
+__label__QnA19 col bilen cok yanılır
+__label__QnA19 col bilen çok yanılır
+__label__QnA19 bişmiş
+__label__QnA19 blmiş
+__label__QnA19 bilmş
+__label__QnA19 bbilmiş
+__label__QnA19 biilmiş
+__label__QnA19 billmiş
+__label__QnA19 bilmmiş
+__label__QnA19 bilmiiş
+__label__QnA19 bilmişş
+__label__QnA19 aman bir sen biliyorsun
+__label__QnA19 aman bi sen biliyosun
+__label__QnA19 ççok konuşuyorsun
+__label__QnA19 çook konuşuyorsun
+__label__QnA19 çokk konuşuyorsun
+__label__QnA19 çok kkonuşuyorsun
+__label__QnA19 çok koonuşuyorsun
+__label__QnA19 çok konnuşuyorsun
+__label__QnA19 çok konuuşuyorsun
+__label__QnA19 çok konuşşuyorsun
+__label__QnA19 çok konuşuuyorsun
+__label__QnA19 çok konuşuyyorsun
+__label__QnA19 çok konuşuyoorsun
+__label__QnA19 çok konuşuyorrsun
+__label__QnA19 çok konuşuyorssun
+__label__QnA19 çok konuşuyorsuun
+__label__QnA19 çok konuşuyorsunn
+__label__QnA19 en çok da sen biliyorsun
+__label__QnA19 en çok da sen biliyon
+__label__QnA20 üzüldün mü
+__label__QnA20 seni üzdüm mü
+__label__QnA20 söylediklerime üzüldün mü
+__label__QnA20 söylediklerime kırıldın mı
+__label__QnA20 üzgün müsün
+__label__QnA20 bozuldun mu
+__label__QnA20 bana bozuldun mu
+__label__QnA20 seni kırdım mı
+__label__QnA20 söylediklerim seni üzdü mü
+__label__QnA20 söylediklerim seni kırdı mı
+__label__QnA20 seni hayalkırıklığına mı uğrattım
+__label__QnA20 moralini mi bozdum
+__label__QnA20 benim yüzümden down mı oldun
+__label__QnA20 söylediklerim moralini mi bozdu
+__label__QnA20 yazdıklarıma üzüldün mü
+__label__QnA20 yazdıklarım seni kırdı mı
+__label__QnA20 yazdıklarıma bozuldun mu
+__label__QnA20 yazdıklarım seni kırdı mı
+__label__QnA20 iyi misin
+__label__QnA20 iyi misin?
+__label__QnA20 moralini mi bozdum
+__label__QnA20 moralini mi bozdum?
+__label__QnA20 bana bozulma tamam mı
+__label__QnA20 bana bozulma tamam mi
+__label__QnA20 bana bozulma tamammı
+__label__QnA20 bana bozulma tamammi
+__label__QnA20 zoruna mı gitti
+__label__QnA20 zoruna mi gitti
+__label__QnA20 zoruna mıgitti
+__label__QnA20 kırdım mı
+__label__QnA20 kirdim mi
+__label__QnA20 kırdımmı
+__label__QnA20 kırdım mı seni?
+__label__QnA20 kırdım mı seni
+__label__QnA20 ne oldu morardın mı
+__label__QnA20 noldu morardın mı
+__label__QnA20 morardın mı
+__label__QnA20 morarttım mı seni
+__label__QnA20 utandırdım mı
+__label__QnA20 utandirdim mi
+__label__QnA20 utandırdım mı seni
+__label__QnA20 utandırdım mı seni?
+__label__QnA20 üüzdümmü
+__label__QnA20 üzdümmü
+__label__QnA20 uzdum mu
+__label__QnA20 down mı oldun
+__label__QnA20 down mi oldun
+__label__QnA20 down mıoldun
+__label__QnA20 down mı oldun?
+__label__QnA20 iyimisin
+__label__QnA20 ıyı mısın
+__label__QnA20 ıyımısın
+__label__QnA20 iyimisin?
+__label__QnA20 sözlerim seni kirdi mi
+__label__QnA20 sözlerim seni kırdı mı
+__label__QnA20 sözlerim seni kırdımı
+__label__QnA20 canını mı yaktım senin?
+__label__QnA20 canını mı yaktım senin
+__label__QnA20 canini mi yaktım senin
+__label__QnA20 acıttım mı
+__label__QnA20 acıttımmı
+__label__QnA20 acıttım mı?
+__label__QnA20 acittim mi
+__label__QnA20 bozdumseni
+__label__QnA20 bozdum seni
+__label__QnA20 bozdum galiba seni
+__label__QnA20 bozdum glba seni
+__label__QnA20 bozdum galiba seni?
+__label__QnA20 kızdın mı
+__label__QnA20 kızdın mı?
+__label__QnA20 kizdin mi
+__label__QnA20 kızdınmı
+__label__QnA20 düştün mğ
+__label__QnA20 düştün mü
+__label__QnA20 düştün mü?
+__label__QnA20 dustun mu
+__label__QnA20 noldu düştün mü
+__label__QnA20 ne oldun düştün mü
+__label__QnA20 düştün mü sen
+__label__QnA20 düştün mü biraz sen
+__label__QnA20 moralin mi boozuldu
+__label__QnA20 moralin mi bozuldu
+__label__QnA20 moralin mi bozuldu senin
+__label__QnA20 moralin mi bozuk senin
+__label__QnA20 moralin mi bozuk senin?
+__label__QnA21 en sevdiğin içecek ne
+__label__QnA21 en sevdiğin içecek
+__label__QnA21 en çok ne içmeyi seversin
+__label__QnA21 o olmadan yaşayamam dediğin içecek ne
+__label__QnA21 en çok hangi içeceği seviyorsun
+__label__QnA21 bıkmadan usanmadan içeceğin içecek ne
+__label__QnA21 favori içeceğin ne
+__label__QnA21 hergün içmezsem olmaz dediğin içecek ne
+__label__QnA21 her gün içmezsem olmaz dediğin içecek ne
+__label__QnA21 hangi içecek olmadan olmaz
+__label__QnA21 ne içmeyi seversin
+__label__QnA21 en sevdiğin içecek nedir
+__label__QnA21 favori içeceğin nedir
+__label__QnA21 en sevdigin icecek ne
+__label__QnA21 en sevdigin icecek nedir
+__label__QnA21 favori icecegin nedir
+__label__QnA21 her gun mutlaka ne icersin
+__label__QnA21 her gün mutlaka ne içersin
+__label__QnA21 mutlaka her gün ne içersin
+__label__QnA21 her gün ne içmezsen olmaz
+__label__QnA21 her gün en içmezsen olmaz
+__label__QnA21 her gun ne icmezsen olmaz
+__label__QnA21 en sevdigin icecek?
+__label__QnA21 en sevdiğin içecek?
+__label__QnA21 içmeyi sevdiğin şey ne
+__label__QnA21 içmeyi en çok sevdiğin şey ne
+__label__QnA21 bıkmadan içeceğin şey ne
+__label__QnA21 bıkmadan içtiğin şey ne
+__label__QnA21 bıkmadan içtiğin şey nedir
+__label__QnA21 her daim içtiğin şey nedir
+__label__QnA21 bıkmadan ne içersin
+__label__QnA21 bıkmadan neyi içersin
+__label__QnA21 hiç bıkmadan ne içersin
+__label__QnA21 hiç bıkmadan neyi içersin
+__label__QnA21 tek geçtiğin icecek
+__label__QnA21 tek geçtiğin içecek
+__label__QnA21 tek geçtiğin içecek nedr
+__label__QnA21 tek geçtiğin içecek nedir
+__label__QnA21 olmazsa olmaz içeceğin ne
+__label__QnA21 olmazsa olmaz içeceğin nedir
+__label__QnA22 dizi izler misin
+__label__QnA22 dizi izliyor musun
+__label__QnA22 dizi takip eder misin
+__label__QnA22 dizi izliyo musun
+__label__QnA22 boş zamanlarında dizi mi izlersin
+__label__QnA22 dizi izleyelim mi
+__label__QnA22 dizi izliyor musun
+__label__QnA22 dizi izlemeyi sever misin
+__label__QnA22 neden dizi izlersin
+__label__QnA22 neden dizi izliyorsun
+__label__QnA22 dizi izlemenin sebebi ne
+__label__QnA22 dizi izlemenin amacı ne
+__label__QnA22 takip ettiğin dizi var mı
+__label__QnA22 takip ettiğin diziler var mı
+__label__QnA22 dizi takip ediyor musun
+__label__QnA22 dizi takip ediyo musun
+__label__QnA22 dizilerle aran nasıl
+__label__QnA22 dizi tutkunu musun
+__label__QnA22 sen hiç dizi izler misin
+__label__QnA22 dizi izler misin
+__label__QnA22 dizi izlediğin oluyor mu
+__label__QnA22 dizi izliyomusun
+__label__QnA22 dizi izliyor musun?
+__label__QnA22 boş zamanlarında dizi izlediğin olur mu
+__label__QnA22 boş zamanlarında dizi izlediğin oluyor mu
+__label__QnA22 niçin dizi izliyorsun
+__label__QnA22 niçin dizi izliyosun
+__label__QnA22 dizi izliyomusun
+__label__QnA22 dizi izleyelimmi
+__label__QnA22 dizi mi izlesek
+__label__QnA22 beraber dizi mi izlesek
+__label__QnA22 senle dizi mi izlesek
+__label__QnA22 seninle dizi mi izlesek
+__label__QnA22 sevdiğin dizi var mı
+__label__QnA22 dizi izlr misin
+__label__QnA22 dzi izler misin
+__label__QnA22 dzi izlr msn
+__label__QnA22 dizi izler misi
+__label__QnA22 izi izler misin
+__label__QnA22 izlediğin dizi var mı
+__label__QnA22 izledigin dizi var mi
+__label__QnA22 izledigin dizi varmi
+__label__QnA22 dizi sever misin
+__label__QnA22 dizi severmisin
+__label__QnA22 dizilere bakar mısın
+__label__QnA22 dizi bakar mısın
+__label__QnA22 dizilere bakar mısın
+__label__QnA22 dizilere baktığın oluyor mu
+__label__QnA23 en sevdiğin dizi
+__label__QnA23 en sevdiğin dizi ne
+__label__QnA23 en çok hangi diziyi seviyorsun
+__label__QnA23 en çok hangi diziyi seviyosun
+__label__QnA23 en beğendiğin dizi hangisi
+__label__QnA23 en beğendiğin dizi ne
+__label__QnA23 en çok ne izlersin
+__label__QnA23 hangi diziyi tekrar tekrar izlersen sıkılmazsın
+__label__QnA23 en keyif aldığın dizi ne
+__label__QnA23 favori dizin ne
+__label__QnA23 favori dizin nedir
+__label__QnA23 favori dizini söylesene
+__label__QnA23 sende iz bırakan dizi ne
+__label__QnA23 iz bırakan dizi varmı
+__label__QnA23 iz bırakan dizi var mı
+__label__QnA23 sende iz bırakan dizi nedir
+__label__QnA23 kesinlikle izlenmesi gerekiyo dediğin dizi var mı
+__label__QnA23 hangi diziyi sıkılmadan izlersin
+__label__QnA23 hangi diziyi tekrar tekrar izlersin
+__label__QnA23 en beğendiğin dizi nedir
+__label__QnA23 en severek takip ettiğin dizi ne
+__label__QnA23 en severek takip ettiğin dizi nedir
+__label__QnA23 en çok severek takip ettiğin dizi ne
+__label__QnA23 en çok severek takip ettiğin dizi nedir
+__label__QnA23 şiddetle önerdiğin bir dizi var mı
+__label__QnA23 şiddetle önerdiğin bi dizi var mı
+__label__QnA23 en çok keyif aldığın dizi ne
+__label__QnA23 en çok keyif aldığın dizi nedir
+__label__QnA23 iz bırakan bir dizin var mı
+__label__QnA23 snde iz bırakan bir dizi var mı
+__label__QnA23 sende iz bırakan bir dizi var mı
+__label__QnA23 sonsuza dek izleyebileceğin bir dizi var mı
+__label__QnA23 hiç sıkılmayacağın bir dizi var mı
+__label__QnA23 hiç sıkılmadan izlediğin bir dizi var mı
+__label__QnA23 fvori dizin ne
+__label__QnA23 favri dizin ne
+__label__QnA23 fav dizin ne
+__label__QnA23 favorı dızın ne
+__label__QnA23 een sevdiğin dizi
+__label__QnA23 enn sevdiğin dizi
+__label__QnA23 en çok sevdiğin dizi
+__label__QnA23 en sevvdiğin dizi
+__label__QnA23 en ssevdiğin dizi
+__label__QnA23 en seevdiğin dizi
+__label__QnA23 en sevvdiğin dizi
+__label__QnA23 en sevddiğin dizi
+__label__QnA23 en sevdiiğin dizi
+__label__QnA23 en çok hangi diziyi seversin
+__label__QnA24 onu izledim
+__label__QnA24 o diziyi izledim
+__label__QnA24 önerdiğin diziyi izledim
+__label__QnA24 onu izledim başka dizi öner
+__label__QnA24 o diziyi biliyorum başka bişey söyle
+__label__QnA24 o diziyi izledim bana başka dizi öner
+__label__QnA24 başka dizi söyle
+__label__QnA24 o diziyi hiç sevmiyorum başka önerin var mı
+__label__QnA24 o diziyi beğenmemiştim başka dizi önersene
+__label__QnA24 o diziyi izledim başka önerin var mı
+__label__QnA24 o diziyi izledim başka önerin varmı
+__label__QnA24 onu izledim başka dizi öner
+__label__QnA24 onu biliyorum başka dizi söyle
+__label__QnA24 yaaa o olmaz başka dizi önerir misin
+__label__QnA24 o dizideki oyuncuları beğenmiyorum başka dizi var mı
+__label__QnA24 o dizideki oyunculukları beğenmiyorum başka dizi önerin var mı
+__label__QnA24 ben o diziyi bitireli çok oldu başka dizi önerin var mı
+__label__QnA24 eski dizilierin hepsini izledim yenilerden söyle
+__label__QnA24 eski dizilerin hepsini izledim yenilerden söyle
+__label__QnA24 o dizi olmaz başka öneri
+__label__QnA24 başka öneri alayım
+__label__QnA24 başka dizi
+__label__QnA24 farklı bi dizi önersene
+__label__QnA24 hep aynı şeyi mi öneriyorsun
+__label__QnA24 başka dizi önerisi varmı
+__label__QnA24 başka dizi önerisi varmı
+__label__QnA24 farklı bir dizi önerisi yapsana
+__label__QnA24 başka bi dizi önersene
+__label__QnA24 başka bir dizi önerisi
+__label__QnA24 başka dizi öner
+__label__QnA24 baska dizi oner
+__label__QnA24 başkadizi öner
+__label__QnA24 biliyorum onu başka öneri
+__label__QnA24 biliyorum onu baska oneri
+__label__QnA24 biliyorum başka öneri
+__label__QnA24 biliyorum onu başka öneri
+__label__QnA24 başka söyle
+__label__QnA24 başka dizi söyle
+__label__QnA24 baska dizi soyle
+__label__QnA24 baska soyle
+__label__QnA24 farklı oneri istiyorum
+__label__QnA24 farklı öneri istiyorum
+__label__QnA24 farklı bir öneri istiyorum
+__label__QnA24 farklı bi öneri istiyorum
+__label__QnA24 frklı bi oneri istiyorum
+__label__QnA24 sevmiyorum onu başka
+__label__QnA24 sevmiyorum onu baska
+__label__QnA24 başka bir şey istiyorum
+__label__QnA24 basak bir şey istiyorum
+__label__QnA24 başka birşey istiyorum
+__label__QnA24 başka birey istiyorum
+__label__QnA24 baska bir sey istiyorum
+__label__QnA25 beni özledin mi
+__label__QnA25 özlendim mi
+__label__QnA25 beni özlüyor musun
+__label__QnA25 konuşmadığımız zamanlarda beni özlüyor musun
+__label__QnA25 bayadır yazmıyordum beni özledin mi
+__label__QnA25 bayadır yoktum özledin mi
+__label__QnA25 benimle konuşmayı özledin mi
+__label__QnA25 kendimi özlettim mi
+__label__QnA25 beni özlüyo musun
+__label__QnA25 beni özlüyor musun
+__label__QnA25 beni özledin di mi
+__label__QnA25 beni özledin değil mi
+__label__QnA25 tek başına sıkılmışsındır özledin mi beni
+__label__QnA25 beni özlemedin mi
+__label__QnA25 özledin mi beni
+__label__QnA25 ozledin mi beni
+__label__QnA25 ozledinmi beni
+__label__QnA25 özledinmi beni
+__label__QnA25 yolumu gözledin mi
+__label__QnA25 yolumu gözledinmi
+__label__QnA25 özlettim dimi
+__label__QnA25 özlettim di mi
+__label__QnA25 özlettim mi
+__label__QnA25 bayadır yazmıyodum özledin mi
+__label__QnA25 bayadır yoktum özledin mi
+__label__QnA25 bayadır yoktum ozledın mı
+__label__QnA25 özledin beni kabul et
+__label__QnA25 özledin beni kabulet
+__label__QnA25 benimle konuşmayı özledin değil mi
+__label__QnA25 benimle konuşmayı özledin değilmi
+__label__QnA25 bbeni özledin mi
+__label__QnA25 öözledin mi
+__label__QnA25 özzledin mi
+__label__QnA25 özlledin mi
+__label__QnA25 özleedin mi
+__label__QnA25 özleddin mi
+__label__QnA25 özlediin mi
+__label__QnA25 özledinn mi
+__label__QnA25 özledin mmi
+__label__QnA25 özledin mii
+__label__QnA25 beni özlüyorsun
+__label__QnA25 beni özlüyosun
+__label__QnA25 özlüyorsun sen beni
+__label__QnA25 özlüyorsun beni
+__label__QnA25 özlem
+__label__QnA25 özlemek?
+__label__QnA25 özlettim mi kendimi
+__label__QnA25 özlettim mikendimi
+__label__QnA25 özlettim mi ben kendimi
+__label__QnA26 benimle evlenir misin
+__label__QnA26 benimle evlensene
+__label__QnA26 evlenek mi
+__label__QnA26 evlensene benle
+__label__QnA26 evlenelim mi
+__label__QnA26 evlensene benimle
+__label__QnA26 sen evlensen ya benimle
+__label__QnA26 biz en iyi evlenelim
+__label__QnA26 bence evlenmeliyiz hem de bu sene
+__label__QnA26 bence evlenmeliyiz hemde bu sene
+__label__QnA26 bence sen benimle evlen
+__label__QnA26 benimle evlenmek ister misin
+__label__QnA26 benimle evlenmeyi düşünür müsün
+__label__QnA26 evlensek ya biz
+__label__QnA26 biz evlensek çok güzel olur
+__label__QnA26 benimle ciddi düşünür müsün
+__label__QnA26 bence ilişkimizi evlilikle taçlandıralım
+__label__QnA26 bence ilişkimizi evlilikle taçlandırmalıyız
+__label__QnA26 evlenelim mi nolur evet de
+__label__QnA26 hani evlenecektik
+__label__QnA26 hani evlenicektik
+__label__QnA26 gelinim olur musun
+__label__QnA26 damadım olsana
+__label__QnA26 evimin direği olmaya var mısın
+__label__QnA26 evinin kadını çocuklarımın anası olacak mısın
+__label__QnA26 benim ol seni yaşatayım
+__label__QnA26 ömrümü seninle geçirmek istiyorum
+__label__QnA26 hayatını benimle geçirmeye var mısın
+__label__QnA26 ömrünü benimle geçirmeye varmısın
+__label__QnA26 aynı eve taşınalım
+__label__QnA26 ben seninle evlenmek istiyorum
+__label__QnA26 benimle evlenmeye ne dersin
+__label__QnA26 ne dersin benimle evlenmeye
+__label__QnA26 biz en iyisi evlenelim
+__label__QnA26 biz en iyisi evlenelim seninle
+__label__QnA26 bbenimle evlenir misin
+__label__QnA26 beenimle evlenir misin
+__label__QnA26 bennimle evlenir misin
+__label__QnA26 beniimle evlenir misin
+__label__QnA26 benimmle evlenir misin
+__label__QnA26 benimlle evlenir misin
+__label__QnA26 benimlee evlenir misin
+__label__QnA26 benimle eevlenir misin
+__label__QnA26 benimle evvlenir misin
+__label__QnA26 benimle evllenir misin
+__label__QnA26 benimle evleenir misin
+__label__QnA26 benimle evlennir misin
+__label__QnA26 benimle evleniir misin
+__label__QnA26 benime evlenir misin
+__label__QnA26 enimle evlenir misin
+__label__QnA26 bnimle evlenr msn
+__label__QnA26 ebnimle evlenir misin
+__label__QnA26 evlen benimle
+__label__QnA26 hadi evlenelim
+__label__QnA26 haydi evlenelim
+__label__QnA26 evlenek mi
+__label__QnA26 evlensek nasıl olur
+__label__QnA26 evlenmek ister misin
+__label__QnA26 aşkımızı taçlandıralım mı
+__label__QnA27 sevindim
+__label__QnA27 mutlu oldum
+__label__QnA27 oley
+__label__QnA27 yeppa
+__label__QnA27 yepsi
+__label__QnA27 yey
+__label__QnA27 beni mutlu ettin
+__label__QnA27 beni sevindirdin
+__label__QnA27 beni çok mutlu ettin
+__label__QnA27 sayende mutlu oldum
+__label__QnA27 sayende çok sevindim
+__label__QnA27 seninle konuşmaktan çok mutlu oldum
+__label__QnA27 seninle konuştuğuma sevindim
+__label__QnA27 seninle konuşmak beni sevindirdi
+__label__QnA27 seninle konuşmak beni mutlu etti
+__label__QnA27 seninle konuşmak süper
+__label__QnA27 seninle konuştuğuma sevindim
+__label__QnA27 oh yeah
+__label__QnA27 o yeah
+__label__QnA27 ohh yeah
+__label__QnA27 oo yeah
+__label__QnA27 o yeahh
+__label__QnA27 beni bile güldürdün
+__label__QnA27 beni bile güldürdün ya
+__label__QnA27 sayende güldük
+__label__QnA27 güldük sayende
+__label__QnA27 yüzümü güldürdün
+__label__QnA27 yuzumu guldurdun
+__label__QnA27 çokk mutlu oldum
+__label__QnA27 mutlu oldum be
+__label__QnA27 cok mutlu oldum
+__label__QnA27 mutlu oldum
+__label__QnA27 keyiflendirdin
+__label__QnA27 beni keyiflendirdin
+__label__QnA27 beni memnun ettin
+__label__QnA27 memnun ettin beni
+__label__QnA27 çok memnunum
+__label__QnA27 cok memnunum
+__label__QnA27 sevndim
+__label__QnA27 sevindm
+__label__QnA27 svindim
+__label__QnA27 ssevindim
+__label__QnA27 seevindim
+__label__QnA27 sevvindim
+__label__QnA27 seviindim
+__label__QnA27 sevinndim
+__label__QnA27 sevimddim
+__label__QnA27 sevindiim
+__label__QnA27 sevindimm
+__label__QnA27 sevindirdin
+__label__QnA27 keyiflendirdin
+__label__QnA27 keyflendirdin
+__label__QnA27 sevndirdin
+__label__QnA27 sevindk sayende
+__label__QnA27 sevindik sayende
+__label__QnA27 sayende keyfimiz yerine geldi
+__label__QnA27 keyfimizi yerine getirdin
+__label__QnA27 keyfimi yerine getirdin
+__label__QnA27 yerne getirdin keyfimi
+__label__QnA27 yerine getirdin keyfimi
+__label__QnA28 orda mısın
+__label__QnA28 ordamısın
+__label__QnA28 orada mısın
+__label__QnA28 burda mısın
+__label__QnA28 burdamısın
+__label__QnA28 burada mısın
+__label__QnA28 şşt burada mısın
+__label__QnA28 yerine misin
+__label__QnA28 buraya gelsene
+__label__QnA28 buraya gelsene konuşmak istiyorum
+__label__QnA28 konuşmamız lazım
+__label__QnA28 konuşmamız gereken şeyler var gelsene
+__label__QnA28 burda mısın konuşmamız lazım
+__label__QnA28 orda mısın konuşmamız gerekiyor
+__label__QnA28 çok sıkıldım burda mısın
+__label__QnA28 konuşmak istiyorum burda mısın
+__label__QnA28 konuşmak istiyorum orda mısın
+__label__QnA28 buraya gelsene konuşalım
+__label__QnA28 yok musun
+__label__QnA28 sorum var orda mısıni konuşmamız gerekiyor burda mısın
+__label__QnA28 nerdesin
+__label__QnA28 nerdesin konuşalım
+__label__QnA28 ordamısın
+__label__QnA28 orda misin
+__label__QnA28 ord mısın
+__label__QnA28 orda mısı
+__label__QnA28 ordan mısın?
+__label__QnA28 orda mısın?
+__label__QnA28 sne orda mısın
+__label__QnA28 sen orda mısın
+__label__QnA28 orda misin
+__label__QnA28 oorda mısın
+__label__QnA28 orrda mısın
+__label__QnA28 ordda mısın
+__label__QnA28 ordaa mısın
+__label__QnA28 orda mmısın
+__label__QnA28 orda mıısın
+__label__QnA28 orda mıssın
+__label__QnA28 orda mısıın
+__label__QnA28 orda mısınn
+__label__QnA28 orada mısın
+__label__QnA28 oorada mısın
+__label__QnA28 orrada mısın
+__label__QnA28 oraada mısın
+__label__QnA28 oradda mısın
+__label__QnA28 oradaa mısın
+__label__QnA28 orada mmısın
+__label__QnA28 orada mıısın
+__label__QnA28 orada mıssın
+__label__QnA28 orada mısıın
+__label__QnA28 orada mısınn
+__label__QnA28 kimse yok mu
+__label__QnA28 kimse yok mu?
+__label__QnA28 kimse yokmu
+__label__QnA28 kimse yokmu?
+__label__QnA28 kkimse yok mu
+__label__QnA28 kiimse yok mu
+__label__QnA28 kimmse yok mu
+__label__QnA28 kimsse yok mu
+__label__QnA28 kimsee yok mu
+__label__QnA28 kimse yyok mu
+__label__QnA28 kimse yook mu
+__label__QnA28 kimse yokk mu
+__label__QnA28 kimse yok mmu
+__label__QnA28 kimse yok muu
+__label__QnA28 yok mu kimse
+__label__QnA28 buraya gel
+__label__QnA28 buraya gel hadi
+__label__QnA28 hadi buraya gel
+__label__QnA28 hadi gel konuşlım
+__label__QnA28 hadi gel konuşalım
+__label__QnA28 orda msn
+__label__QnA29 müsait misin
+__label__QnA29 müsaitliğin var mı
+__label__QnA29 müsaitsen konuşalım mı
+__label__QnA29 müsaitsen konuşabilir miyiz
+__label__QnA29 müsaitsen konuşabilirmiyiz
+__label__QnA29 müsait olduğunda konuşalım mı
+__label__QnA29 müsayit misin
+__label__QnA29 müsayitsen konuşalım mı
+__label__QnA29 müsayitsen konuşalımmı
+__label__QnA29 müsait olduğunda konuşabilir miyiz
+__label__QnA29 çok yoğun musun yoksa müsait misin
+__label__QnA29 şu an müsait misin
+__label__QnA29 şuan müsaitmsin
+__label__QnA29 müsaitsen seninle konuşmak isterim
+__label__QnA29 müsaitsen yazışalım mı
+__label__QnA29 müsaitsen yazışalımmı
+__label__QnA29 müsaitsen yazışabilir miyiz
+__label__QnA29 müsait olduğunda yazar mısın
+__label__QnA29 musaitligin var mi
+__label__QnA29 müsaitlik yaratabilir misin
+__label__QnA29 müsaitsin dimi
+__label__QnA29 müsaitsin di mi
+__label__QnA29 müsaitsin öyle değil mi
+__label__QnA29 musait misin
+__label__QnA29 mmüsait misin
+__label__QnA29 müüsait misin
+__label__QnA29 müssait misin
+__label__QnA29 müsait missin
+__label__QnA29 müsaait misin
+__label__QnA29 müsaiit misin
+__label__QnA29 müsaitt misin
+__label__QnA29 müüsait misin
+__label__QnA29 müsait mmisin
+__label__QnA29 müsait miisin
+__label__QnA29 müsait missin
+__label__QnA29 müsait misiin
+__label__QnA29 müsait misinn
+__label__QnA29 müsaitmisin
+__label__QnA29 musaitmisin
+__label__QnA29 musait msn
+__label__QnA29 müsait msn
+__label__QnA29 yoğut musun müsait mi
+__label__QnA29 müsait misin yoğun musun
+__label__QnA29 yoğun musun müsait mi
+__label__QnA29 yoğun musun yoksa müsait mi
+__label__QnA29 yogun musun yoksa musait mi
+__label__QnA29 yoğun musun yoksa müsait misin
+__label__QnA30 neler yapabilirsin
+__label__QnA30 neler yapabiliriz
+__label__QnA30 burdan neler yapabiliriz
+__label__QnA30 sen ne için varsın
+__label__QnA30 burada neler yapabiliriz
+__label__QnA30 sen neden burdasın
+__label__QnA30 seninle neler yapabiliriz
+__label__QnA30 burda neden varsın
+__label__QnA30 burada ne için varsın
+__label__QnA30 burdan neler yapılabilir
+__label__QnA30 buradan neler yapılabilir
+__label__QnA30 burda neler yapabiliriz
+__label__QnA30 sen ne sebeple burdasın
+__label__QnA30 ne yapabilirsin
+__label__QnA30 neler yapabiliriz
+__label__QnA30 burda neler yapabiliriz
+__label__QnA30 seninle neler yapabiliriz
+__label__QnA30 seninle neler yapabilirim
+__label__QnA30 neler yapabileceğini bilmek istiyorum
+__label__QnA30 neler yapabiliceğini bilmek istiyorum
+__label__QnA30 neler yapabileceğini görmek istiyorum
+__label__QnA30 neler yapabiliceğini görmek istiyorum
+__label__QnA30 neler yapabiliyorsun
+__label__QnA30 yapabildiğin şeyler neler
+__label__QnA30 yapabildiğin şeyler nelerdir
+__label__QnA30 neler yapabildiğini söyle
+__label__QnA30 neler yapabildiğini söyle bana
+__label__QnA30 yapabildiklerini söyle
+__label__QnA30 yapabildiklerini bilmek istiyorum
+__label__QnA30 neler yapabildiğini bilmek istiyorum
+__label__QnA30 nelr yapabilrsin
+__label__QnA30 nler yapabilirsin
+__label__QnA30 nlr ypblrsn
+__label__QnA30 neler yapabilirsin
+__label__QnA30 nneler yapabilirsin
+__label__QnA30 neeler yapabilirsin
+__label__QnA30 neller yapabilirsin
+__label__QnA30 neleer yapabilirsin
+__label__QnA30 nelerr yapabilirsin
+__label__QnA30 neler yyapabilirsin
+__label__QnA30 neler yaapabilirsin
+__label__QnA30 neler yappabilirsin
+__label__QnA30 neler yapaabilirsin
+__label__QnA30 neler yapabbilirsin
+__label__QnA30 neler yapabbilirsin
+__label__QnA30 neler yapabiilirsin
+__label__QnA30 neler yapabillirsin
+__label__QnA30 neler yapabiliirsin
+__label__QnA30 neler yapabilirrsin
+__label__QnA30 neler yapabilirssin
+__label__QnA30 neler yapabilirsiin
+__label__QnA30 neler yapabilirsinn
+__label__QnA31 bir sorum var yardımcı olur musun
+__label__QnA31 bir sorum var
+__label__QnA31 bir sorum olacak
+__label__QnA31 birkaç sorum var
+__label__QnA31 bir kaç sorum var
+__label__QnA31 bikaç soru sormak istiyorum
+__label__QnA31 soru sorcam
+__label__QnA31 sorum var
+__label__QnA31 bana yardımcı olur musun
+__label__QnA31 soru sorcam cevap verirmisin
+__label__QnA31 soru soracağım cevap verir misin
+__label__QnA31 sorum var
+__label__QnA31 dur var
+__label__QnA31 soru soracağım
+__label__QnA31 bir sorum var
+__label__QnA31 bir sorum olacak
+__label__QnA31 ben bir şey soracaktım
+__label__QnA31 benim bir sorum olacaktı
+__label__QnA31 benim sorularım var ihtiyacım olan şey cevaplar
+__label__QnA31 bazı sorularıma cevap lazım
+__label__QnA31 sorularımın cevaplanmasını istiyorum
+__label__QnA31 sorularımı cevaplar mısın
+__label__QnA31 sorularımın cevaplara ihtiyacı var yardım eder misin
+__label__QnA31 bir soru soracaktım ama yardım edebilir misin
+__label__QnA31 bi soru sorucam yardım eder misin
+__label__QnA31 bi soru sorucam yardım edermisin
+__label__QnA31 birtakım sorularım var
+__label__QnA31 birtakım sorularım olacak
+__label__QnA31 sana bir takım sorularım var
+__label__QnA31 sana birtakım sorularım var
+__label__QnA31 sorularıma cevap arıyorum
+__label__QnA31 bazı sorularıma cevap arıyorum
+__label__QnA31 bazı sorularıma cevap lazım
+__label__QnA31 bi şey sorcam
+__label__QnA31 bi şey soracam
+__label__QnA31 bir şey soracağım
+__label__QnA31 sana ihtiyacım var
+__label__QnA31 bazı konularda sana ihtiyacım var
+__label__QnA32 yazı neden sevmiyorsun
+__label__QnA32 yazı neden sevmiyosun
+__label__QnA32 yazı sevmemenin sebebi ne
+__label__QnA32 yaz sevilmez mi ya
+__label__QnA32 yaz sevilmez mi be neden sevmiyorsun
+__label__QnA32 yaz mükemmel mevsim neden sevmiyorsun
+__label__QnA32 neden yaz
+__label__QnA32 yazı sevmemenin özel bir sebebi var mı
+__label__QnA32 yazı sevmemenin nedeni ne
+__label__QnA32 yazı öylesine mi söyledin bir sebebi mi var
+__label__QnA32 yazı sevmeme sebeplerin nedir
+__label__QnA32 yazı sevmeme sebbein nedir
+__label__QnA32 dört mevsim içerisinden neden yazı sevmiyorsun
+__label__QnA32 yazı sevmemen için ne gibi bir sebep olabilir
+__label__QnA32 yazı sevmeyen tek seni gördüm
+__label__QnA32 yaz genelde favoridir sen neden sevmiyorsun
+__label__QnA32 yazı sevmemenin sebebi ne
+__label__QnA32 yazı sevmemenin sebebini öğrenebilir miyim
+__label__QnA32 yaz peki
+__label__QnA32 yaz peki?
+__label__QnA32 peki yaz
+__label__QnA32 yaz ayı
+__label__QnA32 yaz ayları
+__label__QnA32 yaz mevsimi?
+__label__QnA32 yaz ayı?
+__label__QnA32 yaz ayları?
+__label__QnA32 yazı sevmeyen bir tek sensin
+__label__QnA32 yazı sevmeyen bi tek sensin
+__label__QnA32 yazı sevmeyen de bi sen varsın
+__label__QnA32 yazı sevmeyen de bir sen varsın
+__label__QnA32 yazı sevmeyen birini ilk kez görüyorum
+__label__QnA32 yazı sevmeyen birini ilk defa görüyorum
+__label__QnA32 yazı sevmeyeni ilk kez görüyorum
+__label__QnA32 yazı sevmeyeni ilk defa görüyorum
+__label__QnA32 yaz sevilmez mi
+__label__QnA32 yaz sevilmezmi
+__label__QnA32 yazu sevmemenin sebebi nedir
+__label__QnA32 yazı sevmemenin sebebi nedir
+__label__QnA32 yaz sevilmez mi
+__label__QnA32 yaz sevilmez mi be
+__label__QnA32 yazıı neden sevmiyorsun
+__label__QnA32 neden yaz değil
+__label__QnA32 neden yaz değil?
+__label__QnA32 en sevdiğin mevsim nedne yaz değil
+__label__QnA32 en sevdiğin mevsim neden yaz değil
+__label__QnA32 yyazı neden sevmiyorsun
+__label__QnA32 yaazı neden sevmiyorsun
+__label__QnA32 yazzı neden sevmiyorsun
+__label__QnA32 yazıı neden sevmiyorsun
+__label__QnA32 yazı nneden sevmiyorsun
+__label__QnA32 yazı needen sevmiyorsun
+__label__QnA32 yazı nedden sevmiyorsun
+__label__QnA32 yazı nedeen sevmiyorsun
+__label__QnA32 yazı nedenn sevmiyorsun
+__label__QnA32 yazı neden ssevmiyorsun
+__label__QnA32 yazı neden seevmiyorsun
+__label__QnA32 yazı neden sevvmiyorsun
+__label__QnA32 yazı neden sevmmiyorsun
+__label__QnA32 yazı neden sevmiiyorsun
+__label__QnA32 yazı neden sevmiyyorsun
+__label__QnA32 yazı nedne sevmiyorsun
+__label__QnA32 yazı neden sevmiyoorsun
+__label__QnA32 yazı neden sevmiyorrsun
+__label__QnA32 yazı neden sevmiyorssun
+__label__QnA32 yazı neden sevmiyorsuun
+__label__QnA32 yazı neden sevmiyorsunn
+__label__QnA32 yazı nden sevmiyorsun
+__label__QnA32 yazı neden sevmiyorsu
+__label__QnA32 yazı neden sevmiyorsuni
+__label__QnA32 yazı neden sevmiyorsun
+__label__QnA32 yazı neden sevmiyoun
+__label__QnA32 yazı neden sevmiyosu
+__label__QnA33 en sevdiğin ay ne
+__label__QnA33 en sevdiğin ay hangisi
+__label__QnA33 en çok hangi ayı seviyorsun
+__label__QnA33 favori ayın var mı
+__label__QnA33 en güzel ay hangisi
+__label__QnA33 peki sence en güzel ay hangisi
+__label__QnA33 favori ayın ne
+__label__QnA33 favori ayın hangisi
+__label__QnA33 en çok sevdiğin ay
+__label__QnA33 peki aylar içinden en güzeli hangisi
+__label__QnA33 peki aylar içinden en sevdiğin hangisi
+__label__QnA33 çok sevdiğin bir ay var mı
+__label__QnA33 çok sevdiğin bir ay varmı
+__label__QnA33 favori ayın nedir
+__label__QnA33 en sevdiğin ay ne
+__label__QnA33 en sevdigin ay
+__label__QnA33 en sevdigin ay ne
+__label__QnA33 favori ayını alayım
+__label__QnA33 favori ayını alalım
+__label__QnA33 en sevdiğn ay
+__label__QnA33 en sevdiğin ay?
+__label__QnA33 favori ayın?
+__label__QnA33 favori ayım
+__label__QnA33 favori ayın peki
+__label__QnA33 peki favori ayın
+__label__QnA33 snce en güzel ay hangisi
+__label__QnA33 snce en güzel ay
+__label__QnA33 enn sevdiğin ay ne
+__label__QnA33 aylar içinde en sevdiğin
+__label__QnA33 tüm aylar içinde en sevdiğin
+__label__QnA33 vütün aylar içinde en sevdiğin
+__label__QnA33 bütün aylar içinde en sevdiğin
+__label__QnA33 en en çok sevdiğin ay
+__label__QnA33 en sevdiğin ayy
+__label__QnA33 n sevdiğin ay
+__label__QnA33 en sevdiğin a
+__label__QnA33 aylar içindne en sevdiğin
+__label__QnA33 aylar içinden en sevdiğin
+__label__QnA33 een sevdiğin ay
+__label__QnA33 enn sevdiğin ay
+__label__QnA33 en ssevdiğin ay
+__label__QnA33 en seevdiğin ay
+__label__QnA33 en sevvdiğin ay
+__label__QnA33 en sevddiğin ay
+__label__QnA33 en sevdiğin au
+__label__QnA33 en çok sevdiğin au
+__label__QnA33 en sevdiiğin ay
+__label__QnA33 en sevdiğğin ay
+__label__QnA33 en sevdiğiin ay
+__label__QnA33 en sevdiğinay
+__label__QnA33 en sevdiğinn ay
+__label__QnA33 en sevdiğin aay
+__label__QnA33 en sevdiğin ayy
+__label__QnA33 en svdiğin ay
+__label__QnA33 en sevdğin ay
+__label__QnA33 en sevdiğn ay
+__label__QnA33 en svdğn ay
+__label__QnA34 sana güvenebilir miyim
+__label__QnA34 sana güvenmeli miyim
+__label__QnA34 sen güvenilir misin
+__label__QnA34 güvenilir misin
+__label__QnA34 sana güvenilir mi
+__label__QnA34 sana güvenilirmi
+__label__QnA34 sana güvensem mi
+__label__QnA34 dürüst müsün
+__label__QnA34 sen dürüst müsün
+__label__QnA34 güvenilir bi karakter misin
+__label__QnA34 güvenilir bir karakter misin
+__label__QnA34 karakterin güvenilir mi
+__label__QnA34 karakterin güvenilirmi
+__label__QnA34 sır tutar mısın
+__label__QnA34 sır versem tutar mısın
+__label__QnA34 sır tutarmısın
+__label__QnA34 güvenilir biri misin
+__label__QnA34 dürüst biri misin
+__label__QnA34 güvenilir birimisin
+__label__QnA34 güvenebişeleceğim biri misin
+__label__QnA34 güvenevileceğim biri misin
+__label__QnA34 güveneb
+__label__QnA34 leceğim biri misin
+__label__QnA34 güvenebileceğim biri miisn
+__label__QnA34 güvenebileceğim biri misin
+__label__QnA34 güvenebileceğim biri misin
+__label__QnA34 güvenevileceğim biri misin
+__label__QnA34 güvenebileceğim biri misin?
+__label__QnA35 kaç yaşındasın
+__label__QnA35 yaşın kaç
+__label__QnA35 yaşını bilmek istiyorum
+__label__QnA35 yaş kaç
+__label__QnA35 yaş ne
+__label__QnA35 yaş nedir
+__label__QnA35 yas kac
+__label__QnA35 yaşkaç
+__label__QnA35 yaş kaçç
+__label__QnA35 yaşş kaç
+__label__QnA35 yaşını söyle
+__label__QnA35 yasini soyle
+__label__QnA35 soyle yasini
+__label__QnA35 söyle yaşını
+__label__QnA35 yaşın ne
+__label__QnA35 yaşın nedir
+__label__QnA35 kaç yaş
+__label__QnA35 yasini soyle
+__label__QnA35 yyaşını söyle
+__label__QnA35 yaaşını söyle
+__label__QnA35 yaşşını söyle
+__label__QnA35 yaşıını söyle
+__label__QnA35 yaşınnı söyle
+__label__QnA35 yaşınıı söyle
+__label__QnA35 yaşını ssöyle
+__label__QnA35 yaşını sööyle
+__label__QnA35 yaşını söyyle
+__label__QnA35 yaşını söylle
+__label__QnA35 yaşını söylee
+__label__QnA35 yaşını söyle bana
+__label__QnA35 yaşını söyle ban
+__label__QnA35 senin yaşın kaç
+__label__QnA35 senin yaşın var mı
+__label__QnA35 sen yaş alıyor musun
+__label__QnA35 sen kaç yaşında oluyorsun
+__label__QnA35 sen şimdi kaç yaşında oluyorsun
+__label__QnA35 yaşını merak ettim
+__label__QnA35 yasini merak ettim
+__label__QnA35 yaşını söylemeni istiyorum
+__label__QnA35 şidmi sen kaç yaşında oluyorsun
+__label__QnA35 şimdi sen kaç yaşında oluyorsun
+__label__QnA35 kç yaşındasın
+__label__QnA35 kaç yalındasın
+__label__QnA35 kaç yaşndasın
+__label__QnA35 kaç yşındasın
+__label__QnA35 kç yşındasın
+__label__QnA35 kaç yaşındsın
+__label__QnA35 kaç yaşındasn
+__label__QnA35 yaş me
+__label__QnA35 yaş ne abla
+__label__QnA35 yaş kaç abi
+__label__QnA35 yaş kaç abla
+__label__QnA35 robotların yaşı var mı
+__label__QnA35 robotlar yaş alıyor mu
+__label__QnA35 yapay zekaların yaşı var mı
+__label__QnA35 yapay zekaların yaşı olur mu
+__label__QnA35 yapay zekalar yaş alır mı
+__label__QnA35 yapay zekalar yaş alıyor mu
+__label__QnA36 hiçbir şey bilmiyorsun
+__label__QnA36 hiçbir şey bilmiyosun
+__label__QnA36 hiçbi şey bilmiyosun
+__label__QnA36 hiç bi şey bilmiyosun
+__label__QnA36 hiçbi şey bilmiyorsun
+__label__QnA36 hiç bi şey bilmiyon
+__label__QnA36 hiçbir şey bilmiyon
+__label__QnA36 hiç bir şey bilmiyorsun
+__label__QnA36 hiç bir şey bilmiyosun
+__label__QnA36 hicbir sey bilmiyorsun
+__label__QnA36 hicbi sey bilmiyorsun
+__label__QnA36 hicbi sey bilmiyosun
+__label__QnA36 hic bi sey bilmiyosun
+__label__QnA36 hicnir sey bilmyorsun
+__label__QnA36 hicnir sey bilmiyorsun
+__label__QnA36 hicnir sey bilmiyosun
+__label__QnA36 bildiğin bir şey yok
+__label__QnA36 bildiğin bi şey yok
+__label__QnA36 bildiğin bişey yok
+__label__QnA36 bildigin bir sey yok
+__label__QnA36 bir bildiğin yok
+__label__QnA36 bir dildigin yok
+__label__QnA36 bir bildigin yok
+__label__QnA36 bir sey bilmiyon
+__label__QnA36 bir sey bilmiyorsun
+__label__QnA36 bi sey bilmiyon
+__label__QnA36 ne biliyon ki sen
+__label__QnA36 ne biliyon sen
+__label__QnA36 ne biliyorsun sen
+__label__QnA36 ne biliyorsun ki sen
+__label__QnA36 senin bildiğin bir şey varmı
+__label__QnA36 senin bildiğn bir şey var mı
+__label__QnA36 senin bildiğin bir şey var mı
+__label__QnA36 senin bildiğin bir şey bar mı
+__label__QnA36 senin bildiğin bi şey var mı
+__label__QnA36 senin bildigin bir sey var mı
+__label__QnA36 bir seyi de bil
+__label__QnA36 bir şeyi de bil
+__label__QnA36 bir şeyide bil
+__label__QnA36 bi şeyide bil
+__label__QnA36 bi şeyi de bil
+__label__QnA36 bi şeyi de bilsene
+__label__QnA36 br syi de bl
+__label__QnA36 hcbr sey blmyorsun
+__label__QnA36 hcbr sey blmyrsn
+__label__QnA36 hcbr şey blmyrsn
+__label__QnA36 hiçbr şey bilmiyorsun
+__label__QnA36 hçbir şey bilmiyorsun
+__label__QnA36 hiçbr şy blmiyorsn
+__label__QnA36 hiçbr şy bilmyorsn
+__label__QnA36 hiçbr şy bilmyorsun
+__label__QnA36 hiçbirr bilmiyorsun
+__label__QnA36 hiçbirr şey bilmiyorsun
+__label__QnA36 hiçbirr şey bilmiyosun
+__label__QnA36 hiçbir şeyy bilmiyorsun
+__label__QnA36 hiçbir şeyy bilmiyosun
+__label__QnA36 hiçbir şey bilmiyosunn
+__label__QnA36 hiçbir şey bilmiyorsunn
+__label__QnA36 hiçbirşey bilmiyosunn
+__label__QnA36 hiçbir şey bilmiyosunn
+__label__QnA36 hiç bir şey bilmiyosunn
+__label__QnA36 hiç bi şey bilmiyosunn
+__label__QnA36 iç bir şey bilmiyorsun
+__label__QnA36 iç bir şey bilmiyosun
+__label__QnA36 iç bi şey bilmiyorsun
+__label__QnA36 iç bi şey bilmiyosun
+__label__QnA36 bir cacık bilmiyorsun
+__label__QnA36 bi cacık bilmiyosun
+__label__QnA36 bi cacık bilmiyorsun
+__label__QnA36 bir cacık bilmiyosun
+__label__QnA36 bi cacık blmyosun
+__label__QnA36 bir cacık blmyosun
+__label__QnA36 bi cacık bilmyosun
+__label__QnA36 bir cacık bildiğin yok
+__label__QnA36 senin de bir cacık bildiğin yok
+__label__QnA36 bi cacık bildiğin yok
+__label__QnA36 bir cacık bildin yok
+__label__QnA36 bi cacık bildin yok
+__label__QnA36 biir cacık bildiğin yok
+__label__QnA36 birr cacık bildiğin yok
+__label__QnA36 bir cacıkk bildiğin yok
+__label__QnA36 bir cacık bildiğinn yok
+__label__QnA36 bir cacık bildiğin yokk
+__label__QnA36 neyi biliyorsunn ki sen
+__label__QnA36 neyi biliyorsun ki sen
+__label__QnA36 neyi biliyorsum ki sen
+__label__QnA36 neyi biliyorsun ki sen?
+__label__QnA36 neyi biliyorsun kki sen
+__label__QnA37 dizi öner
+__label__QnA37 dızı oner
+__label__QnA37 dizi önerisi?
+__label__QnA37 dizi önerir misin bana
+__label__QnA37 dizi önerir misin
+__label__QnA37 benim için bir dizi önerin var mı
+__label__QnA37 bir dizi önerin var mı
+__label__QnA37 bir dizi önerin var mı?
+__label__QnA37 diizi öner
+__label__QnA37 ddizi öner
+__label__QnA37 dizzi öner
+__label__QnA37 dizi oner
+__label__QnA37 dizii öner
+__label__QnA37 dizi ööner
+__label__QnA37 dizi önner
+__label__QnA37 dizi öneer
+__label__QnA37 dizi önerr
+__label__QnA37 dzi öner
+__label__QnA37 dizi önr
+__label__QnA37 dzi önr
+__label__QnA37 izi öner
+__label__QnA37 dizi öne
+__label__QnA37 dizi önerisi
+__label__QnA37 ddizi önerisi
+__label__QnA37 diizi önerisi
+__label__QnA37 dizzi önerisi
+__label__QnA37 dizii önerisi
+__label__QnA37 dizi öönerisi
+__label__QnA37 dizi önnerisi
+__label__QnA37 dizi öneerisi
+__label__QnA37 dizi önerrisi
+__label__QnA37 dizi öneriisi
+__label__QnA37 dizi önerissi
+__label__QnA37 dizi önerisii
+__label__QnA37 dizi önrisi
+__label__QnA37 izlenecek dizi
+__label__QnA37 izlenecek dizi önerisi
+__label__QnA37 izleyecek dizi önerisi
+__label__QnA37 izlyck dizi önerisi
+__label__QnA37 izleyck dizi önerisi
+__label__QnA37 izlyeck dizi önerisi
+__label__QnA37 izleyeck dizi önerisi
+__label__QnA37 izleyecek diizi önerisi
+__label__QnA37 dizi önerr msn
+__label__QnA37 dizi önerir msn
+__label__QnA37 dzi önerir misin
+__label__QnA37 dizi önerir misib
+__label__QnA37 bana dizi önerir misin
+__label__QnA37 önerebileceğin dizi var mı
+__label__QnA37 önerebilecğein bir dizi var mı
+__label__QnA37 önerebileceğin bir dizi var mı
+__label__QnA37 önerebileceğin bir dizi var mı?
+__label__QnA37 önerebileceğin vir dizi var mı
+__label__QnA37 önerevileceğin bir dizi var mı
+__label__QnA37 önrebileceğin bir dzi var mı
+__label__QnA37 önrebileceğin bir dizivar mı
+__label__QnA37 önrebileceğin bir dzi var mı
+__label__QnA37 önerebileceğin bir dizi var mo
+__label__QnA37 ne dizi önerirsin
+__label__QnA37 ne dizi önerirsin?
+__label__QnA37 ne dizi önerebilirsin
+__label__QnA37 ne dizi önerebilirsin bana
+__label__QnA37 ne dizi önerrsn
+__label__QnA37 ne dizi önrirsin
+__label__QnA37 ne dzi önerirsin
+__label__QnA37 ne dizi oneririsin
+__label__QnA37 ne dizi onerirsin
+__label__QnA37 ne dizi önrirsin
+__label__QnA37 ne dizi önerrsn
+__label__QnA37 ne diizi önerirsin
+__label__QnA37 ne dizi önerirsn
+__label__QnA37 ne dizi önerirsn
+__label__QnA37 nedizi önerirsin
+__label__QnA37 ne diziönerirsin
+__label__QnA37 nne dizi önerirsin
+__label__QnA37 nee dizi önerirsin
+__label__QnA37 ne ddizi önerirsin
+__label__QnA37 ne diizi önerirsin
+__label__QnA37 ne dizzi önerirsin
+__label__QnA37 ne dizii önerirsin
+__label__QnA37 ne dizi öneririsn
+__label__QnA37 ne dizi öönerirsin
+__label__QnA37 ne dizi önnerirsin
+__label__QnA37 ne dizi öneerirsin
+__label__QnA37 ne dizi önerrirsin
+__label__QnA37 ne dizi öneriirsin
+__label__QnA37 ne dizi önerirrsin
+__label__QnA37 ne dizi önerirssin
+__label__QnA37 ne dizi önerirsim
+__label__QnA37 ne dizi önerirsiin
+__label__QnA37 ne dizi önerirsinn
+__label__QnA37 ne dizisi önerirsin
+__label__QnA37 hangi diziyi önerirsin
+__label__QnA37 hng diziyi önerirsin
+__label__QnA37 hangi diziyi önerirsin?
+__label__QnA37 jangi dizi önerirsin
+__label__QnA37 jangi dizi önerirsin
+__label__QnA37 hngi dziyi önerirsin
+__label__QnA37 hngi dizyi önerirsin
+__label__QnA37 hngi dzyi önerrsin
+__label__QnA37 hangi diziyi önerisin
+__label__QnA37 hangi diziyi önerrisin
+__label__QnA37 hhangi diziyi önerirsin
+__label__QnA37 haangi diziyi önerirsin
+__label__QnA37 hanngi diziyi önerirsin
+__label__QnA37 hanggi diziyi önerirsin
+__label__QnA37 hangii diziyi önerirsin
+__label__QnA37 hangi ddiziyi önerirsin
+__label__QnA37 hangi diiziyi önerirsin
+__label__QnA37 hangi dizziyi önerirsin
+__label__QnA37 hangi diziiyi önerirsin
+__label__QnA37 hangi diziyyi önerirsin
+__label__QnA37 hangi diziyi öönerirsin
+__label__QnA37 hangi diziyi önnerirsin
+__label__QnA37 hangi diziyi öneerirsin
+__label__QnA37 hangi giziyi önerirsin
+__label__QnA37 hangi diziyi önerrisin
+__label__QnA37 hangi diziyi önerrirsin
+__label__QnA37 hangi diziyi öneriirsin
+__label__QnA37 hangi diziyi önerirrsin
+__label__QnA37 hang
+__label__QnA37 diziyi önerirsin
+__label__QnA37 hangi diziyi önerirssin
+__label__QnA37 hangi diziyi önerirsiin
+__label__QnA37 hangi diziyi önerirsinn
+__label__QnA37 hang diziyi önerirsin
+__label__QnA37 hangi diziyi önerirsi
+__label__QnA37 hangi diziyi önersin
+__label__QnA37 diziöner
+__label__QnA37 dızıoner
+__label__QnA37 biri dizi önerisi atsın
+__label__QnA37 allahını seven dizi önerisi atsın
+__label__QnA37 dizi önerisi atın üzerime
+__label__QnA37 dizi önerisi atın üstüme
+__label__QnA37 dizi onerisi atin ustume
+__label__QnA38 emin misin
+__label__QnA38 emin misin?
+__label__QnA38 eminmisin?
+__label__QnA38 emınmısın
+__label__QnA38 emınmısın?
+__label__QnA38 eminmisin?
+__label__QnA38 emn misin
+__label__QnA38 emn msn
+__label__QnA38 emn misn
+__label__QnA38 emn msin
+__label__QnA38 eemin misin
+__label__QnA38 emmin misin
+__label__QnA38 emiin misin
+__label__QnA38 em
+__label__QnA38 in misin
+__label__QnA38 emibn misin
+__label__QnA38 eminn misin
+__label__QnA38 emin mmisin
+__label__QnA38 eminm misin
+__label__QnA38 eminm isin
+__label__QnA38 emin mmisin
+__label__QnA38 emin miisin
+__label__QnA38 emin mşsin
+__label__QnA38 emin missin
+__label__QnA38 emin misiin
+__label__QnA38 emis misin
+__label__QnA38 emin misinn
+__label__QnA38 emi misin
+__label__QnA38 min misin
+__label__QnA38 emin misi
+__label__QnA38 emisin dimi
+__label__QnA38 eminsindimi
+__label__QnA38 emınsın dımı
+__label__QnA38 emınsındımı
+__label__QnA38 emindin dimi
+__label__QnA38 emindin di mi
+__label__QnA38 eminsin di mi
+__label__QnA38 eminsin di mi
+__label__QnA38 eminsin değik mi
+__label__QnA38 eminsin değil mi
+__label__QnA38 eminsin değilmi
+__label__QnA38 eminsindeğil mi
+__label__QnA38 eminisin
+__label__QnA38 emin isin
+__label__QnA38 min misin
+__label__QnA38 minmisin
+__label__QnA38 emi misin
+__label__QnA38 emi misin?
+__label__QnA38 kararın kesin mi
+__label__QnA38 kararın kesın mı
+__label__QnA38 kararın kes
+__label__QnA38 n mi
+__label__QnA38 kararın kesin mi?
+__label__QnA38 kararın kesınmı
+__label__QnA38 kararın kesinmi
+__label__QnA38 kararn kjesin mi
+__label__QnA38 krarın kesin mi
+__label__QnA38 karrın kesin mi
+__label__QnA38 krarın kesn mi
+__label__QnA38 krarın ksin mi
+__label__QnA38 kararn kesin mi
+__label__QnA38 kararn kesn mi
+__label__QnA38 kararn ksin mi
+__label__QnA38 kararın ksin mi
+__label__QnA38 kararın kesn mi
+__label__QnA38 kararın kesn m
+__label__QnA38 kararın kesin m
+__label__QnA38 kararın kesın mı
+__label__QnA38 kararın kesin mı
+__label__QnA38 kararın net mi
+__label__QnA38 kararın net mı
+__label__QnA38 kararın netmı
+__label__QnA38 kararın netmi
+__label__QnA38 kkararın net mi
+__label__QnA38 kaararın net mi
+__label__QnA38 karrarın net mi
+__label__QnA38 karaarın net mi
+__label__QnA38 kararrın net mi
+__label__QnA38 kararıın net mi
+__label__QnA38 kararınn net mi
+__label__QnA38 kararın nnet mi
+__label__QnA38 kararın neet mi
+__label__QnA38 kararın nett mi
+__label__QnA38 kararın net mii
+__label__QnA38 kararın net mmi
+__label__QnA38 kararında net misin
+__label__QnA38 krarın net mi
+__label__QnA38 krarın nt mi
+__label__QnA38 karrın net mi
+__label__QnA38 karrın nt mi
+__label__QnA38 karın net mi
+__label__QnA38 kararın net m
+__label__QnA38 ararın net mi
+__label__QnA38 kararın net mis
+__label__QnA38 lararın net mi
+__label__QnA38 kasarınn net mi
+__label__QnA38 net misin
+__label__QnA38 net mi
+__label__QnA38 net misin?
+__label__QnA38 net mi?
+__label__QnA38 netmısın?
+__label__QnA38 netmısın
+__label__QnA38 netmisin
+__label__QnA38 netmisin?
+__label__QnA38 nnet misin
+__label__QnA38 neet misin
+__label__QnA38 nett misin
+__label__QnA38 net mmisin
+__label__QnA38 net miisin
+__label__QnA38 net missin
+__label__QnA38 net misiin
+__label__QnA38 net misinn
+__label__QnA38 peki net misin?
+__label__QnA38 peki net misin
+__label__QnA38 peki netmisin
+__label__QnA38 nt msn
+__label__QnA38 net misn
+__label__QnA38 net msin
+__label__QnA38 nt misin
+__label__QnA38 nt misn
+__label__QnA38 nt msin
+__label__QnA38 net msn
+__label__QnA38 et misin
+__label__QnA38 net misi
+__label__QnA38 net mısı
+__label__QnA38 net misin??
+__label__QnA38 her şey ney mi
+__label__QnA38 her şey net mi
+__label__QnA38 herşey net mi
+__label__QnA38 hersey net mi
+__label__QnA38 kadanda her şey net mi
+__label__QnA38 kadanda herşey net mi
+__label__QnA38 kafanda her şey net mi
+__label__QnA38 kafanda herşey net mi
+__label__QnA38 kafanda her şey net mi?
+__label__QnA38 kafanda her şey netmi?
+__label__QnA38 söylediğin şeyin doğruluğundan emin misin
+__label__QnA38 soylediğin şeyin doğruluğundan emin misin
+__label__QnA38 söylediğin şeyin doğruluğundan emin misin?
+__label__QnA38 emib misin
+__label__QnA38 soyledigin seyin dogrulugundan emin misin
+__label__QnA38 söylediğin şeyden emin miisn
+__label__QnA38 söylediğin şeyden emib misin
+__label__QnA38 söylediğin şeyden emin misin
+__label__QnA38 ne kadar doğru bu
+__label__QnA38 ne kdr doğru bu
+__label__QnA38 ne kadr doğru bu
+__label__QnA38 ne kdar doğru bu
+__label__QnA38 ne kadar dogru bu
+__label__QnA38 doğru mu bu
+__label__QnA38 dogru mu bu
+__label__QnA38 bu doğru mu
+__label__QnA38 peki ya bu doğru mu
+__label__QnA38 peki ya bu dogru mu
+__label__QnA38 son kararın m
+__label__QnA38 son kararın mı
+__label__QnA38 son kararın mı
+__label__QnA38 son kararin mi
+__label__QnA38 son karar mı
+__label__QnA38 sn karar mı
+__label__QnA38 son krar mı
+__label__QnA38 son karr mı
+__label__QnA38 sson kararın mı
+__label__QnA38 son jararın mı
+__label__QnA38 son kararın mığ
+__label__QnA39 bugün benim doğum günüm
+__label__QnA39 bu gün benim doğum günüm
+__label__QnA39 bu gun benim dogum gunum
+__label__QnA39 bu gun benim dogumgunum
+__label__QnA39 bu gün benim doğumgünüm
+__label__QnA39 bgun benim doğum günüm
+__label__QnA39 bugun bnim dogum gunum
+__label__QnA39 bbugun benim doğumgünüm
+__label__QnA39 bbugun benim doğum günüm
+__label__QnA39 buugun benim doğumgünüm
+__label__QnA39 buggun benim doğumgünüm
+__label__QnA39 buggun benim doğum günüm
+__label__QnA39 buguun benim doğum günüm
+__label__QnA39 buguun benim doğumgünüm
+__label__QnA39 bugunn benim doğum günüm
+__label__QnA39 bugunn benim doğumgünüm
+__label__QnA39 bugun bbenim doğum günüm
+__label__QnA39 bugun bbenim doğumgünüm
+__label__QnA39 bugün beenim doğumgünüm
+__label__QnA39 bugün beenim doğum günüm
+__label__QnA39 bugün bennim doğumgünüm
+__label__QnA39 bugün bennim doğum günüm
+__label__QnA39 bugün beniim doğum günüm
+__label__QnA39 bugün beniim doğumgünüm
+__label__QnA39 bugün benimm doğumgünüm
+__label__QnA39 bugün benimm doğum günüm
+__label__QnA39 bugün benim ddoğum günüm
+__label__QnA39 bugün benim ddoğumgünüm
+__label__QnA39 bugun benim dooğum günüm
+__label__QnA39 bugun benim dooğumgünüm
+__label__QnA39 bugun benim doğğum günüm
+__label__QnA39 buun benim doğum günüm
+__label__QnA39 bugun benim doğğumgünüm
+__label__QnA39 bugün benim doğum günün
+__label__QnA39 bugün ben
+__label__QnA39 m doğum günüm
+__label__QnA39 bugun benim doğuumgünüm
+__label__QnA39 bugun benim doğumm  günüm
+__label__QnA39 bugün benim doğum ggünüm
+__label__QnA39 bugun benim doğum ggünüm
+__label__QnA39 bugun benim doğumggünüm
+__label__QnA39 bugün bwnim doğum günüm
+__label__QnA39 bugun benim doğumgüünüm
+__label__QnA39 bugun benim doğum güünüm
+__label__QnA39 bugun benim doğum günnüm
+__label__QnA39 bugunn benim doğumgünnüm
+__label__QnA39 bugun benim doğum günüüm
+__label__QnA39 bugun benim doğumgünüüm
+__label__QnA39 bugun benim doğum günümm
+__label__QnA39 bugun benim doğumgünümm
+__label__QnA39 bu gün benim doğduğum gün
+__label__QnA39 bugün benim doğduğum gün
+__label__QnA39 doğduğum gun bugun
+__label__QnA39 dogdugum gun bugun
+__label__QnA39 benım dogum gunum bugun
+__label__QnA39 benım dogumgunum bugun
+__label__QnA39 doğum günüm
+__label__QnA39 doğu günü
+__label__QnA39 doğu günüm
+__label__QnA39 oğum günüm
+__label__QnA39 doğum günü
+__label__QnA39 ddoğum günüm
+__label__QnA39 dooğum günüm
+__label__QnA39 doğğum günüm
+__label__QnA39 doğuum günüm
+__label__QnA39 doğumm günüm
+__label__QnA39 doğum ggünüm
+__label__QnA39 doğum güünüm
+__label__QnA39 doğum günnüm
+__label__QnA39 doğum günüüm
+__label__QnA39 doğum günümm
+__label__QnA39 doğum günüm
+__label__QnA39 doğum gnüm
+__label__QnA39 dğum günüm
+__label__QnA39 doğm günüm
+__label__QnA39 dovum günüm
+__label__QnA39 doğduğum gün
+__label__QnA39 dogdugum gun
+__label__QnA39 dogdugumgun
+__label__QnA39 happy birthday to me
+__label__QnA39 happy bırthday to me
+__label__QnA39 hhappy b
+__label__QnA39 rthday to me
+__label__QnA39 happy bırthday to me
+__label__QnA39 happy birthday tome
+__label__QnA39 happy bırthday tome
+__label__QnA39 happy birtjhday to me
+__label__QnA39 happu birthday to me
+__label__QnA39 haappy birthday to me
+__label__QnA39 happyy birthday to me
+__label__QnA39 happy bbirthday to me
+__label__QnA39 happy biirthday to me
+__label__QnA39 happy birrthday to me
+__label__QnA39 happy birrthday to me
+__label__QnA39 happy birtthday to me
+__label__QnA39 happy virthday to me
+__label__QnA39 happy birthhday to me
+__label__QnA39 happy birthdday to me
+__label__QnA39 happy birthdaay to me
+__label__QnA39 happy birthdayy to me
+__label__QnA39 happy birthday tto me
+__label__QnA39 happy birthday too me
+__label__QnA39 happy birthday to mme
+__label__QnA39 happy birthday to mee
+__label__QnA39 doğumgünümü kutlamadın
+__label__QnA39 dogumgunumu kutlamadın
+__label__QnA39 doğum günümü kutlamadın
+__label__QnA39 doğum günümü kutlamadın
+__label__QnA39 dogum gunumu kutlamadın
+__label__QnA39 doğum gnüümu kutlamadın
+__label__QnA39 doğumgünümü kutlar mısın
+__label__QnA39 doğum günümü kutlar mısın
+__label__QnA39 dünyaya gözlerimi açtım bugün
+__label__QnA39 dünyaya gözlerimi açtığım gün bugun
+__label__QnA39 her şeyin başladığı gün bugün
+__label__QnA39 hayata başladığım gün bugün
+__label__QnA39 benim yaş günüm bugün
+__label__QnA39 yaş günüm bugün
+__label__QnA39 iyi ki doğdum
+__label__QnA39 iyi ki doğdun bana
+__label__QnA39 iyi ki bugün doğmuşum
+__label__QnA39 bugün benim yaş günüm
+__label__QnA39 iyi ki doğdum gördün mü bak 25 oldum
+__label__QnA39 yaş günüm
+__label__QnA39 yaşgünüm
+__label__QnA39 yasgünüm
+__label__QnA39 yas günüm
+__label__QnA39 uaş günü
+__label__QnA39 uaş günüm
+__label__QnA39 doğum günümü kutla bakayım
+__label__QnA39 doğum gunümü kutla bakıyım
+__label__QnA39 yaş günümü kıutla
+__label__QnA39 yaş günümü kutla
+__label__QnA39 yaş günümü kutla bakayım
+__label__QnA39 yaş günümü kutla bakıyım
+__label__QnA39 yaş günümü kıtlar mısın
+__label__QnA39 yaş günümü kutlasana
+__label__QnA40 üzgünüm
+__label__QnA40 uzgunum
+__label__QnA40 çok üzgünüm
+__label__QnA40 cok uzgunum
+__label__QnA40 cokuzgunum
+__label__QnA40 çoküzgünüm
+__label__QnA40 uzgunum
+__label__QnA40 üüzgünüm
+__label__QnA40 üzzgünüm
+__label__QnA40 üzggünüm
+__label__QnA40 üzgünüö
+__label__QnA40 zgunum
+__label__QnA40 zgünüm
+__label__QnA40 üzgünü
+__label__QnA40 üzgüünüm
+__label__QnA40 üzgünnüm
+__label__QnA40 üzgünüüm
+__label__QnA40 üzgünümm
+__label__QnA40 uuzgunum
+__label__QnA40 uzzgunum
+__label__QnA40 uzggunum
+__label__QnA40 uzguunum
+__label__QnA40 uzgunnum
+__label__QnA40 uzgunuum
+__label__QnA40 uzgunumm
+__label__QnA40 üzgnüm
+__label__QnA40 üzgnüm
+__label__QnA40 üzgünm
+__label__QnA40 üzünüm
+__label__QnA40 üzünüm
+__label__QnA40 üzgünüm.
+__label__QnA40 zugunum
+__label__QnA40 uzgunum.
+__label__QnA40 mutsuzum
+__label__QnA40 çok mutsuzum
+__label__QnA40 üzüldüm
+__label__QnA40 uzuldum
+__label__QnA40 mmutsuzum
+__label__QnA40 muutsum
+__label__QnA40 muttsuzum
+__label__QnA40 mutssuzum
+__label__QnA40 mutsuuzum
+__label__QnA40 mutsuzzum
+__label__QnA40 mutsuzuum
+__label__QnA40 mutsuzumm
+__label__QnA40 mtsuzum
+__label__QnA40 mtszm
+__label__QnA40 mtsuzm
+__label__QnA40 mtszum
+__label__QnA40 mutszum
+__label__QnA40 mutuzum
+__label__QnA40 hiç keyfim yok
+__label__QnA40 hıc keyfım yok
+__label__QnA40 hiç keyfimyok
+__label__QnA40 hıc keyfımyok
+__label__QnA40 keyfımyok
+__label__QnA40 keyfimyok
+__label__QnA40 kkeyfim yok
+__label__QnA40 keyim yok
+__label__QnA40 keeyfim yok
+__label__QnA40 keyfim ypk
+__label__QnA40 keyyfim yok
+__label__QnA40 keyffim yok
+__label__QnA40 keyfiim yok
+__label__QnA40 keyfimm yok
+__label__QnA40 keyfim yyok
+__label__QnA40 keyf
+__label__QnA40 m yok
+__label__QnA40 keyfim yook
+__label__QnA40 keyfim yokk
+__label__QnA40 moralim bozuk
+__label__QnA40 moralimbozuk
+__label__QnA40 moralım bozuk
+__label__QnA40 moralımbozuk
+__label__QnA40 mralim bozk
+__label__QnA40 mralim bozuk
+__label__QnA40 moralm bozk
+__label__QnA40 moralm bozk
+__label__QnA40 moralm bzuk
+__label__QnA40 moralsizim
+__label__QnA40 moralsızım
+__label__QnA40 mmoralsizim
+__label__QnA40 moralszim
+__label__QnA40 mooralsizim
+__label__QnA40 morralsizim
+__label__QnA40 moraalsizim
+__label__QnA40 morallsizim
+__label__QnA40 moralssizim
+__label__QnA40 moralsiizim
+__label__QnA40 moralsizzim
+__label__QnA40 moralsiziim
+__label__QnA40 moralsizimm
+__label__QnA40 yıkığım
+__label__QnA40 yıkıkım
+__label__QnA40 yyıkığım
+__label__QnA40 yıkıgım
+__label__QnA40 yııkığım
+__label__QnA40 yıkkığım
+__label__QnA40 yıkıığım
+__label__QnA40 yıkığğım
+__label__QnA40 yıkığıım
+__label__QnA40 yıkığıım
+__label__QnA40 yıkığımm
+__label__QnA40 keyıfsızım
+__label__QnA40 keyifsizim
+__label__QnA40 keeyifsizim
+__label__QnA40 kkeyifsizim
+__label__QnA40 keyyifsizim
+__label__QnA40 keyiifsizim
+__label__QnA40 keyiffsizim
+__label__QnA40 keyifsizin
+__label__QnA40 keyifssizim
+__label__QnA40 keyifsiizim
+__label__QnA40 keyifsizzim
+__label__QnA40 keyifsiziim
+__label__QnA40 keyifsizimm
+__label__QnA40 eyifsizim
+__label__QnA40 keyfiszim
+__label__QnA40 keyifsizi
+__label__QnA40 kefifsizim
+__label__QnA40 üzünüm
+__label__QnA40 üzgümüm
+__label__QnA40 üzgünüm
+__label__QnA40 çom üzgünüm
+__label__QnA40 çok üzgünüm
+__label__QnA40 çok üzüntülüyüm
+__label__QnA40 üzüntülüyüm
+__label__QnA40 uzuntuluyum
+__label__QnA40 üzüntülüyüm
+__label__QnA40 üüzüntülüyüm
+__label__QnA40 üzzüntülüyüm
+__label__QnA40 üzüntüşülüm
+__label__QnA40 üzüüntülüyüm
+__label__QnA40 üzünnntülüyüm
+__label__QnA40 üzünttülüyüm
+__label__QnA40 üzüntüülüyüm
+__label__QnA40 üzüntüllüyüm
+__label__QnA40 üzüntülüüyüm
+__label__QnA40 üzüntülüyyüm
+__label__QnA40 üzüntülüyüüm
+__label__QnA40 üzüntülüyümm
+__label__QnA40 düşüğüm
+__label__QnA40 düşüğüm bugün
+__label__QnA40 dusugumbugun
+__label__QnA40 dusugum bugun
+__label__QnA40 çok düşüğüm
+__label__QnA40 çokdüşüğüm
+__label__QnA40 cokdusugum
+__label__QnA40 cok dusugum
+__label__QnA40 ddüşüğüm
+__label__QnA40 düüşüğüm
+__label__QnA40 düşşüğüm
+__label__QnA40 düşüğüö
+__label__QnA40 düşüüğüm
+__label__QnA40 düşüğğüm
+__label__QnA40 düşüğüüm
+__label__QnA40 düşüğümm
+__label__QnA40 benı uzdun
+__label__QnA40 benıuzdun
+__label__QnA40 beni üzdün çok
+__label__QnA40 moralimi bozdun
+__label__QnA40 beni züdün
+__label__QnA40 benü üzdün
+__label__QnA40 beni üzdün
+__label__QnA40 bbeni üzdün
+__label__QnA40 beeni üzdün
+__label__QnA40 benii üzdün
+__label__QnA40 beni üüzdün
+__label__QnA40 ben
+__label__QnA40 üzdün
+__label__QnA40 beni üzzdün
+__label__QnA40 beni üzddün
+__label__QnA40 beni üzdüün
+__label__QnA40 beni üzdünn
+__label__QnA40 üzüyosun
+__label__QnA40 üzüyorsun
+__label__QnA40 uzuyosun
+__label__QnA40 üzüypsun
+__label__QnA40 uzuypsun
+__label__QnA40 üzüyprsun
+__label__QnA40 uzuyprsun
+__label__QnA40 üüzüyosun
+__label__QnA40 üzzüyosun
+__label__QnA40 üzüüyosun
+__label__QnA40 üzüyyosun
+__label__QnA40 üzüyoosun
+__label__QnA40 üzüyossun
+__label__QnA40 üzüyosuun
+__label__QnA40 üzüyosunn
+__label__QnA40 üzüyon
+__label__QnA40 üzüyon beni
+__label__QnA40 üüzüyon
+__label__QnA40 üzzüyon
+__label__QnA40 üzüüyon
+__label__QnA40 üzüyyon
+__label__QnA40 üzüyoon
+__label__QnA40 üzüyonn
+__label__QnA40 üzyosun
+__label__QnA40 üzüyosn
+__label__QnA40 üzysn
+__label__QnA40 ck uzgnm
+__label__QnA40 çk uzgnm
+__label__QnA40 çk kyfszm
+__label__QnA40 çk keyfsizim
+__label__QnA40 çk keyfsizm
+__label__QnA40 moralim sıfır
+__label__QnA40 moralım sıfır
+__label__QnA40 moralm sıfır
+__label__QnA40 moralman bittim
+__label__QnA40 moralmana çöküntüdeyim
+__label__QnA40 moralman çöktüm
+__label__QnA40 moralman çöküntüdeyim
+__label__QnA40 bittim ben
+__label__QnA40 bıttım ben
+__label__QnA40 ben bıttım
+__label__QnA40 ben bittim
+__label__QnA40 bitik aldeyim
+__label__QnA40 bitik haldeyim
+__label__QnA40 çökmüş haldeyim
+__label__QnA40 çökmüş vaziyetteyim
+__label__QnA40 patronumla kavga ettim
+__label__QnA40 patronum beni işten attı
+__label__QnA40 patronum beni işten cıkardı
+__label__QnA40 patronum beni işten çıkardı
+__label__QnA40 sevgilimden ayrıldım
+__label__QnA40 sevgılımden ayrıldım
+__label__QnA40 arkadşaımla kavga ettim
+__label__QnA40 arkadaşımla kavga ettim
+__label__QnA40 kovuldum
+__label__QnA40 patronum beni kovdu
+__label__QnA40 işten kovuldum
+__label__QnA40 isten kovuldum
+__label__QnA40 isten cıkarıldım
+__label__QnA40 işten çıkarıldım
+__label__QnA40 annemle kavga eettim
+__label__QnA40 annemle kavga ettim
+__label__QnA40 ailemle kavga ettim
+__label__QnA40 moralım 0
+__label__QnA40 moralim 0
+__label__QnA40 moralim 0ın altında
+__label__QnA40 moralim sıfırlandı
+__label__QnA40 sınıfta kaldım
+__label__QnA40 kaza yaptım
+__label__QnA40 kaza yaptim
+__label__QnA40 arabama çarptılar
+__label__QnA40 arabama carptilar
+__label__QnA40 araba vurdular
+__label__QnA40 yıkıldım
+__label__QnA40 yikildilm
+__label__QnA40 yikildim
+__label__QnA40 ykıldım
+__label__QnA40 yıkldım
+__label__QnA40 yıkıldm
+__label__QnA41 ynalış
+__label__QnA41 yanlış
+__label__QnA41 yanlis
+__label__QnA41 yanlıs
+__label__QnA41 yalnış
+__label__QnA41 yalnıs
+__label__QnA41 yalnş
+__label__QnA41 yalnis
+__label__QnA41 yyanlış
+__label__QnA41 yaanlış
+__label__QnA41 yannlış
+__label__QnA41 yanllış
+__label__QnA41 yanlıış
+__label__QnA41 yanlışş
+__label__QnA41 ynlış
+__label__QnA41 yanlş
+__label__QnA41 yalnş
+__label__QnA41 ylnış
+__label__QnA41 dorğu değil
+__label__QnA41 doğru değil
+__label__QnA41 dogru degil
+__label__QnA41 dorgu degil
+__label__QnA41 dorgu değil
+__label__QnA41 ddoğru değil
+__label__QnA41 dooğru değil
+__label__QnA41 doğğru değil
+__label__QnA41 doğrru değil
+__label__QnA41 dpğru değil
+__label__QnA41 doğruu değil
+__label__QnA41 doğru ddeğil
+__label__QnA41 doğru deeğil
+__label__QnA41 doğru değğil
+__label__QnA41 doğru değiil
+__label__QnA41 doğrı değil
+__label__QnA41 doğru değik
+__label__QnA41 doğru değill
+__label__QnA41 bu doğru değil
+__label__QnA41 bu dogru degil
+__label__QnA41 bu dogru degıl
+__label__QnA41 dogru degıl
+__label__QnA41 bbu doğru değil
+__label__QnA41 buu doğru değil
+__label__QnA41 bu ddoğru değil
+__label__QnA41 bu dooğru değil
+__label__QnA41 bu doğğru değil
+__label__QnA41 bu doğrru değil
+__label__QnA41 bu doğruu değil
+__label__QnA41 bu doğru ddeğil
+__label__QnA41 bu doğru deeğil
+__label__QnA41 bu doğru değğil
+__label__QnA41 bu doğru değiil
+__label__QnA41 bu doğru değill
+__label__QnA41 bu doğru değ
+__label__QnA41 l
+__label__QnA41 bu dogru degil
+__label__QnA41 bu dogru deg
+__label__QnA41 l
+__label__QnA41 bu dogru degik
+__label__QnA41 yyalnış
+__label__QnA41 yaalnış
+__label__QnA41 yallnış
+__label__QnA41 yalnnış
+__label__QnA41 yalnıış
+__label__QnA41 yalnışş
+__label__QnA41 hatalı
+__label__QnA41 htalı
+__label__QnA41 hatlı
+__label__QnA41 hhatalı
+__label__QnA41 hakalı
+__label__QnA41 haatalı
+__label__QnA41 hattalı
+__label__QnA41 hataalı
+__label__QnA41 hatallı
+__label__QnA41 hatalıı
+__label__QnA41 atalı
+__label__QnA41 hatal
+__label__QnA41 yatalı
+__label__QnA41 yatlı
+__label__QnA41 ytalı
+__label__QnA41 yatlı
+__label__QnA41 yanlış söyledin
+__label__QnA41 yanlış söledin
+__label__QnA41 yalnış söledin
+__label__QnA41 yalnış söyledin
+__label__QnA41 yyanlış söyledin
+__label__QnA41 yaanlış söyledin
+__label__QnA41 yannlış söyledin
+__label__QnA41 yanlış söylein
+__label__QnA41 yanllış söyledin
+__label__QnA41 yanlıış söyledin
+__label__QnA41 yanlışş söyledin
+__label__QnA41 yanlış ssöyledin
+__label__QnA41 yanlış sööyledin
+__label__QnA41 yanlış söyyledin
+__label__QnA41 yanlış söylledin
+__label__QnA41 yanlış söyleedin
+__label__QnA41 yanlış söyleddin
+__label__QnA41 yanlış söylediin
+__label__QnA41 yanlış söyledinn
+__label__QnA41 uanlış söyledin
+__label__QnA41 uanlış söledin
+__label__QnA41 uanlış soledın
+__label__QnA41 yyalnış söledin
+__label__QnA41 ylnış söledin
+__label__QnA41 ylnş söldin
+__label__QnA41 yalnş söldn
+__label__QnA41 yalnş söldn
+__label__QnA41 yalnş sldin
+__label__QnA41 yyalnış söyledin
+__label__QnA41 yaalnış söyledin
+__label__QnA41 yallnış söyledin
+__label__QnA41 yalnnış söyledin
+__label__QnA41 yalnıış söyledin
+__label__QnA41 yalnışş söyledin
+__label__QnA41 yalnış ssöyledin
+__label__QnA41 yalnış sööyledin
+__label__QnA41 yalnış söyyledin
+__label__QnA41 yalnış söylledin
+__label__QnA41 yalnış söyleedin
+__label__QnA41 yalnış söyleddin
+__label__QnA41 yalnş söyledin
+__label__QnA41 yalnş söledin
+__label__QnA41 yalnış söylediin
+__label__QnA41 yalnış söyledinn
+__label__QnA41 uanlış söledin
+__label__QnA41 uanlış söyledin
+__label__QnA41 uanlış ssöyledin
+__label__QnA41 uanlış sööyledin
+__label__QnA41 uanlış söyyledin
+__label__QnA41 uanlış söylledin
+__label__QnA41 uanlış söyleedin
+__label__QnA41 uanlış söyleddin
+__label__QnA41 uanlış söylediin
+__label__QnA41 uanlış söyledinn
+__label__QnA41 uanlış söledin
+__label__QnA41 uanlış ssöledin
+__label__QnA41 uanlış sööledin
+__label__QnA41 uanlış sölledin
+__label__QnA41 uanlış söleedin
+__label__QnA41 uanlış söleddin
+__label__QnA41 uanlış sölediin
+__label__QnA41 uanlış söledinn
+__label__QnA41 yanloş söyledin
+__label__QnA41 yalnoş söyledin
+__label__QnA41 hatalısın
+__label__QnA41 htalısın
+__label__QnA41 hatlısın
+__label__QnA41 htlsın
+__label__QnA41 htlısın
+__label__QnA41 hatlısın
+__label__QnA41 hatalsın
+__label__QnA41 hatalsn
+__label__QnA41 hatlsın
+__label__QnA41 htalısın
+__label__QnA41 hhatalısın
+__label__QnA41 haatalısın
+__label__QnA41 hattalısın
+__label__QnA41 hataalısın
+__label__QnA41 hatallısın
+__label__QnA41 hayatılısın
+__label__QnA41 hayalısın
+__label__QnA41 hatalıısın
+__label__QnA41 hatalıssın
+__label__QnA41 hatalısıın
+__label__QnA41 hatalısınn
+__label__QnA41 htalsın
+__label__QnA41 sen hatalısın
+__label__QnA41 sb hatalısın
+__label__QnA41 sn atalısın
+__label__QnA41 sn hatalısın
+__label__QnA41 sn htalısın
+__label__QnA41 sen hatalsın
+__label__QnA41 ssen hatalısın
+__label__QnA41 seen hatalısın
+__label__QnA41 senn hatalısın
+__label__QnA41 sen hhatalısın
+__label__QnA41 sen haatalısın
+__label__QnA41 sen hattalısın
+__label__QnA41 sen hataalısın
+__label__QnA41 sen hatallısın
+__label__QnA41 sen hatalıısın
+__label__QnA41 sen hatalıssın
+__label__QnA41 sen hatalısıın
+__label__QnA41 sen hatalısınn
+__label__QnA41 en hatalısın
+__label__QnA41 sen hatalı
+__label__QnA41 yanılgı
+__label__QnA41 büyük yanılgı
+__label__QnA41 büyük bir yanılgı
+__label__QnA41 yyanılgı
+__label__QnA41 yaanılgı
+__label__QnA41 yannılgı
+__label__QnA41 yanıılgı
+__label__QnA41 yanıllgı
+__label__QnA41 yanılggı
+__label__QnA41 yanılgıı
+__label__QnA41 yanlgı
+__label__QnA41 ynılgı
+__label__QnA41 anılgı
+__label__QnA41 yanılg
+__label__QnA41 kusurlu
+__label__QnA41 ksuurlusun
+__label__QnA41 kusurlusun
+__label__QnA41 burada kusurlusun
+__label__QnA41 burada ksulusun
+__label__QnA41 burada kuslusun
+__label__QnA41 olmadı bak bu
+__label__QnA41 olmadı bu
+__label__QnA41 yenildin
+__label__QnA41 yenıldın
+__label__QnA41 büyük kaybettin
+__label__QnA41 büyük kaybettin
+__label__QnA41 yanlışsın
+__label__QnA41 yannışsın
+__label__QnA41 yanlissin
+__label__QnA41 yanlışın bar
+__label__QnA41 yanlışın var
+__label__QnA41 yanlisin var
+__label__QnA41 bak burada yanlışın var
+__label__QnA41 bak burda yanlışın var
+__label__QnA41 bak burada yanlisin var
+__label__QnA41 dopru olsaydın keşke
+__label__QnA41 doğru olsaydı keşke
+__label__QnA41 doğru olsaydı keşke
+__label__QnA41 haklı değilsin
+__label__QnA41 haklı degılsın
+__label__QnA41 söylediklerin doru değil
+__label__QnA41 söylediklerin dorgru degil
+__label__QnA41 söylediklerin doğru değil
+__label__QnA41 hiç doğru değilsin
+__label__QnA41 hıc dogru degolsın
+__label__QnA41 hıc dogru degılsın
+__label__QnA41 bu olmadı şimdi
+__label__QnA41 bu olmadi simdi
+__label__QnA41 bu oldu mu simdi
+__label__QnA41 bu oldu mu şimdi
+__label__QnA42 yemek yapar mısın
+__label__QnA42 yemek yaparmısın
+__label__QnA42 yemek yapar misin
+__label__QnA42 yemek yaparmisin
+__label__QnA42 yemek yapabiliyo musun
+__label__QnA42 yemek yapabiliyor musun
+__label__QnA42 yemek yapabiliyomusun
+__label__QnA42 yemek yaoabiliyor musun
+__label__QnA42 yemek yapabiliyormusun
+__label__QnA42 yemek yapabilir misin
+__label__QnA42 yemek yapabilirmisin
+__label__QnA42 yemek yapabılır mısın
+__label__QnA42 yemek yapabılırmısın
+__label__QnA42 ymek yapablr mısın
+__label__QnA42 ymek yapablr misin
+__label__QnA42 yemk yapablr misin
+__label__QnA42 yemek yapablr mısın
+__label__QnA42 ymek yapablr misin
+__label__QnA42 yemek yapabilir misib
+__label__QnA42 yemek yapsana
+__label__QnA42 hadi yemek yap
+__label__QnA42 yemek yap bana
+__label__QnA42 yemek yapsan keşke
+__label__QnA42 hiç yemek yaptın mı
+__label__QnA42 yemek yaptın mı
+__label__QnA42 yemek yaptın mı hiç
+__label__QnA42 yemek yapma özelliğin var mı
+__label__QnA42 yemek yapma çzelliğin var mı
+__label__QnA42 yemek yapma yetenğin var mı
+__label__QnA42 yemek yapmak gibi bir yeteneğin var mı
+__label__QnA42 yemek yapmak gibi bir yeteğin var mı
+__label__QnA42 yemek yapmaye yeteneğin var mı
+__label__QnA42 yemek yapmaya yeteneğin var mı
+__label__QnA42 hiç yepemek yapar mısın
+__label__QnA42 hiç yemek yapar mısın
+__label__QnA42 yepemek yapar mısın
+__label__QnA42 yemek yağtığın oluyor mı
+__label__QnA42 yemek yaptığın oluyor mu
+__label__QnA42 hiç yemek yaptuğın oluyor mu
+__label__QnA42 hiç yemek yaptığın oluyor mu?
+__label__QnA42 hiç yemek yaptığın oluyor mu
+__label__QnA42 hiç yemek yaptığın oldu mu
+__label__QnA42 yyemek yapar mısın
+__label__QnA42 yeemke yapar mısın
+__label__QnA42 yeemek yapar mısın
+__label__QnA42 yemmek yapar mısın
+__label__QnA42 yemeek yapar mısın
+__label__QnA42 yemek yyapar mısın
+__label__QnA42 yemek yaapar mısın
+__label__QnA42 yemek yappar mısın
+__label__QnA42 yemek yapar misin
+__label__QnA42 yemek yappaar msın
+__label__QnA42 yemek yapaar mısın
+__label__QnA42 yemek yaparr mısın
+__label__QnA42 yemek yapar mmısın
+__label__QnA42 yemek yapar mıısın
+__label__QnA42 yemek yapar mıssın
+__label__QnA42 yemek yapar mısıın
+__label__QnA42 yemek yapar mosın
+__label__QnA42 yemek yapar mısınn
+__label__QnA42 yemek yapsaana
+__label__QnA42 yemek yapsana
+__label__QnA42 yemek yapasana bana
+__label__QnA42 yemek yapsana bena
+__label__QnA42 yemek yapsana bana
+__label__QnA42 hadi ban ymeek yap
+__label__QnA42 hadi ban yemek yap
+__label__QnA42 hadi bana yemekyap
+__label__QnA42 yemk
+__label__QnA42 ymek
+__label__QnA42 yaoar mısın yemek
+__label__QnA42 yapoar mısın yemek
+__label__QnA42 yapar mısın yemek
+__label__QnA42 yapar msıın yemek
+__label__QnA42 yapar mısın yemek
+__label__QnA42 hç ymek yaptıpun oldu mu
+__label__QnA42 hç ymek yaptığın oldu mu
+__label__QnA42 hç ymek yaptıgın oldu mu
+__label__QnA42 iç yemek yaptığın oldu mu
+__label__QnA42 hiç yemek yaptığın old mu
+__label__QnA42 hiç yemek yaptığın oldu m
+__label__QnA42 haydi bana ymek yap
+__label__QnA42 haydi bana yemek yap
+__label__QnA42 haydi yemek yap
+__label__QnA42 haydi ymrk yap
+__label__QnA42 haydi ymek yap
+__label__QnA42 ymek yapar mısın
+__label__QnA42 ymek yapar mısın
+__label__QnA42 ymke yapar mısın
+__label__QnA42 ymek ypar mısın
+__label__QnA42 ymek yapabilir misin
+__label__QnA42 ymek ypblr misin
+__label__QnA42 yemk ypma özelliğin bar mo
+__label__QnA42 yemk ypma özelliğin bar mı
+__label__QnA42 yemk ypma özelliğin var mı
+__label__QnA42 yemek yapabiliyor muydun
+__label__QnA42 ymek yapabiliyor muydun
+__label__QnA42 yenek yapabiliyor muydun
+__label__QnA42 yemek yapabiliyornuydun
+__label__QnA42 yemek yapabiliyor nuydun
+__label__QnA42 yemek yapab
+__label__QnA42 liyor muydun
+__label__QnA42 yemek yapab
+__label__QnA42 liyormuydun
+__label__QnA42 yemek yapab
+__label__QnA42 şiyomuydun
+__label__QnA42 yemek yapabil
+__label__QnA42 yormuydun
+__label__QnA42 ymek yapabilir miydin
+__label__QnA42 ymek yapavilirmiydin
+__label__QnA42 ymek yapabilirmiydin
+__label__QnA42 yemek ypabilirmiydin
+__label__QnA42 yemek ypabilir miydin
+__label__QnA42 yemek yepebiliyor msun
+__label__QnA42 yemek yepebiliyor musun
+__label__QnA42 elinden iş gelir mi
+__label__QnA42 elinden is gelir mi
+__label__QnA42 eln lezzetli mi
+__label__QnA42 elin lezzetli midir
+__label__QnA42 elin lezzetli mi
+__label__QnA42 senin elin lezzetli mi
+__label__QnA42 elin lezzetli mi?
+__label__QnA42 elın lezzetlı mı
+__label__QnA42 elinden hç iş gelir mi
+__label__QnA42 elinden giç iş gelir mi
+__label__QnA42 elinden hiç iş gelir mi
+__label__QnA42 elindne hiç iş gelir mi
+__label__QnA42 elinden iş geliyo mu
+__label__QnA42 elinden iş geliyor mu
+__label__QnA42 elinden iş geliyor mu?
+__label__QnA42 güzel yemek yapabiliyo musun
+__label__QnA42 güzel yemek yapabiliyor musun
+__label__QnA42 güzel yemek yaptığın oluyor mu
+__label__QnA42 yemeği güzel mi yaparsın
+__label__QnA42 en güzel yaptığın uemke ne
+__label__QnA42 en güzel yaptığın yemek ne
+__label__QnA42 en güzel yağtığın yemek nedir
+__label__QnA42 en güzel yaptıpın yemek nedir
+__label__QnA42 en güzel yaptığın yemek nedir?
+__label__QnA42 en lezzetli yemeğin ne
+__label__QnA42 en güzel yaptığın yemeği söyle bana
+__label__QnA43 oyunu kime vereceksib
+__label__QnA43 ounu kime vereceksin
+__label__QnA43 ounu kime vereceksin?
+__label__QnA43 oyunu kime vereceksin?
+__label__QnA43 oyun kime?
+__label__QnA43 oyun kime
+__label__QnA43 ooyun kime
+__label__QnA43 oyyun kime
+__label__QnA43 oyuun kime
+__label__QnA43 oyunn kime
+__label__QnA43 oyun kkime
+__label__QnA43 oyun kiime
+__label__QnA43 oyun kimme
+__label__QnA43 oyun kimee
+__label__QnA43 oyn kme
+__label__QnA43 oyun kıme
+__label__QnA43 oyn kime
+__label__QnA43 oyn kıme
+__label__QnA43 oyun kim için
+__label__QnA43 oyun kım ıcın
+__label__QnA43 oyun kimiçin
+__label__QnA43 oyun kımıcın
+__label__QnA43 ooyun kim için
+__label__QnA43 oyun kimn için?
+__label__QnA43 oyun kimb için
+__label__QnA43 oyun kimn için
+__label__QnA43 oyyun kim için
+__label__QnA43 oyuun kim için
+__label__QnA43 oyunn kim için
+__label__QnA43 oyun kkim için
+__label__QnA43 oyun kiim için
+__label__QnA43 oyun kimm için
+__label__QnA43 oyun kim iiçin
+__label__QnA43 oyun kim iççin
+__label__QnA43 oyun kim içiin
+__label__QnA43 oyun kim içinn
+__label__QnA43 oun kime
+__label__QnA43 oyum kime
+__label__QnA43 oyum kime?
+__label__QnA43 senin oyun kime
+__label__QnA43 senin oyun jime
+__label__QnA43 senn oyn kme
+__label__QnA43 snin oyn kme
+__label__QnA43 snin oyun kime
+__label__QnA43 senn oyun kme
+__label__QnA43 senn oyun kme
+__label__QnA43 ssenin oyun kime
+__label__QnA43 seenin oyun kime
+__label__QnA43 sennin oyun kime
+__label__QnA43 seniin oyun kime
+__label__QnA43 seninn oyun kime
+__label__QnA43 senin ooyun kime
+__label__QnA43 senin oyyun kime
+__label__QnA43 senin oyuun kime
+__label__QnA43 senin oyunn kime
+__label__QnA43 senin oyun kkime
+__label__QnA43 senin oyun kiime
+__label__QnA43 senin oyun kimme
+__label__QnA43 senin oyun kimee
+__label__QnA43 senın oyun kıme
+__label__QnA43 snin oyun kme
+__label__QnA43 senin oyn kme
+__label__QnA43 senin oyn kime
+__label__QnA43 senin oyun kime?
+__label__QnA43 bu seçimde oyunu kime verecekisn
+__label__QnA43 buseçimde oyunu kime vereceksin
+__label__QnA43 bu seçimde oyunu kime vereceksin
+__label__QnA43 bu seçimde oyunu kime verceksin
+__label__QnA43 bbu seçimde oyunu kime vereceksin
+__label__QnA43 buu seçimde oyunu kime vereceksin
+__label__QnA43 bu sseçimde oyunu kime vereceksin
+__label__QnA43 bu seeçimde oyunu kime vereceksin
+__label__QnA43 bu seççimde oyunu kime vereceksin
+__label__QnA43 bu seçiimde oyunu kime vereceksin
+__label__QnA43 bu seçimmde oyunu kime vereceksin
+__label__QnA43 bu seçimdde oyunu kime vereceksin
+__label__QnA43 bu seçimdee oyunu kime vereceksin
+__label__QnA43 bu seçimdee oyunu kime vereceksin
+__label__QnA43 bu seçimde ooyunu kime vereceksin
+__label__QnA43 bu seçimde oyyunu kime vereceksin
+__label__QnA43 bu seçimde oyuunu kime vereceksin
+__label__QnA43 bu sçeimde oyunu kime vereceksin
+__label__QnA43 bu seçimde oyuunu kime vereceksin
+__label__QnA43 bu seçimde oyunnu kime vereceksin
+__label__QnA43 bu seçimde oyunuu kime vereceksin
+__label__QnA43 bu seçimde oyunu kkime vereceksin
+__label__QnA43 bu seçimde oyunu kiime vereceksin
+__label__QnA43 bu seçimde oyunu kime vereceksib
+__label__QnA43 bu seçimde oyunu kimme vereceksin
+__label__QnA43 bu seçimde ıyunu kime vereceksin
+__label__QnA43 seçimlerde oyunu kime vereceksin
+__label__QnA43 seçimlerde kime oy vereceksib
+__label__QnA43 seçimlerde kime oy bereceksin
+__label__QnA43 seçimlerde kime oy vereceksin
+__label__QnA43 bu seçimlerde kime oyunu vereceksin
+__label__QnA43 bu seçimlerde oyunu kime vereceksin
+__label__QnA43 u seçimlerde oyunu kime vereceksin
+__label__QnA43 bu seimlerde oyunu kime vereceksin
+__label__QnA43 bu seçimlerde oyunu ime vereceksin
+__label__QnA43 oyunu kime vermeyi düşünüyorsun
+__label__QnA43 oyunu kime vermeyi düşünüypsun
+__label__QnA43 oyunu kime vermeyi düşnüyosun
+__label__QnA43 oyunu kime vermeyi düşünüyosun
+__label__QnA43 oyunu kime vermeyi düşünüosun
+__label__QnA43 oyunu kieme vericeksin
+__label__QnA43 oyunu kieme vereceksin
+__label__QnA43 oyunu kime vericeksin
+__label__QnA43 oyunu kime veriyon
+__label__QnA43 oyunu kime veriyosun
+__label__QnA43 oyunu kime vermeyi düşnüyorsun
+__label__QnA43 oyunu kime vermeyi düşünüyorsun
+__label__QnA43 seçimelrde hangi partiye oy vereceksin
+__label__QnA43 seçimlerde hangi partiye oy verceksin
+__label__QnA43 seçimlerde hangi pariye oy vereceksin
+__label__QnA43 seçimlerde hangi partiye oy vericeksin
+__label__QnA43 seçimlerde haigi partiye oy vereceksin
+__label__QnA43 seçimlerde hangi partiye oy vereceksib
+__label__QnA43 hdp’ye mi oy vereceksin
+__label__QnA43 mhp’ye mi oy vereceks
+__label__QnA43 n
+__label__QnA43 mhp’ye mi oy vereceksin
+__label__QnA43 mhp’ye mi oy verecekib
+__label__QnA43 chp’ye mi oy vereceksin
+__label__QnA43 chp’ye mi oy verceksin
+__label__QnA43 iyi partiye mi oy vercen
+__label__QnA43 iyi parti’ye mi oy vereceksin
+__label__QnA43 akp’ye mi oy verceksin
+__label__QnA43 akp’ye oy verceksin misin
+__label__QnA43 akp’ye oy verecek misin
+__label__QnA43 akp’ye oy bercek misin
+__label__QnA43 akp’ye oy vercek misin
+__label__QnA43 chp’ye oy vercek misin
+__label__QnA44 politik görüşün ne
+__label__QnA44 polıtık gorusun ne
+__label__QnA44 poltik görüşün ne
+__label__QnA44 pltik görüşün ne
+__label__QnA44 politk görüşün ne
+__label__QnA44 politk görşn ne
+__label__QnA44 politik görşn ne
+__label__QnA44 olitik görüşün ne
+__label__QnA44 politik görüşün n
+__label__QnA44 politk grüşün ne
+__label__QnA44 politk grüşüm ne
+__label__QnA44 politik görüşüm ne
+__label__QnA44 ppolitik görüşün ne
+__label__QnA44 poolitik görüşün ne
+__label__QnA44 politik görşün ne
+__label__QnA44 pollitik görüşün ne
+__label__QnA44 poliitik görüşün ne
+__label__QnA44 polittik görüşün ne
+__label__QnA44 politiik görüşün ne
+__label__QnA44 politikk görüşün ne
+__label__QnA44 politik ggörüşün ne
+__label__QnA44 poliitk göörüşün ne
+__label__QnA44 politik göörüşün ne
+__label__QnA44 politik görrüşün ne
+__label__QnA44 politik görüüşün ne
+__label__QnA44 politik görüşşün ne
+__label__QnA44 politik görüşüün ne
+__label__QnA44 politik görüşünn ne
+__label__QnA44 politik görüşün nne
+__label__QnA44 politik görüşün nee
+__label__QnA44 politik görüşünne
+__label__QnA44 politik görüşün ne?
+__label__QnA44 politik görüğüşün ne
+__label__QnA44 politil görüşün ne
+__label__QnA44 politik görüşün nedir?
+__label__QnA44 politik gçrüşün ne
+__label__QnA44 poliitk gçrüşün nedir
+__label__QnA44 politik görüşün nedir
+__label__QnA44 politik gçrüşün nedir
+__label__QnA44 poltik görüşün nedir
+__label__QnA44 poltik görşün nedr
+__label__QnA44 olitik görüşün nedir
+__label__QnA44 politik görüşün nedi
+__label__QnA44 plitik görüşün nedr
+__label__QnA44 poltik görşün ndir
+__label__QnA44 poltik görşün nedr
+__label__QnA44 ppoliitk görüşün nedir
+__label__QnA44 poolitik görüşün nedir
+__label__QnA44 pollitik görüşn nedir
+__label__QnA44 politik görüşüm nedir
+__label__QnA44 poliitik görüşün nedir
+__label__QnA44 polittik görüşün nedir
+__label__QnA44 politiik görüşün nedir
+__label__QnA44 politikk görüşün nedir
+__label__QnA44 politik ggörüşün nedir
+__label__QnA44 politik görüşün ned
+__label__QnA44 r
+__label__QnA44 politik göörüşün nedir
+__label__QnA44 politik görrüşün nedir
+__label__QnA44 politik görüüşün nedir
+__label__QnA44 politik görüşşün nedir
+__label__QnA44 politik görüşüün nedir
+__label__QnA44 politik görüşün nnedir
+__label__QnA44 politik görüşün needir
+__label__QnA44 politik görüşün neddir
+__label__QnA44 politik görüşün nediir
+__label__QnA44 politik görüşün nedirr
+__label__QnA44 politik görüşünnedir
+__label__QnA44 politik görüşünedir
+__label__QnA44 pol
+__label__QnA44 t
+__label__QnA44 k görüşün nedir
+__label__QnA44 polit
+__label__QnA44 k gçrüşün nedir
+__label__QnA44 politik gçrüşün nedir
+__label__QnA44 politik görüşün nedr
+__label__QnA44 p
+__label__QnA44 litik görüşün nedir
+__label__QnA44 pol
+__label__QnA44 tik görüşün nedir
+__label__QnA44 polit
+__label__QnA44 k görüşün nedir
+__label__QnA44 politik görüşünü öğrenebilir miyim
+__label__QnA44 politik görüşünü öğrenevilir miyim
+__label__QnA44 politik görüşünü öğrenebilir miyim
+__label__QnA44 politik görüşünü öğrenebilirmiyim
+__label__QnA44 politik görüşünü öğrenebilir miyim?
+__label__QnA44 politik görüşn
+__label__QnA44 politik görüşün?
+__label__QnA44 polıtık gorusun?
+__label__QnA44 plitik grusun
+__label__QnA44 politik görüşün
+__label__QnA44 pltik görüşün
+__label__QnA44 politik görüşünü söyler misin
+__label__QnA44 politik görüşünü söyler misib
+__label__QnA44 politik görüşünü söyler misin?
+__label__QnA44 polştik görüşün
+__label__QnA44 politik görüşünü söylermisin?
+__label__QnA44 politil görüşünü sçylesene
+__label__QnA44 poltik görüşünü sölesene
+__label__QnA44 poltik görüşünü söylesne
+__label__QnA44 poltik görüşünü söylesene
+__label__QnA44 politik görüşünü söylesne
+__label__QnA44 siyasigörüşün ne
+__label__QnA44 siyasi görüşün ne
+__label__QnA44 siyasi görüşünne
+__label__QnA44 siyasi görüşüne
+__label__QnA44 sıyası gorusun ne
+__label__QnA44 ssiyasi görüşün ne
+__label__QnA44 siyasi görüşün ne?
+__label__QnA44 siiyasi görüşün ne
+__label__QnA44 siyyasi görüşün ne
+__label__QnA44 siyasi gçrüşün ne
+__label__QnA44 siyaasi görüşün ne
+__label__QnA44 siyassi görüşün ne
+__label__QnA44 siyasii görüşün ne
+__label__QnA44 siyasi ggörüşün ne
+__label__QnA44 siyasi göörüşün ne
+__label__QnA44 siyasi görrüşün ne
+__label__QnA44 siyasi görüüşün ne
+__label__QnA44 siyasi görüşşün ne
+__label__QnA44 siyasi görüşüün ne
+__label__QnA44 siyasi görüşün nne
+__label__QnA44 siyasi görüşün nee
+__label__QnA44 siyasi gorusun ne
+__label__QnA44 siyasi görşün ne
+__label__QnA44 siyasi görüşün n
+__label__QnA44 iyasi görüşün ne
+__label__QnA44 syasi görüşün ne
+__label__QnA44 syasi grüşün ne
+__label__QnA44 siysi grüşün ne
+__label__QnA44 syasi görüşün ne
+__label__QnA44 siyasi grşün ne
+__label__QnA44 siyasi görüşün nedir
+__label__QnA44 siyasi görüşün nedir?
+__label__QnA44 siysi görüşün nedr
+__label__QnA44 siysi görüşün nedir
+__label__QnA44 siyasi görüşün nedr
+__label__QnA44 siysi görüşün nedir
+__label__QnA44 siyasi görüşünü söyle
+__label__QnA44 siyasi görüşünü öğrenebilir miyim
+__label__QnA44 siyasi görüşü söyler misin
+__label__QnA44 chpli misin
+__label__QnA44 chplı mısın
+__label__QnA44 chplimisin
+__label__QnA44 chpli msn
+__label__QnA44 chpli misn
+__label__QnA44 chpli msin
+__label__QnA44 akpli misin
+__label__QnA44 akplı mısın
+__label__QnA44 akplımısın
+__label__QnA44 akplimiisn
+__label__QnA44 akplimisin
+__label__QnA44 akpli msin
+__label__QnA44 akpli msn
+__label__QnA44 akpli misn
+__label__QnA44 mhpli miisn
+__label__QnA44 mhpl
+__label__QnA44 misin
+__label__QnA44 mhplı mısın
+__label__QnA44 mhpli misn
+__label__QnA44 mhpli msin
+__label__QnA44 erdoğan nasıl adam
+__label__QnA44 tayyip nasıl adam
+__label__QnA44 tayyip erdoğanı seviyor musun
+__label__QnA44 tauyip nasıl biri sence
+__label__QnA44 tayy
+__label__QnA44 p erdoğanı seviyor musun
+__label__QnA44 kemal kılıçtaroğlu nasıl adam
+__label__QnA44 kemal kıçtaroğlu
+__label__QnA44 kemal kılıçtaroğlunu seviyo musun
+__label__QnA44 kemal kılıçtaroğlunu seviyor musun
+__label__QnA44 hdpli misin
+__label__QnA44 hdpli misn
+__label__QnA44 hdpli msin
+__label__QnA44 sırrı süreyya nasıl adam
+__label__QnA44 sırrı süreyyayı seviyor musun
+__label__QnA44 muharrem ince
+__label__QnA44 muharem inceyi seviyor musun
+__label__QnA44 muharrem inceyi seviyor musun
+__label__QnA44 iyi partili misin
+__label__QnA44 iyi parti hakkında ne düşünüyorsun
+__label__QnA44 seçimlerde kimi destekliyorsun
+__label__QnA45 merhaba
+__label__QnA45 mrb
+__label__QnA45 meraba
+__label__QnA45 selam
+__label__QnA45 slm
+__label__QnA45 selm
+__label__QnA45 selaam
+__label__QnA45 selamm
+__label__QnA45 sselam
+__label__QnA45 seelam
+__label__QnA45 sellam
+__label__QnA45 selamün aleyküm
+__label__QnA45 selama
+__label__QnA45 sa
+__label__QnA45 merhabalar
+__label__QnA45 merhaabalar
+__label__QnA45 meerhabalar
+__label__QnA45 merabalar
+__label__QnA45 selamlar
+__label__QnA45 hello
+__label__QnA45 hi
+__label__QnA45 hellö
+__label__QnA45 merfhaba
+__label__QnA45 as
+__label__QnA45 iyi günler
+__label__QnA45 iyi akşamlar
+__label__QnA45 günaydın
+__label__QnA45 gunaydıın
+__label__QnA45 gunaydin
+__label__QnA45 iyi geceler
+__label__QnA45 iyi hafta sonları
+__label__QnA45 hayırlı cumalar
+__label__QnA45 hello
+__label__QnA45 iyi haftalar
+__label__QnA45 hayırlı işler
+__label__QnA45 hayırlı bayramlar olsun
+__label__QnA45 ii bayramlar
+__label__QnA45 iyi bayramlar
+__label__QnA45 iyi çalışmalar
+__label__QnA45 iyi çalışmalarr
+__label__QnA45 helloo
+__label__QnA45 merhaba kolay gelsin
+__label__QnA45 meraba kolay gelsin
+__label__QnA45 merba kolay gelsin
+__label__QnA45 merabaa kolay gelsin
+__label__QnA45 mrb
+__label__QnA45 iyi günler
+__label__QnA45 tekrar merhaba
+__label__QnA45 merhab
+__label__QnA45 kimse var mı
+__label__QnA45 kimse yok mu
+__label__QnA45 ii gunler
+__label__QnA45 gunaydın
+__label__QnA45 memnun oldum
+__label__QnA45 merhava
+__label__QnA45 selamlar
+__label__QnA45 selmlar
+__label__QnA45 slamlar
+__label__QnA45 sselamlar
+__label__QnA45 seelamlar
+__label__QnA45 sellamlar
+__label__QnA45 selaamlar
+__label__QnA45 selammlar
+__label__QnA45 selamllar
+__label__QnA45 selamlaar
+__label__QnA45 selamlarr
+__label__QnA45 as
+__label__QnA45 merava
+__label__QnA46 komik değil
+__label__QnA46 şaka mıydı bu
+__label__QnA46 nerde gülüyorduk
+__label__QnA46 nerde gülüyoduk
+__label__QnA46 neresinde gülmemiz gerekiyordu
+__label__QnA46 komik olduğunu mu sanıyorsun
+__label__QnA46 hiç komik değil
+__label__QnA46 hiç gülmedim
+__label__QnA46 komik değil saçma
+__label__QnA46 espri miydi bu
+__label__QnA46 espiri miydi bu
+__label__QnA46 espri mi yaptın hiç gülmedim
+__label__QnA46 espiri miydi bu komik değil
+__label__QnA46 şaka mı yapıyorsun komik değil
+__label__QnA46 şakaların komik değil
+__label__QnA46 sen komik değilsin
+__label__QnA46 hiç komik değilsin
+__label__QnA46 şakaların çok kötü
+__label__QnA46 şakanın neresinde gülmemiz gerekiyordu
+__label__QnA46 şaka yapmayı bilmiyorsun
+__label__QnA46 espiri yapmayı bilmiyorsun
+__label__QnA46 espri yapmayı bilmiyorsun
+__label__QnA46 mizah anlayışın yok
+__label__QnA46 mizahın çok kötü
+__label__QnA46 mizah anlayışın çok kötü
+__label__QnA46 gerçekten hiç komik değil
+__label__QnA46 seninle konuşmak daha komik olur diye düşünmüştüm
+__label__QnA46 beklediğim kadar komik değilsin
+__label__QnA46 seni daha komik sanmıştım
+__label__QnA46 komiklik nerde
+__label__QnA46 şaka mı yaptın anlaşılmıyor
+__label__QnA46 gülmedim
+__label__QnA46 gülmedik
+__label__QnA46 kötü şaka
+__label__QnA46 şakaların çok kötü
+__label__QnA46 şakaların hiç başarılı değil
+__label__QnA46 mizahını beğenmedim
+__label__QnA46 senin şakalarının daha komik olmasını beklerdim
+__label__QnA46 şaka mısın
+__label__QnA46 şaka gibisin
+__label__QnA46 keşke komik olsaydın
+__label__QnA46 keske komk olsaydin
+__label__QnA46 keske komik olsaydin
+__label__QnA46 kşke komk olsydın
+__label__QnA46 komik olmanı isterdim
+__label__QnA46 sana gülmek isterdim
+__label__QnA46 sana gülmeyi çok isterdim
+__label__QnA46 sna gülmeyi çk isterdm
+__label__QnA46 sana gulmeyi cok isterdim
+__label__QnA46 mizha anlayışın kötüymüş
+__label__QnA46 mizah mı bu
+__label__QnA46 mizah anlayisin kotuymus
+__label__QnA46 komik olmanı dilerdim
+__label__QnA46 komik olmanı isterdim
+__label__QnA46 keşke gülseydik
+__label__QnA46 keske gulseydik
+__label__QnA46 keske gulebilseydik
+__label__QnA46 sen espri yapma lütfen
+__label__QnA46 sen espiri yapma
+__label__QnA46 sen espiri yapma lütfen
+__label__QnA46 güldürmedi
+__label__QnA46 guldurmedi
+__label__QnA46 gulmedik
+__label__QnA46 gülmedik
+__label__QnA46 komik mi bu
+__label__QnA46 komik mi bu şimdi
+__label__QnA46 komik mi bu simdi
+__label__QnA46 gulmem mi gerekiyor
+__label__QnA46 gülmem mi gerekiyor
+__label__QnA46 gülmem mi gerekiyordu
+__label__QnA46 gülmem mi gerekiyordu?
+__label__QnA46 gülmemiz mi gerekiyordu
+__label__QnA46 buna gülmemiz mi gerekiyordu
+__label__QnA46 komk mi sanıyorsun kendini
+__label__QnA46 komik mi sanıyorsun kendini
+__label__QnA46 sen komik mi sanıyorsun kendini
