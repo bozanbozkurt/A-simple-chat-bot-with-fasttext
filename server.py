@@ -1,30 +1,21 @@
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
-
 # Imports
 import fasttext
-
 import flask
 from flask import request
 from flask import jsonify
 import json 
 import requests
 import random
-
 app = flask.Flask(__name__)
-
-model_name = 'model'
+model_name = 'model.bin'
 train_file_name = 'train_data.txt'
 response_file_name = 'story.json'
 treshold = 0.45
-
 def train( epochCount = 100, vectorSize = 5):
-    print("epochCount" )
-   
-    print(epochCount )
-    print("vectorSize" )
-    print(vectorSize )
+    print("Epoch Count: " , epochCount, " Vector Size: " , vectorSize)
     print('--- training started --- ' )
     model = fasttext.train_supervised(train_file_name, 
                                     lr=0.05,    #learning rate
@@ -35,34 +26,21 @@ def train( epochCount = 100, vectorSize = 5):
     model.save_model(model_name)
     print('--- training ended ---')
     return True
-
-
 def predict(query):
     texts = [query]
-    model = fasttext.load_model(model_name+'.bin')
+    model = fasttext.load_model(model_name)
     predT = model.predict(texts, k=3)
-    print("Predictions:")
-    print(predT)
-    print(predT[0])
-    #prediction = json.dumps(predT)
+    print("Predictions: ", predT)
     return predT
 
 def utter(prediction):
     response_file = open(response_file_name,'r')
     response = json.loads(response_file.read())
-
     processedPred = []
-
-    #prediction = json.loads(prediction)[0]
-
     preds = prediction[0][0]
     scores = prediction[1][0]
 
     for i in range(len(preds)):
-        print("---Pred:")
-        print(preds[i])
-        print("Score:")
-        print(scores[i])
         predItem = {}
         predItem["predName"] = preds[i]
         predItem["score"] = scores[i]
@@ -74,8 +52,7 @@ def utter(prediction):
             predItem["className"] = "NotFound"
             predItem["classActual"] = random.choice(utter_list)
         processedPred.append(predItem)
-        
-    print(processedPred)
+
     utter_list = response[preds[i]]
     return processedPred
 
@@ -88,17 +65,11 @@ def ask(query):
 @app.route('/demo/batchTest/',methods=['POST','GET'])
 def bathAsk():
     print("Batch Testing")
-    #print(request.get_json())
     bData = json.loads(request.get_json())
-    #threshold = json.loads(request.get_json()["treshold"])
-    #print(bData)
-    #print(threshold)
     score = 0
     all = 0
     for x in bData:
         cresult = ask (x["Query"])
-        #print("Recommended")
-        #print(x["Recommended"])
         print("Result")
         res1 = json.loads(cresult)[0]
         print(res1)
@@ -136,8 +107,6 @@ def demo():
         rData = json.loads(request.get_json()["textData"])
         vectorSize = json.loads(request.get_json()["vectorSize"])
         epochCount = json.loads(request.get_json()["epochCount"])
-        #print(rData)
-        #print(epochCount)
         QnAdata = rData["intents"]
         train_file = open(train_file_name,'w')
         response_file = open(response_file_name,'w')
