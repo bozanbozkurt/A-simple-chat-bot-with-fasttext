@@ -18,18 +18,16 @@ pip3 install requests
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Run server.py on your local. 
 
 ```
-Give the example
+python3 server.py
 ```
 
-And repeat
+Now check your localhost.
 
 ```
-until finished
+http://localhost/demo
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
