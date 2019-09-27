@@ -18,10 +18,14 @@ pip3 install requests
 
 ### Installing
 
-Run server.py on your local. 
+Run server.py on your local.
 
 ```
 python3 server.py
+```
+If you would like to use a port other than 80, say, 8080 use:
+```
+python3 server.py --port 8080
 ```
 
 Now check your localhost.
@@ -29,25 +33,30 @@ Now check your localhost.
 ```
 http://localhost/demo
 ```
+and if using a nonstandard port like 8080 check,
+
+```
+http://localhost:8080/demo
+```
 
 End with an example of getting some data out of the system or using it for a little demo
 
 ## Test
 
-In order to test the system, we first need to train our model with some data. 
+In order to test the system, we first need to train our model with some data.
 
 ### Train
 
-Copy the text on [sampleTurkish.json](sampleTurkish.json) and paste it on the FAQ area. 
-Enter 2000 as epoch and 20 as word vector size. 
-Hit the train button. 
-You will see "training completed" in a while. 
+Copy the text on [sampleTurkish.json](sampleTurkish.json) and paste it on the FAQ area.
+Enter 2000 as epoch and 20 as word vector size.
+Hit the train button.
+You will see "training completed" in a while.
 
 ### Query
 
-Now you can test your bot. 
-Enter a query and click on test. 
-Server should respond with a json as below. 
+Now you can test your bot.
+Enter a query and click on test.
+Server should respond with a json as below.
 
 ```
 [{
@@ -69,17 +78,17 @@ Server should respond with a json as below.
 }]
 ```
 
-If you look at the responses above, you will see the best result first. The classnames come from the sample data. 
+If you look at the responses above, you will see the best result first. The classnames come from the sample data.
 
 ## Important Notes
 
-Fasttext performs better with an extra NotFound class, having a huge number of arbitrary sentences. 
-If a class has less than 0.45 accurracy, we  accept it as ununderstood and the program returns NotFound className. 
-Threshold parameter can be updated in the code. 
+Fasttext performs better with an extra NotFound class, having a huge number of arbitrary sentences.
+If a class has less than 0.45 accurracy, we  accept it as ununderstood and the program returns NotFound className.
+Threshold parameter can be updated in the code.
 
 ## Deployment
 
-Fasttext supports Ubuntu, we recommend using it as it is hard to get fasttext running on other systems. 
+Fasttext supports Ubuntu, we recommend using it as it is hard to get fasttext running on other systems.
 
 ## Built With
 
@@ -93,7 +102,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
@@ -105,4 +114,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Special thanks to SOR'UN team in creating sample data. 
+* Special thanks to SOR'UN team in creating sample data.
