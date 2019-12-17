@@ -5,9 +5,11 @@ from __future__ import print_function
 import fasttext
 import flask
 from flask import Flask, request, jsonify, send_from_directory, render_template
-import json 
+import json
 import requests
 import random
+import argparse # MAA
+
 app = flask.Flask(__name__)
 model_name = 'model.bin'
 train_file_name = 'train_data.txt'
@@ -16,7 +18,7 @@ treshold = 0.45
 def train( epochCount = 100, vectorSize = 5):
     print("Epoch Count: " , epochCount, " Vector Size: " , vectorSize)
     print('--- training started --- ' )
-    model = fasttext.train_supervised(train_file_name, 
+    model = fasttext.train_supervised(train_file_name,
                                     lr=0.05,    #learning rate
                                     dim = 5,  #size of word vectors (orj 100)
                                     ws = vectorSize,     #size of context window
@@ -44,7 +46,7 @@ def utter(prediction):
         predItem["predName"] = preds[i]
         predItem["score"] = scores[i]
         utter_list = response[preds[i]]
-        #is best score bigger than treshold. 
+        #is best score bigger than treshold.
         if scores[i] > treshold:
             predItem["className"] = random.choice(utter_list)
         else :
@@ -78,15 +80,15 @@ def bathAsk():
            print("Correct")
            score += 1
         else:
-           print("False") 
+           print("False")
     batchScore = {}
     batchScore["success"] = score
-    batchScore["all"] = all  
+    batchScore["all"] = all
     print(batchScore)
     fRes = {"status":"success", "batchScore": batchScore }
     return jsonify(fRes)
     #return json.dumps(batchScore)
-   
+
 @app.route('/demo/example',methods=['GET'])
 def example():
     return  open("sampleTurkish.json").read()
@@ -116,7 +118,7 @@ def demo():
         response_file.close()
         train(epochCount, vectorSize)
         return jsonify('{"status":"success"}')
-    
+
     return '''
     <!doctype html>
     <html>
@@ -150,7 +152,7 @@ def demo():
                 }
                 function test(){
                     var testarea = $('#testarea').val()
- 
+
                     console.log(testarea )
                     $.ajax({
                         type: 'GET',
@@ -181,13 +183,13 @@ def demo():
             <p> Epoch: <input type="text" id="epocharea" value="100" placeholder="100" /> Word Vector Size: <input type="text" id="vectorsizearea" value="5" /></p>
             <button onclick="send()">train</button>
             <p id="text"></p>
-            
+
             <input type="text" id="testarea" placeholder="enter your query" />
             <button onclick="test()">test</button>
             <p id="testresult"></p>
             <p></p>
             <textarea id="batcharea" rows="10"></textarea>
-            
+
             <button onclick="batchtest()">batch test</button>
             <p id="batchresult">Naber</p>
         </body>
@@ -205,4 +207,12 @@ def demo():
     '''
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=80)
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--port', default='80', type=int)
+    args = parser.parse_args()
+    try:
+        app.run(host="0.0.0.0", port=args.port)
+    except PermissionError as e:
+        print ("You don't have enough priviledges to open a socket on port {}".format(args.port))
+        print ("Try to change the port to a value higher than 1024, with argument --port")
+        print (str(e))

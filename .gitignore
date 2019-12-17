@@ -1,0 +1,6 @@
+# Virtual environment files
+/venv
+/env
+
+# binary file
+*.bin
