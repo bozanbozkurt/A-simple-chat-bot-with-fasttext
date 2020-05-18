@@ -1,0 +1,9 @@
+dataset:
+  name: prosper
+  readme: prosper.md
+  visibility: protected
+  schema: prosper.yml
+  data: prosperLoanData.csv
+  host: www.bitfount.com
+  port: 443
+  path: dataset1
